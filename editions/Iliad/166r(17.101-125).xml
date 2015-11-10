@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>Unpublished version in progress</p>
+				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
+					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad,
+					Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile
+					prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
+					Marciana, M. Zorzi, Director.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<l n="101">Τρῶας ἐφ’ ἡμετέρας ἰέναι νέας, οἳ τὸ πάρος περ</l>
+				<l n="102">φυζακινῇς ἐλάφοισιν ἐοίκεσαν, αἵ τε καθ’ ὕλην</l>
+				<l n="103">θώων παρδαλίων τε λύκων τ’ ἤϊα πέλονται</l>
+				<l n="104">αὔτως ἠλάσκουσαι ἀνάλκιδες, οὐδ’ ἔπι χάρμη·</l> 
+				<l n="105">ὣς Τρῶες τὸ πρίν γε μένος καὶ χεῖρας Ἀχαιῶν</l>
+				<l n="106">μίμνειν οὐκ ἐθέλεσκον ἐναντίον, οὐδ’ ἠβαιόν·</l> 
+				<l n="107">νῦν δὲ ἑκὰς πόλιος κοίλῃς ἐπὶ νηυσὶ μάχονται</l>
+				<l n="108">ἡγεμόνος κακότητι μεθημοσύνῃσί τε λαῶν,</l>
+				<l n="109">οἳ κείνῳ ἐρίσαντες ἀμυνέμεν οὐκ ἐθέλουσι</l>
+				<l n="110">νηῶν ὠκυπόρων, ἀλλὰ κτείνονται ἀν’ αὐτάς.</l> 
+				<l n="111">ἀλλ’ εἰ δὴ καὶ πάμπαν ἐτήτυμον αἴτιός ἐστιν</l>
+				<l n="112">ἥρως Ἀτρεΐδης εὐρὺ κρείων Ἀγαμέμνων</l>
+				<l n="113">οὕνεκ’ ἀπητίμησε ποδώκεα Πηλεΐωνα,</l>
+				<l n="114">ἡμέας γ’ οὔ πως ἔστι μεθιέμεναι πολέμοιο.</l> 
+				<l n="115">ἀλλ’ ἀκεώμεθα θᾶσσον· ἀκεσταί τοι φρένες ἐσθλῶν.</l>
+				<l n="116">ὑμεῖς δ’ οὐκ ἔτι καλὰ μεθίετε θούριδος ἀλκῆς</l>
+				<l n="117">πάντες ἄριστοι ἐόντες ἀνὰ στρατόν. οὐδ’ ἂν ἔγωγε</l> 
+				<l n="120">ἀνδρὶ μαχεσσαίμην ὅς τις πολέμοιο μεθείη</l>
+				<l n="121">λυγρὸς ἐών· ὑμῖν δὲ νεμεσσῶμαι περὶ κῆρι.</l>
+				<l n="122">ὦ πέπονες τάχα δή τι κακὸν ποιήσετε μεῖζον</l>
+				<l n="123">τῇδε μεθημοσύνῃ· ἀλλ’ ἐν φρεσὶ θέσθε ἕκαστος</l>
+				<l n="124">αἰδῶ καὶ νέμεσιν· δὴ γὰρ μέγα νεῖκος ὄρωρεν.</l>
+				<l n="125">Ἕκτωρ δὴ παρὰ νηυσὶ βοὴν ἀγαθὸς πολεμίζει</l>
+				<l n="126">καρτερός, ἔρρηξεν δὲ πύλας καὶ μακρὸν ὀχῆα.</l>
+			</div>
+		</body>
+	</text>
+</TEI>
