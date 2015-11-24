@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>Unpublished version in progress</p>
+				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
+					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad,
+					Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile
+					prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
+					Marciana, M. Zorzi, Director.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<head>ἰλίαδος <num value="13">ν</num></head>		
+				<l n="51">ἕξουσιν γὰρ πάντας ἐϋκνήμιδες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοί</rs>·</l>
+				<l n="52">τῇ δὲ δὴ αἰνότατον περὶ δείδια μήτι πάθωμεν.</l>
+				<l n="53">ᾗ ρ᾽ ὅ γ᾽᾽ ὁ λυσσώδης. φλογὶ εἴκελος ἡγεμονεύει</l>
+				<l n="54"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>. ὃς <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> εὔχετ᾽ ἐρισθενέος πάϊς εἶναι·</l>
+				<l n="55">σφῶϊν δ᾽ ὧδε θεῶν τις ἐνὶ φρεσὶ ποιήσειεν.</l>
+				<l n="56">αὐτώ θ᾽ ἑστάμεναι κρατερῶς. καὶ ἀνωγέμεν ἄλλους.</l>
+				<l n="57">τῶ κε καὶ ἐσσύμενόνπερ ἐρωήσαιτ᾽ ἀπο νηῶν</l>
+				<l n="58">ὠκυπόρων. ἐί καί μιν <placeName n="urn:cite:hmt:place.place45">Ὀλύμπιος</placeName> αὐτὸς <choice><orig>ἐγείρει</orig><reg>ἐγείρηι</reg></choice>·</l>
+				<l n="59">ῆ· καὶ σκηπανίῳ γαιήοχος. ἐννοσίγαιος.</l>
+				<l n="60">ἀμφοτέρω κεκοπὼς. πλῆσεν μένεος κρατεροῖο·</l>
+				<l n="61">γυῖα δ᾽ ἔθηκεν ἐλαφρὰ. πόδας. καὶ χεῖρας ὕπερθεν·</l>
+				<l n="62">αὐτὸς δ᾽ ὥστ᾽ ἴ̈ρηξ ὠκύπτερος ὦρτο πέτεσθαι·</l>
+				<l n="63">ὅς ῥά τ᾽ ἀπ᾽ αἰγίλιπος πέτρης περιμήκεος ἀρθεὶς.</l>
+				<l n="64">ὁρμήσῃ πεδίοιο διώκειν ὄρνεον ἄλλο·</l>
+				<l n="65">ὡς. ἀπὸ τῶν ἤϊξε <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> ἐνοσίχθων·</l>
+				<l n="66">τοῖϊν δ᾽ ἔγνω πρόσθεν <persName n="urn:cite:hmt:pers.pers150">Ὀϊλῆος</persName> ταχὺς <persName n="urn:cite:hmt:pers.pers281">Αἴας</persName>.</l>
+				<l n="67">αἶψα δ᾽ άρ᾽ <persName n="urn:cite:hmt:pers.pers127">Ἀίαντα</persName> προσέφη <persName n="urn:cite:hmt:pers.pers605">Τελαμώνιον</persName> ὑιόν·</l>
+				<l n="68"><persName n="urn:cite:hmt:pers.pers127">Ἄιαν</persName>. ἐπεί τις νῶϊ θεῶν οἳ <placeName n="urn:cite:hmt:place.place45">Ὄλυμπον</placeName> ἔχουσι</l>
+				<l n="69">μάντεϊ εἰδόμενος κέλεται παρὰ νηυσὶ μάχεσθαι.</l>
+				<l n="70">οὐδ᾽ ὅ γε <persName n="urn:cite:hmt:pers.pers74">Κάλχας</persName> ἐστὶ θεοπρόπος οἰωνιστής.</l>
+				<l n="71">ἴ̈χνια γὰρ μετόπισθε ποδῶν ἠδὲ κνημάων</l>
+				<l n="72">ῥεῖ᾽ ἔγνων ἀπιόντος. ἀρίγνωτοι δὲ θεοί περ·</l>
+				<l n="73">καὶ δ᾽ ἐμοὶ ἀυτῷ θυμὸς ἐνι στήθεσσι φίλοισι</l>
+				<l n="74">μᾶλλον ἐφορμᾶται πολεμίζειν ἠδὲ μάχεσθαι.</l>
+				<l n="75">μαιμώωσι δ᾽ ἔνερθε πόδες. καὶ χεῖρες ὕπερθε·</l>
+			</div>
+		</body>
+	</text>
+</TEI>
