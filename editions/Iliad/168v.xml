@@ -33,13 +33,8 @@
 			<div n="13">
 				<head>ἰλίαδος <num value="13">ν</num></head>
 
-				<l n="178">νύξ `. ἐκ δ` ἐσπασεν ἔγχος. ὁ δ` αυτ` ἔπεσεν μελίη ὣς. </l>
-				<l n="79"/>
-				<l n="80"/>
-				<l n="81"/>
-				<l n="82"/>
-				<l n="83"/>
-				<l n="84"/>
+				<l n="256"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ ἐπεὶ οὖν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶάς</rs> τε καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> νηυσὶ πέλασσε.</l>
+				
 			</div>
 		</body>
 	</text>
