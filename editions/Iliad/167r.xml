@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -29,6 +29,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <div
             n="13">
             <l n="151">παρμένετ᾽· οὔ τοι δηρὸν ἐμὲ σχήσουσιν Ἀχαιοὶ</l> 
+            <l n="152">καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες.</l>
             </div>
       
     </body>
