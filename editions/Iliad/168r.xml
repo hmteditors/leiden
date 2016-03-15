@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -30,11 +31,8 @@
 	<text>
 		<body xml:lang="grc">
 			<div n="13">
-		
-
-				<l n="178">νύξ `. ἐκ δ` ἐσπασεν ἔγχος. ὁ δ` αυτ` ἔπεσεν μελίη ὣς. </l>
-				<l n="179">ἣ τ` ὄρεος κορυφῇ ἕκαθεν περιφαινομένοιο</l>
 				
+				<l n="205"> ἕκτωρ δὲ προπαροίθε ποδῶν πέσεν ἐν κονίηισι·</l>
 			</div>
 		</body>
 	</text>
