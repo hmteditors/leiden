@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -29,12 +29,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <div
             n="13">
             <l n="151">παρμένετ᾽· οὔ τοι δηρὸν ἐμὲ σχήσουσιν Ἀχαιοὶ</l> 
+<<<<<<< HEAD
+            <l n="152">καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες.</l>
+=======
             <l n="152"> καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες.</l>
             <l n="153">ἂλλ' ὀίω χάσσονται ὑπ έγχεος. εἰ ἐτεόν με</l>
             <l n="154">ὦρσε θεῶν <choice><sic>ὤριστος</sic> <corr>ὥριστος</corr></choice> ἐρ </l>
             <l n="155"></l>
             <l n="156"></l>
             <l n="157"></l>
+>>>>>>> b5c865fa859c2a6906274d62a6b178d87c54f539
             </div>
       
     </body>
