@@ -518,8 +518,12 @@
                                 τὸν <persName n="urn:cite:hmt:pers.pers127">αἴαντα</persName>· καὶ ῥητέον ὅτι φαντασίαν τινὰ παρέχει τὸ θεῖον ἐαυτοῦ</p>
                         </div>
                     </div>
+<<<<<<< HEAD
 					
 					<!--these are the scholia edited by Team 2. Include scholia edited by Team 1 here first-->
+=======
+                    <!--these are the scholia edited by Team 2. Include scholia edited by Team 1 here first-->
+>>>>>>> 02625c96cfe5af5571ddf2f1e19bdaf37746c556
 					<div n="urn:cts:greekLit:tlg5026.msA.hmt:13.037" type="scholion">
                         <div type="lemma">
                             <p>‡ χάρμη γηθόσυνοι</p>
