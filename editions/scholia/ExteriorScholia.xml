@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <text n="msAext">
   <body>
@@ -67,7 +67,19 @@
       </div>
       <div type="comment">
         <p>Εισάμενος ὁμοιωθείς ὁρμήσας φανείς</p>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAext:13.007" type="scholion">
+      <div type="lemma">
+        <p></p>
       </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.78</p>
+      </div>
+      <div type="comment">
+        <p>νερθε δὲ ποσσὶν</p>
+      </div>
+    </div>
+	  
     </div>
     <div n="urn:cts:greekLit:tlg5026.msAext:13.NNN" type="scholion">
       <div type="lemma">
