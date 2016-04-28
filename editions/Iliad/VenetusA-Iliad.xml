@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
@@ -33,7 +33,7 @@
 			<div n="13">
 				<head>ἰλίαδος <num value="14">ν</num></head>
 
-				<l n="1"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ ἐπεὶ οὖν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶάς</rs> τε καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> νηυσὶ πέλασσε.</l>
+				<l n="1"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ ἐπεὶ οὖν <rs type="ethnic" n="urn:cite:hmt:place.place14">Τρῶάς</rs> τε καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> νηυσὶ πέλασσε.</l>
 				<l n="2">τοὺς μὲν ἔα παρα τῇσι πόνον τ᾽ ἐχέμεν καὶ ὀϊζὺν</l>
 				<l n="3">νωλεμέως. αὐτὸς δὲ πάλιν τρέπεν ὄσσε φαεινὼ</l>
 				<l n="4">νόσφιν. ἐφ᾽ ἱπποπόλων <rs type="ethnic" n="urn:cite:hmt:place.place70">Θρῃκῶν</rs> καθ ὁρώμενος αἶαν.</l>
@@ -108,15 +108,15 @@
 				<l n="73">καὶ δ᾽ ἐμοὶ αὐτῷ θυμὸς ἐνι στήθεσσι φίλοισι</l>
 				<l n="74">μᾶλλον ἐφορμᾶται πολεμίζειν ἠδὲ μάχεσθαι.</l>
 				<l n="75">μαιμώωσι δ᾽ ἔνερθε πόδες. καὶ χεῖρες ὕπερθε.</l>
-				<l n="76"></l>
-				<l n="77"></l>
-				<l n="78"></l>
-				<l n="79"></l>
-				<l n="80"></l>
-				<l n="81"></l>
-				<l n="82"></l>
-				<l n="83"></l>
-				<l n="84"></l>
+				<l n="76"/>
+				<l n="77"/>
+				<l n="78"/>
+				<l n="79"/>
+				<l n="80"/>
+				<l n="81"/>
+				<l n="82"/>
+				<l n="83"/>
+				<l n="84"/>
 			</div>
 		</body>
 	</text>
