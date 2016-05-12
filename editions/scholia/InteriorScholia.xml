@@ -101,10 +101,24 @@
       <div type="comment">
         <p>
           Γραφεται <rs type="waw">αρίστους</rs>
-        </p>
+        </p>  
       </div>
-    </div>    
+    </div> 
     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.009" type="scholion">
+      <div type="lemma">
+        <p>κεκοπὼς
+</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.060</p>
+      </div>
+      <div type="comment">
+        <p>
+         ὅτι ἀντὶ κόπτων ἐν δὲ τῇ <placeName n="urn:cite:hmt:place.place411">Χίᾳ</placeName> καὶ <persName n="urn:cite:hmt:pers.pers7">Ἀντίμαχον</persName> κεκοπών
+        </p>  
+      </div>
+    </div>   
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.0010" type="scholion">
       <div type="lemma">
         <p>πορδαλίωντε</p>
       </div>
@@ -113,11 +127,11 @@
       </div>
       <div type="comment">
         <p>
-          οὔτως Ἀρισταρχος ἀλλοι δε πορδαλίων
+          οὔτως <persName n="urn:cite:hmt:pers.pers16	">Ἀρισταρχος</persName> ἀλλοι δε πορδαλίων
         </p>
       </div>
     </div>   
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.010" type="scholion">
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.011" type="scholion">
       <div type="lemma">
         <p>ἕκαθεν πόλιος</p>
       </div>
@@ -126,10 +140,10 @@
       </div>
       <div type="comment">
         <p>
-          Ζηνόδοτος καὶ Ἀριστοφάνης νῦν δὲ ἑκὰς πόλιος
+          <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> νῦν δὲ ἑκὰς πόλιος
         </p>
       </div>
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.011" type="scholion">
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.012" type="scholion">
       <div type="lemma">
         <p>ἀκεσταί</p>
       </div>
@@ -143,5 +157,6 @@
       </div>
     </div> 
 </div>
-  </body>
+</div>
+</body>
 </text>
