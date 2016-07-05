@@ -62,7 +62,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.001</p>
                         </div>
                         <div type="comment">
-                            <p> <rs type="waw">ἐπειδή</rs>, ὅσα δηλοῖ τὸ <rs type="waw">ἐπεί</rs> τὸ<rs type="waw">ὅτι</rs> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.115</ref><q>ἐπεὶ πολὺν ὤλεσα λαόν</q></cit>. 
+                            <p> <q>ἐπειδή</q>, ὅσα δηλοῖ τὸ <rs type="waw">ἐπεί</rs> τὸ<rs type="waw">ὅτι</rs> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.115</ref><q>ἐπεὶ πολὺν ὤλεσα λαόν</q></cit>. 
                                 καὶ <rs type="waw">ὅτε</rs> ὡς νῦν καὶ <rs type="waw">ἐπειδὴ</rs> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
                         </div>
                     </div>
@@ -86,8 +86,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.005</p>
                         </div>
                         <div type="comment">
-                            <p> <rs type="ethnic" n=""> Ἀγαυοὶ </rs>ὄνομα ἔθνους ἵππους δὲ ἀμέλγοντες οὗτοι τὸ γάλα ἐτρέφοντο· <persName n="urn:cite:hmt:pers.pers620">Δημετριος</persName> 
-                                δὲ <rs type="ethnic" n=''>άγαυοὺς</rs> τοὺς ἐυειδεῖς </p>
+                            <p> <q> Ἀγαυοὶ</q> ὄνομα ἔθνους ἵππους δὲ ἀμέλγοντες οὗτοι τὸ γάλα ἐτρέφοντο· <persName n="urn:cite:hmt:pers.pers620">Δημετριος</persName> 
+                                δὲ <q>άγαυοὺς</q> τοὺς <rs type="waw">ἐυειδεῖς</rs> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.005" type="scholion">
@@ -98,10 +98,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.007</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ <q>πάλιν</q> τὴν ἀπο <rs type="waw">τοῦ ἐυθέως</rs> μεταστροφὴν <cit><q>ὅσσε πἀλιν κλίνασα·</q><ref>Γ.427</ref></cit> οἱ δὲ ἀναμέρος 
+                            <p>τὸ <q>πάλιν</q> τὴν ἀπο <rs type="waw">τοῦ ἐυθέως</rs> μεταστροφὴν <cit><ref>urn:cts:greekLit:tlg0012.tlg001:3.427</ref><q>ὅσσε πἀλιν κλίνασα·</q></cit> οἱ δὲ ἀναμέρος 
                                 <placeName  n="urn:cite:hmt:place.place20">Μυσίαν </placeName> καὶ <placeName n="urn:cite:hmt:place.place70">Θράκην</placeName> ὁρῶν, ἔστι δὲ καῖ τοῦτο σύνηθες, 
-                                <persName n="urn:cite:hmt:pers.pers17">Ὁμήρω</persName>, <cit><q>πάλιν ποίησε γέροντα </q><ref>Π.456</ref></cit>καὶ εἰς τοῦπίσω <cit><q>πάλιν ἐρύσασα</q><ref>Ε 836</ref></cit> 
-                                καὶ έναντὶ <cit><q>οὐδεν πάλιν έρέει </q><ref>Ι 56</ref></cit></p>
+                                <persName n="urn:cite:hmt:pers.pers17">Ὁμήρω</persName>, <cit><ref>urn:cts:greekLit:tlg0012.tlg001:16.456</ref><q>πάλιν ποίησε γέροντα </q></cit>καὶ εἰς τοῦπίσω <cit><ref>urn:cts:greekLit:tlg0012.tlg001:5.836</ref><q>πάλιν ἐρύσασα</q></cit> 
+                                καὶ ἐναντὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:9.56</ref><q>οὐδὲν πάλιν έρέει </q></cit>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.006" type="scholion">
