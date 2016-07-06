@@ -141,7 +141,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ὁτι <persName>Μακρόβιοι</persName>. ἠ τὸν ἡμετερον βίον μὴ ἐγνωκότων επιφέρει 
                                 γὰρ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expand>ἀνθρώπων</expand></choice></q></cit> 
 								ἤ <rs type="waw">μη βιαζόμενων</rs>. ἠ <rs type="waw">ἀμαξόβιοι</rs>· τινες δὲ τούτους 
-                                <rs type="ethnic">σπαρμάτας</rs> φασὶν· λέγουσι δὲ αὺτους τοὺς ὀδίτας τρέφοντας. ἄλλον ἄλλῳ διαπεμπειν </p>
+                                <rs type="ethnic">σπαρμάτας</rs> φασὶν· λέγουσι δὲ αὺτους τοὺς ὀδίτας τρέφοντας. ἄλλον ἄλλῳ διαπεμπειν ⁑</p>
                         </div>
                     </div>
                     <div n="8" type="scholion">
@@ -152,13 +152,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.006</p>
                         </div>
                         <div type="comment">
-                            <p>πάντων <rs type="ethnic" n="urn:cite:hmt:place.place32">σκυθων</rs> ὑποκυψάντων <persName n="urn:cite:hmt:pers.pers335">Ἀλεξάνδρῳ</persName>· 
-                                μόνους <rs type="ethnic">ἀβίους</rs> φησὶ οὐχ υπῖξαι δικαιοτάτους δε φησὶ αὐτοὺς 
-                                δια τὸ ἀνεπίμικτον ώς καὶ <rs type="ethnic" n="urn:cite:hmt:place.place46">Αἰθιοπηας</rs>.  ἤ ὁτι οὐκ ηθέλησαν συστρατευσαι <rs type="ethnic">Ἀμαζόσιν</rs> 
-                                ἐις <placeName n="urn:cite:hmt:place.place206">Ἀσίαν</placeName>. </p>
+                            <p>πάντων <rs type="ethnic" n="urn:cite:hmt:place.place32">Σκυθων</rs> ὑποκυψάντων <persName n="urn:cite:hmt:pers.pers335">Ἀλεξάνδρω</persName>· 
+                                μόνους <rs type="ethnic">Ἀβίους</rs> φησὶ οὐχ υπῖξαι δικαιοτάτους δε φησὶ αὐτοὺς 
+                                δια τὸ ἀνεπίμικτον ὡς καὶ <rs type="ethnic" n="urn:cite:hmt:place.place46">Αἰθιοπηας</rs>.  ἤ ὁτι οὐκ ηθέλησαν συστρατευσαι <rs type="ethnic">Ἀμαζόσιν</rs> 
+                                ἐις <placeName n="urn:cite:hmt:place.place206">Ἀσίαν</placeName>. ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.009" type="scholion">
+                    <div n="9" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
@@ -166,12 +166,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.006</p>
                         </div>
                         <div type="comment">
-                            <p> πολλῶν εἰρημενων περι τουτων πολλοῖς βέλτιον ὡς <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχῳ</persName>  ἐδόκει καὶ χωρὶς τοῦ συνδέσμου προφέρεσθαι τον στίχον 
-                                καὶ διαστέλλειν βραχὺ, μετά τε τὴν πρώτην λέξιν, καὶ μετα δευτέραν ἵνα τὰ ἔθνη πολλὰ καὶ τὸ <q>δικαιοτάτων</q> κοινον 
-                                ἐπι πάντων νοόυμενον μέιζονα την ἱστοριαν ἐπιφαίνῃ.</p>
+                            <p> πολλῶν εἰρημένων περι τουτων πολλοῖς <choice><sic>βελτὶον</sic><corr>βέλτιον</corr></choice> ὡς <persName n="urn:cite:hmt:pers.pers16">Ἀριστάρχω</persName>  ἐδόκει καὶ χωρὶς τοῦ συνδέσμου προφέρεσθαι τον στίχον 
+                                καὶ διαστέλλειν βραχὺ, μετά τε τὴν πρώτην λέξιν, καὶ μετα δευτέραν ἵνα τὰ ἔθνη πολλὰ καὶ τὸ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων</q></cit> κοινὸν 
+                                ἐπι πάντων νοόυμενον μέιζονα την ἱστοριαν <choice><sic>ἐμφαίνει</sic><corr>ἐμφαίνῃ</corr></choice>.⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.010" type="scholion">
+                    <div n="10" type="scholion">
                         <div type="lemma">
                             <p>οὐδ’ αλαοσκοπίην·</p>
                         </div>
@@ -182,7 +182,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ματαίαν την κατασκοπην <q>ἀλαὸς</q> γὰρ κατα διάλεκτον <rs type="waw">ὁ τυφλος</rs></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.011" type="scholion">
+                    <div n="11" type="scholion">
                         <div type="lemma">
                             <p>ὑψοῦ ἐπ ακροτἀτης κορυφῆς </p>
                         </div>
@@ -199,7 +199,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <placeName n="urn:cite:hmt:place.place70">Θρηϊκίης</placeName> <placeName n="?">της Σαμοθρακης</placeName>· τὸ δὲ ἐν αυτῃ ὄρος, <placeName n="?">Σαώκη</placeName>. </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.012" type="scholion">
+                    <div n="12" type="scholion">
                         <div type="lemma">
                             <p>ἔνθ’ἄρ ὁγ’ἔξ ἁλός·</p>
                         </div>
@@ -210,7 +210,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>τρεῖς παράλληλοι ὀξεῖαι, μία μεν ἄρχουσα δευτέρα ἡ του <q>ᾱρ̄α</q>, τρίτη δὲ ἡ του <q>ὅγε</q> </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.013" type="scholion">
+                    <div n="13" type="scholion">
                         <div type="lemma">
                             <p>Αἰγας ἔνθα δέ οι κλυτα </p>
                         </div>
@@ -222,7 +222,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ὑποτίθεται ἀόρατον ἀνθρωποις ὥσπερ ἐπι <placeName n="urn:cite:hmt:place.place45">του ὀλύμπου</placeName> των ἄλλων θεῶν μη ορομενῶν</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.014" type="scholion">
+                    <div n="14" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
@@ -238,7 +238,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <persName n="urn:cite:hmt:pers.pers354">ευφορίωνι</persName></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.015" type="scholion">
+                    <div n="15" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
