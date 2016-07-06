@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="scholia-css/tei-scholia.css" title="TEI style simple scholia" alternate="no"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,6 +27,7 @@
                 <author>Sjors Leek</author>
                 <author>Bengt Rooijers</author>
                 <author>Tazuko van Berkel</author>
+                <author>Ineke Sluiter</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -42,19 +50,20 @@
                         </div>
                         <div type="comment">
                             <p>ὅτι κεχώρικε τῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">τρώων</rs> τὸν <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> ὡς κακεῖ, 
-                                <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.641-2.642</ref><q>οὐ γὰρ ἔτ'<persName n="urn:cite:hmt:pers.pers327">Οἰνῆος</persName> μεγαλήτορος, οὐδέτ'̀ αὐτὸς ἔην θάνε δὲ 
-                                    ξανθὸς <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>.</q></cit> 
-                                αλλως κεχώρηκε τῶν λοιπῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> τὸν <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> 
-                                κατ εξοχὴν μετὰ δὲ τὴν <placeName n="urn:cite:hmt:place.place6">Ἰλίου</placeName> πόρθησιν <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> 
-                                ὁ <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName> 
-                                καὶ μετα τὸν θάνατον την ἀπο <choice><abbr>θν</abbr><expan>θεῶν</expan></choice>εὐτύχησε τιμήν· οἱ γὰρ ἐν <placeName n="urn:cite:hmt:place.place30">Βοιωτία</placeName> <rs type="ethnic" n="urn:cite:hmt:place.place49">Θηβαίοι</rs> πιεζόμενοι <choice><sic>κακωῖς</sic><corr>κακοῖς</corr></choice>
-								ἐμαντεύοντο περὶ ἀπαλλαγῆς· χρησμος δὲ αὐτοῖς ἐδόθη παύσασθαι τὰ δεινὰ ἐὰν ἐξ <placeName> Οφρυνίου</placeName> τῆς <placeName n="urn:cite:hmt:place.place15">Τρωάδος</placeName> τὰ 
-                                <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος </persName> ὀστᾶ <choice><sic>διακοσμισθῶσιν</sic><corr>διακομισθῶσιν</corr></choice> εἰς τὸν παρα τοῖς καλουμένοις τόπον <placeName>διὸς γονὰς</placeName>
-                               οἱ δὲ τοῦτο ποιήσαντες, καὶ τῶν κακῶν ἀπαλλαγέντες,  
-                               <choice><sic>τια</sic><corr>δια</corr></choice> τιμῆς ἔσχον <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> κατά τε τοὺς ἐπείγοντας καιροὺς ἐπικαλοῦνται τὴν ἐπιφάνειαν αὐτοῦ ἡ ϊστορία παρα <persName n= "urn:cite:hmt:pers.pers640">Ἀριστοδήμω</persName>⁑</p>
+                                <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.641-2.642</ref><q>οὐ γὰρ ἔτ'<persName n="urn:cite:hmt:pers.pers327">Οἰνῆος</persName> μεγαλήτορος, 
+								οὐδέτ'̀ αὐτὸς ἔην θάνε δὲ ξανθὸς <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>.</q></cit> 
+                            αλλως κεχώρηκε τῶν λοιπῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> τὸν <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> 
+                            κατ εξοχὴν μετὰ δὲ τὴν <placeName n="urn:cite:hmt:place.place6">Ἰλίου</placeName> πόρθησιν <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> 
+                            ὁ <persName n="urn:cite:hmt:pers.pers145">Πριάμου</persName> καὶ μετα τὸν θάνατον την ἀπο <choice><abbr>θν</abbr><expan>θεῶν</expan></choice>εὐτύχησε τιμήν· 
+							οἱ γὰρ ἐν <placeName n="urn:cite:hmt:place.place30">Βοιωτία</placeName> <rs type="ethnic" n="urn:cite:hmt:place.place49">Θηβαίοι</rs> πιεζόμενοι 
+							<choice><sic>κακωῖς</sic><corr>κακοῖς</corr></choice> ἐμαντεύοντο περὶ ἀπαλλαγῆς· χρησμος δὲ αὐτοῖς ἐδόθη παύσασθαι τὰ δεινὰ ἐὰν ἐξ <placeName> Οφρυνίου</placeName>
+							τῆς <placeName n="urn:cite:hmt:place.place15">Τρωάδος</placeName> τὰ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορος </persName> ὀστᾶ 
+							<choice><sic>διακοσμισθῶσιν</sic><corr>διακομισθῶσιν</corr></choice> εἰς τὸν παρα τοῖς καλουμένοις τόπον <placeName>διὸς γονὰς</placeName>
+                            οἱ δὲ τοῦτο ποιήσαντες, καὶ τῶν κακῶν ἀπαλλαγέντες, <choice><sic>τια</sic><corr>δια</corr></choice> τιμῆς ἔσχον <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> 
+							κατά τε τοὺς ἐπείγοντας καιροὺς ἐπικαλοῦνται τὴν ἐπιφάνειαν αὐτοῦ ἡ ϊστορία παρα <persName n= "urn:cite:hmt:pers.pers640">Ἀριστοδήμω</persName>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.002" type="scholion">
+                    <div n="2" type="scholion">
                         <div type="lemma">
                             <p>ἐπεὶ οὖν.</p>
                         </div>
@@ -66,7 +75,7 @@
                                 καὶ <rs type="waw">ὅτε</rs> ὡς νῦν καὶ <rs type="waw">ἐπειδὴ</rs> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.003" type="scholion">
+                    <div n="3" type="scholion">
                         <div type="lemma">
                             <p>νόσφιν.</p>
                         </div>
@@ -78,7 +87,7 @@
                                 τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.004" type="scholion">
+                    <div n="4" type="scholion">
                         <div type="lemma">
                             <p>καὶ ἀγαυῶν ἱππημολγῶν·</p>
                         </div>
@@ -90,7 +99,7 @@
                                 δὲ <q>άγαυοὺς</q> τοὺς <rs type="waw">ἐυειδεῖς</rs> ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.005" type="scholion">
+                    <div n="5" type="scholion">
                         <div type="lemma">
                             <p>πάλιν τρέπον ὄσσε φαεινώ.</p>
                         </div>
@@ -101,10 +110,10 @@
                             <p>τὸ <q>πάλιν</q> τὴν ἀπο <rs type="waw">τοῦ ἐυθέως</rs> μεταστροφὴν <cit><ref>urn:cts:greekLit:tlg0012.tlg001:3.427</ref><q>ὅσσε πἀλιν κλίνασα·</q></cit> οἱ δὲ ἀναμέρος 
                                 <placeName  n="urn:cite:hmt:place.place20">Μυσίαν </placeName> καὶ <placeName n="urn:cite:hmt:place.place70">Θράκην</placeName> ὁρῶν, ἔστι δὲ καῖ τοῦτο σύνηθες, 
                                 <persName n="urn:cite:hmt:pers.pers17">Ὁμήρω</persName>, <cit><ref>urn:cts:greekLit:tlg0012.tlg001:16.456</ref><q>πάλιν ποίησε γέροντα </q></cit>καὶ εἰς τοῦπίσω <cit><ref>urn:cts:greekLit:tlg0012.tlg001:5.836</ref><q>πάλιν ἐρύσασα</q></cit> 
-                                καὶ ἐναντὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:9.56</ref><q>οὐδὲν πάλιν έρέει </q></cit>⁑</p>
+                                καὶ ἐναντὶ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:9.56</ref><q>οὐδὲν πάλιν ἐρέει </q></cit>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.006" type="scholion">
+                    <div n="6" type="scholion">
                         <div type="lemma">
                             <p>γλακτωφάγων ἁβίων τε,</p>
                         </div>
@@ -117,7 +126,7 @@
                                 νοόυμενον μείζωνα τὴν ἱστοριαν ἐμφαίνει ⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.007" type="scholion">
+                    <div n="7" type="scholion">
                         <div type="lemma">
                             <p>ἀβιων·</p>
                         </div>
@@ -125,16 +134,17 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.006</p>
                         </div>
                         <div type="comment">
-                            <p>τῶν νομἀδων <rs type="ethnic" n="urn:cite:hmt:place.place32">σκυθῶν</rs> ὅθεν και ὁ <persName>ἀναχαρσις</persName> ἐστι οὑς δή φησιν ἁπάντων εἶναι 
-                                δικαιοτάτους ὁτι κοινοῦς ἔχουσι παιδας και γυναικας και τὰ παντα πλ(ην) ξίφους καὶ ποτηρίου τούτοις δὲ καὶ ἀυτομάτως ἡ γῆ βίον φέρει οὐδετι ζὼιον έσθιουσιν. 
-                                τούτους <persName n="urn:cite:hmt:pers.pers225">Αἰσχὺλος</persName> <rs type="ethnic">Γαβίους</rs> φησὶ Ἄβιοι δὲ ἐκλήθησαν ἠ περι τον βιον ἤ την βιαν 
-                                ἤ ἅμα βιῶν πορευόμενοι, ἤ ὁτι ἀόικοι ὁι δὲ <rs type="waw">τὸ α</rs>̄ κατ’ εκτασιν ἵν’ ηἶ <rs type="waw">πολυβίων</rs> καὶ <rs type="waw">πολυετῶν</rs> 
-                                ὁτι <persName>Μακρόβιοι</persName>. ἠ τον ἡμετερον βίον μὴ ἐγνωκότων επιφέρει 
-                                γαρ <q>δικαιοτάτων ανθρωπων</q> ἤ <rs type="waw">μη βιαζόμενων</rs>. ἠ <rs type="waw">ἀμαξόβιοι</rs>· τινες δὲ τούτους 
-                                <rs type="ethnic">σπαρμάτας</rs> φασὶν· λέγουσι δὲ άυτους τους όδιτας τρέφοντας. ἄλλον ἄλλῳ διαπεμπειν </p>
+                            <p>τῶν νομάδων <rs type="ethnic" n="urn:cite:hmt:place.place32">Σκυθῶν</rs> ὅθεν και ὁ <persName>Ἀνάχαρσις</persName> ἐστι οὓς δή φησιν ἁπάντων εἶναι 
+                                δικαιοτάτους ὅτι κοινοῦς ἔχουσι παιδας καὶ γυναικας καὶ τὰ παντα πλὴν ξίφους καὶ ποτηρίου τούτοις δὲ καὶ ἀυτομάτως ἡ γῆ βίον φέρει οὐδέτι ζῶιον ἐσθίουσιν. 
+                                τούτους <persName n="urn:cite:hmt:pers.pers225">Αἰσχὺλος</persName> <rs type="ethnic">Γαβίους</rs> φησὶ Ἄβιοι δὲ ἐκλήθησαν ἠ περὶ τὸν βιον ἤ τὴν βιαν 
+                                ἤ ἅμα βιῶν πορευόμενοι, ἤ ὁτι ἀόικοι· ὁι δὲ τὸ <rs type="waw">α</rs> κάτ εκτασιν ἵν’ ηἶ <rs type="waw">πολυβίων</rs> καὶ <rs type="waw">πολυετῶν</rs> 
+                                ὁτι <persName>Μακρόβιοι</persName>. ἠ τὸν ἡμετερον βίον μὴ ἐγνωκότων επιφέρει 
+                                γὰρ <cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expand>ἀνθρώπων</expand></choice></q></cit> 
+								ἤ <rs type="waw">μη βιαζόμενων</rs>. ἠ <rs type="waw">ἀμαξόβιοι</rs>· τινες δὲ τούτους 
+                                <rs type="ethnic">σπαρμάτας</rs> φασὶν· λέγουσι δὲ αὺτους τοὺς ὀδίτας τρέφοντας. ἄλλον ἄλλῳ διαπεμπειν </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.008" type="scholion">
+                    <div n="8" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
