@@ -3,20 +3,20 @@
 <text n="msAext">
   <body>
     
-    <div n="urn:cts:greekLit:tlg5026.msAext:13.001" type="scholion">
+    <div n="1" type="scholion">
       <div type="lemma">
-        <p>Lemma Here</p>
+        <p></p>
       </div>
       <div type="ref">
         <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.010</p>
       </div>
       <div type="comment">
-        <p>ουδ΄αλαοσκοπ</p>
+        <p>οὐδ΄ἀλαοσκοπ</p>
       </div>
     </div>
-    <div n="urn:cts:greekLit:tlg5026.msAext:13.002" type="scholion">
+    <div n="2" type="scholion">
       <div type="lemma">
-        <p>Lemma Here</p>
+        <p></p>
       </div>
       <div type="ref">
         <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.019</p>
@@ -25,7 +25,7 @@
         <p><choice><abbr>Ποσειδά</abbr><expan>Ποσειδάωνος</expan></choice></p>
       </div>
     </div>
-    <div n="urn:cts:greekLit:tlg5026.msAext:13.003" type="scholion">
+    <div n="3" type="scholion">
       <div type="lemma">
         <p>Lemma Here</p>
       </div>
