@@ -1,41 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <text n="msAint">
   <body> 
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.001" type="scholion">
+   
+    <div n="1" type="scholion">
+		<div type = "lemma"
+			<p></p>
+		</div>
+		<div type="ref">
+			<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.2</p>
+		</div>
+		<div type="comment">
+			<p><persName u="urn:cite:hmt:pers.pers15">Ζηνοδοτος</persName> καὶ <persName u="urn:cite:hmt:pers.pers21">Αριστοφάνης</persName> <q>περὶ τῇσι</q>. μήποτ' οὖν διχῶς.⁑</p>
+		</div>
+	</div>
+	 <div n="2" type="scholion">
+		<div type = "lemma"
+			<p></p>
+		</div>
+		<div type="ref">
+			<p>urn:cts:greekLit:tlg0012.tlg001.msA:13.2</p>
+		</div>
+		<div type="comment">
+			<p>οτι <q>πόνον</q> τὸ κατα πόλεμον ἔργον εἴρηκεν.⁑</p>
+		</div>
+	</div>
+	<div n="3" type="scholion">
       <div type="lemma">
-        <p>πορδαλίωντε</p>
-      </div>
-      <div type="ref">
-        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.103</p>
-      </div>
-      <div type="comment">
-        <p>
-          οὔτως Ἀρισταρχος ἀλλοι δε πορδαλίων
-        </p>
-      </div>
-    </div>   
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.002" type="scholion">
-      <div type="lemma">
-        <p>ἕκαθεν πόλιος</p>
-      </div>
-      <div type="ref">
-        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.107</p>
-      </div>
-      <div type="comment">
-        <p>
-          Ζηνόδοτος καὶ Ἀριστοφάνης νῦν δὲ ἑκὰς πόλιος
-        </p>
-      </div>
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.003" type="scholion">
-      <div type="lemma">
-        <p>Lemma Here</p>
+        <p></p>
       </div>
       <div type="ref">
         <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.006</p>
       </div>
       <div type="comment">
         <p>
-          <persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς του <cit><q>τ̄ε̄ δικαιοτάτων <choice><abbr>αν()ων</abbr><expan>ανθρωπων</expan></choice></q><ref>N.006</ref></cit> 
+          <persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς τοῦ <waw>τε</waw><cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expan>ανθρωπων</expan></choice></q></cit> 
         </p>
       </div>
     </div>    
@@ -141,6 +139,31 @@
       <div type="comment">
         <p>
           <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> νῦν δὲ ἑκὰς πόλιος
+        </p>
+      </div>
+	   <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.#" type="scholion">
+      <div type="lemma">
+        <p>πορδαλίωντε</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.103</p>
+      </div>
+      <div type="comment">
+        <p>
+          οὔτως Ἀρισταρχος ἀλλοι δε πορδαλίων
+        </p>
+      </div>
+    </div>   
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.#" type="scholion">
+      <div type="lemma">
+        <p>ἕκαθεν πόλιος</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.107</p>
+      </div>
+      <div type="comment">
+        <p>
+          Ζηνόδοτος καὶ Ἀριστοφάνης νῦν δὲ ἑκὰς πόλιος
         </p>
       </div>
     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.012" type="scholion">
