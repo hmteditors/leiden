@@ -33,11 +33,11 @@
       </div>
       <div type="comment">
         <p>
-          <persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς τοῦ <waw>τε</waw><cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expan>ανθρωπων</expan></choice></q></cit> 
+          <persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς τοῦ <waw>τε</waw><cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expan>ανθρωπων</expan></choice></q></cit>⁑ 
         </p>
       </div>
     </div>    
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.004" type="scholion">
+    <div n="4" type="scholion">
       <div type="lemma">
         <p>Lemma Here</p>
       </div>
@@ -46,11 +46,11 @@
       </div>
       <div type="comment">
         <p>
-          <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφανης</persName> δια <rs type="waw">του ε</rs>̄ <q>οὐ γὰρ έτ΄ἀθανάτων</q>·   
+          <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφανης</persName> δια τοὺ <rs type="waw">ε</rs> <q>οὐ γὰρ έτ΄ἀθανάτων</q>·⁑   
         </p>
       </div>
     </div>    
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.005" type="scholion">
+    <div n="5" type="scholion">
       <div type="lemma">
         <p>Lemma Here</p>
       </div>
@@ -59,7 +59,7 @@
       </div>
       <div type="comment">
         <p>
-          ὁτι οὐδέποτὲ συνθέτως εἴρηκε <placeName>σαμοθρακην</placeName>
+          <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> οὐδέποτὲ συνθέτως εἴρηκε <waw><placeName>Σαμοθρακην</placeName></waw>⁑
         </p>
       </div>
     </div>    
@@ -72,7 +72,7 @@
       </div>
       <div type="comment">
         <p>
-          ὁτι ἀντι του υπο <rs type="ethnic" n="urn:cite:hmt:place.place15">τρώων</rs>
+          <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἀντι τοῦ <waw>ὑπὸ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs></waw>⁑
         </p>
       </div>
     </div>    
