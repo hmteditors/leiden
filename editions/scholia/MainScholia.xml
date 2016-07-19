@@ -191,9 +191,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> πληθυντικῶς <q>ἐπ ακροτάτης κορυφῆς</q> οὐκ απίθανος 
-                                δὲ καὶ ἡ χωρὶς τοῦ <rs type="waw">μ</rs> γραφὴ <rs type="waw">σάου</rs> τὴν γὰρ <placeName>Σαώκην</placeName> τὸ ὄρος φησὶ <sic>περι</sic>δηλοῦσθαι· 
+                                δὲ καὶ ἡ χωρὶς τοῦ <rs type="waw">μ</rs> γραφὴ <rs type="waw">σάου</rs> τὴν γὰρ <placeName>Σαώκην</placeName> τὸ ὄρος φησὶ παραδηλοῦσθαι· 
                                     <rs type="ethnic" n="urn:cite:hmt:place.place132">Σάμιοι</rs> ἐν <placeName n="urn:cite:hmt:place.place79">Ἰωνία</placeName> μετα διακοσιοστον ἔτος ἔλαβον 
-                                    τὸν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωϊκον</rs> χρησμὸν ἔλαβον <sic>περὶ</sic> <persName n="urn:cite:hmt:pers.pers687">του Πυθίου</persName> 
+                                    τὸν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωϊκον</rs> χρησμὸν ἔλαβον παρὰ <persName n="urn:cite:hmt:pers.pers687">του Πυθίου</persName> 
                                     εἰς τὴν ἐν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωιάδι</rs> <placeName n="urn:cite:hmt:place.place70">Θράκην</placeName> μετοικῆσαι, 
                                     ἀφ ῶν ἡ <placeName n="?">Σαμοθράκηι</placeName> <placeName n="urn:cite:hmt:place.place132">Σάμου</placeName> οὖν 
                                     <placeName n="urn:cite:hmt:place.place70">Θρηϊκίης</placeName> <placeName n="?">τῆς Σαμοθρακης</placeName>· τὸ δὲ ἐν αυτῇ ὄρος, <placeName n="?">Σαώκη</placeName>.⁑</p>
@@ -234,7 +234,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <placeName n="urn:cite:hmt:place.place36"><w>πελοποννη<unclear>σῶ</unclear></w> </placeName> ἔνθα τιμᾶται μὲν <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> 
                                 ἄγεται δὲ καὶ <persName n="urn:cite:hmt:pers.pers59">Διονύσου</persName> ἑορτή. 
                                 ἐν ῆι ἐπειδ’ ἄν ὁ χορὸς συστὰς τὰς τοῦ δαίμονος  τελετὰς ὀργιάζῃ θαυμάσιον ἐπιτελεῖσθαι φασὶν ἔργον ἄμπελοι γὰρ ἅς καλοῦσιν ἐφήμερους.
-                                ἀνισχούσης μὲν ἡμέρας καρπὸν βλαστάνουσιν ὥστε τρέποντας αὐτοὺς εἰς εσπέραν οῖνον ἄφθονον ἔχειν ἡ ἱστορια <sic>περὶ</sic>
+                                ἀνισχούσης μὲν ἡμέρας καρπὸν βλαστάνουσιν ὥστε τρέποντας αὐτοὺς εἰς εσπέραν οῖνον ἄφθονον ἔχειν ἡ ἱστορια παρὰ
                                 <persName n="urn:cite:hmt:pers.pers354">Ευφορίωνι</persName>⁑</p>
                         </div>
                     </div>
