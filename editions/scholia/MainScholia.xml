@@ -255,13 +255,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.016" type="scholion">
                         <div type="lemma">
-                            <p>άταλλε</p>
+                            <p>‡ ἄταλλε</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.027</p>
                         </div>
                         <div type="comment">
-                            <p> ἐις ἐνότητα καὶ διάθεσιν ἐγίνετο ὅ ἔστιν ἐσκίρτα καὶ ἔχαιρεν, <q>ὑπ αυτοῦ</q> δὲ ἀντι τοῦ <rs type="waw">δι αυτόν</rs>.</p>
+                            <p> εἰς ἐνότητα καὶ διάθεσιν ἐγίνετο ὅ ἐστιν ἐσκίρτα καὶ ἔχαιρεν, <q>ὑπ αυτοῦ</q> δὲ ἀντι τοῦ <rs type="waw">δι <choice><sic>αυτὸν</sic><corr>αυτόν</corr></choice></rs>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.017" type="scholion">
@@ -272,22 +272,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.028</p>
                         </div>
                         <div type="comment">
-                            <p>ταῦτα ἐισὶ τὰ εἰς <rs type="waw">θ̅ε̅ν̅</rs> τὸ <rs type="waw">ο̅</rs> παραληγόμενα καὶ προπαροξυνόμενα 
+                            <p>ταῦτα εἰσὶ τὰ εἰς <rs type="waw">θεν</rs> <sic>τὸ</sic> <rs type="waw">ο̅</rs> παραληγόμενα καὶ προπαροξυνόμενα 
                                 <rs type="waw">οἴκοθεν</rs> <rs type="waw">ἄλλοθεν</rs> <rs type="waw">ἔνδοθεν</rs> <rs type="waw">ἔκτοθεν</rs>· 
-                                <rs type="waw">ἐκαστοθεν</rs> <rs type="waw">ἀπόπροθεν</rs> <rs type="waw">πάντοθεν</rs>. </p>
+                                <rs type="waw">ἑκαστοθεν</rs> <rs type="waw">ἀπόπροθεν</rs> <rs type="waw">πάντοθεν</rs>⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.018" type="scholion">
                         <div type="lemma">
-                            <p>οὐδ’ οἱ γνοίησεν ἄνακτα:</p>
+                            <p>οὐδ’ <sic>οἰγνοίησεν</sic> ἄνακτα:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.028</p>
                         </div>
                         <div type="comment">
                             <p> ὅτι <rs type="waw">ἡγνοίησαν</rs> γραπτεόν σύνηθες γὰρ <persName n="urn:cite:hmt:pers.pers17">Ὸμήρωι</persName> οὕτως λέγειν 
-                                <rs type="waw">ἠγνοίησαν</rs> τὰ κήτη καὶ οὐκ <rs type="waw">ηγνοίησεν</rs> καὶ ὅτι κευθμων εἴρηκεν 
-                                ἡ δὲ ορθὴ ἔστι κευθμὸς ὡς <rs type="waw">αὐλός</rs>·</p>
+                                <q>ἠγνοίησαν τὰ κήτη</q> καὶ οὐκ <rs type="waw">ηγνοίησεν</rs> καὶ ὅτι κευθμῶν εἴρηκεν 
+                                ἡ δὲ ορθὴ ἔστι κευθμὸς ὡς <rs type="waw">αὐλός</rs></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.019" type="scholion">
@@ -297,20 +297,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.029</p>
                         </div>
-                        <div type="comment">
-                            <p> <persName n="urn:cite:hmt:pers.pers678">Ἡροδικος</persName> τὴν <rs type="waw">θος</rs>̅ συλλαβήν ὀξύνει ἵνα ἦι τὸ πλῆρες <rs type="waw">γηθόσυνα·</rs> 
-                                εἶτα <rs type="waw">ἡ δὲ θάλασσα</rs>: δὲ <persName n="urn:cite:hmt:pers.pers16">Άρίσταρχος</persName> <q>γηθοσύνη δὲ θάλασσα</q> 
-                                ἀντι του <rs type="waw">γηθόσυνος</rs> χαίρουσα εἰσὶ μέντοι οἱ ἀναγινώσκουσι <rs type="waw">γηθοσύνη</rs> καὶ 
-                                δοτικην πτῶσιν έκδέχονται ὥσπερ καὶ <persName n="urn:cite:hmt:pers.pers21">Άριστοφάνης</persName> οἷς ἐγὼ συγκατατίθεμαι 
+                        <div type="comment"> <!--fix de driedubbele markeringen 3 x-->
+                            <p> <persName n="urn:cite:hmt:pers.pers678">Ἡροδικος</persName> τὴν <rs type="waw">θος̅</rs> συλλαβήν ὀξύνει ἵνα ἦι τὸ πλῆρες <rs type="waw">γηθόσυνα</rs>· 
+                                εἶτα <q>ἡ δὲ θάλασσα</q> ὁ δὲ <persName n="urn:cite:hmt:pers.pers16">Άρίσταρχος</persName> <q>γηθοσύνη δὲ θάλασσα</q> 
+                                ἀντι του <rs type="waw">γηθόσυνος</rs> <rs type="waw">χαίρουσα</rs> εἰσὶ μέντοι οἱ ἀναγινώσκουσι <q>γηθοσύνη</q> καὶ 
+                                δοτικὴν πτῶσιν ἐκδέχονται ὥσπερ καὶ <persName n="urn:cite:hmt:pers.pers21">Άριστοφάνης</persName> οἷς ἐγὼ συγκατατίθεμαι 
                                 ἵν’ ἦι τὸ ἀκόλουθον τοιοῦτον τῆι χαρᾶι ἡ θάλασσα διἵστατο ἠ ϊ̔́να καὶ εθει  <persName n="urn:cite:hmt:pers.pers17">Ὁμηρικῶι</persName>
-                                δοτικῆι ἀντι γενικῆς παρειλλημμενη ὑπάρχει ὑπο χαρας ἡ θάλασσα διϊ̔́στατο ὁμοιως τὸ 
-                                <cit><q>ὅς δὴ γήραϊ κῦφος ἔη</q><ref>β.016</ref></cit>· τί δε ἐστιν τὸ κινοῦν με ἐκθήσομαι. ὁρῶι τὰ δια τοῦ <rs type="waw">σύνη</rs> 
-                                θηλυκὰ μὴ κατὰ θηλειῶν ἐπιθετικῶς τιθέμενα πραγμάτων δὲ ὄντα κατηγορικὰ· πρόδηλος δὲ ἡ παρ αυτῶι τῶι ποιητηῖ χρήσις ἔστι γάρ 
-                                τι κερδοσύνη πράγμα οὐχι κερδοσύωη γυνή. <cit><q>ὡς φάμενη καὶ κερδοσύνη ἡγεῖτο</q><ref>Χ.247</ref></cit>
-                                <cit><q>ἀρχην ξεινοσύνης</q><ref>φ.035</ref></cit> <cit><q>πλαγκτοσύνης δ’οὐκ ἐστιν κακόν</q><ref>o.343</ref></cit>
-                                <cit><q>τὴν δ’ήνης ἡ οἱ, πόρε μαχλοσύνηι</q><ref>Ω.030</ref></cit> <cit><q>δρηστοσύνη δ’ οὐκ άν μοι</q><ref>ο.321</ref></cit>
-                                <cit><q>ταρβοσύνη φᾶν γάρ μιν</q><ref>σ.342</ref></cit>· εἴπερ οὖν ταῦτα πάντα εὑρέθη οὐκ επιθετικῶς κατά τινος θηλείας κατηγορικὰ
-                                δὲ πράγματος, πῶς ἄν γέλοιτο <q>γηθοσύνη θάλασσα</q>· οὐ γαρ ἀγαθοφροσύνηι γυνή. ἄμεινον οὖν ἐπι πραγματος παραλαμβάνειν 
+                                δοτικῆι ἀντι γενικῆς <choice><sic>παρειλλημμενη</sic><corr>παρειλημμένη</corr></choice> ὑπάρχει <q>ὑπο χαρᾶς ἡ θάλασσα διϊ̔́στατο</q> ὁμοίως <sic>τὸ</sic> 
+                                <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:2.016</ref><q>ὃς δὴ γήραϊ κῦφος ἔη</q></cit>· τί δε ἐστιν τὸ κινοῦν με ἐκθήσομαι. ὁρῶι τὰ δια τοῦ <rs type="waw">σύνη</rs> 
+                                θηλυκὰ μὴ κατὰ θηλειῶν ἐπιθετικῶς τιθέμενα πραγμάτων δὲ ὄντα <choice><sic>κατηγορικὰ</sic><corr>κατηγορικά</corr><choice>· πρόδηλος δὲ ἡ παρ αυτῶι τῶι ποιητηῖ χρήσις ἔστι <choice><sic>γὰρ</sic><corr>γάρ</corr></choice> 
+                                τι <rs type="waw">κερδοσύνη</rs> πράγμα οὐχι κερδοσύνη γυνή. <cit><ref>urn:cts:greekLit:tlg0012.tlg001:22.247</ref><q>ὡς φαμένη καὶ κερδοσύνη ἡγεῖτο</q></cit>
+                                <cit><ref>urn:cts:greekLit:tlg0012.tlg002:21.35</ref><q>ἀρχην ξεινοσύνης</q></cit> <cit><ref>urn:cts:greekLit:tlg0012.tlg002:15.343</ref><q>πλαγκτοσύνης δ’οὐκ ἐστιν κακόν</q></cit>
+                                <cit><ref>urn:cts:greekLit:tlg0012.tlg001:24.30</ref><q>τὴν δ’ήνης ἡ οἱ, πόρε μαχλοσύνηι</q></cit> <cit><ref>urn:cts:greekLit:tlg0012.tlg002:15.321</ref><q>δρηστοσύνη δ’ οὐκ άν μοι</q></cit>
+                                <cit><ref>urn:cts:greekLit:tlg0012.tlg002:18.342</ref><q>ταρβοσύνη φᾶν γάρ μιν</q></cit>· εἴπερ οὖν ταῦτα πάντα εὑρέθη οὐκ επιθετικῶς κατά τινος θηλείας κατηγορικὰ
+                                δὲ πράγματος, πῶς ἄν γέλοιτο <q>γηθοσύνη θάλασσα</q>·
+								οὐ γαρ ἀγαθοφροσύνηι γυνή. ἄμεινον οὖν ἐπι πραγματος παραλαμβάνειν 
                                 καὶ δοτικην πτωσιν έκδέχεσθαι εἰκος τινα φήσιν ὑπερ <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχου</persName> 
                                 και τῶν ἄλλων ὡς ὁτι αὐτος ἤδη ὁ ποιητης ἀρσενικὼς τοῦτο ἀπεφήνατο <cit><q>γηθόσυνος δ’οὕρω</q><ref>ε.269</ref></cit>, οὗτως 
                                 ἀκόλουθον θηλυκον γένοιτ ἄν τὸ <rs type="waw">γηθοσυνη</rs>, ὃν διδάξομεν ὡς ὅτι τὰ δια του <rs type="waw">σύνος</rs> 
