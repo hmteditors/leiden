@@ -253,7 +253,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 εἰς την <choice><sic>σύμμαχιαν</sic><corr>συμμαχίαν</corr></choice> κινδυνεύη ‡</p>					
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.016" type="scholion">
+                    <div n="16" type="scholion">
                         <div type="lemma">
                             <p>‡ ἄταλλε</p>
                         </div>
@@ -264,7 +264,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p> εἰς ἐνότητα καὶ διάθεσιν ἐγίνετο ὅ ἐστιν ἐσκίρτα καὶ ἔχαιρεν, <q>ὑπ αυτοῦ</q> δὲ ἀντι τοῦ <rs type="waw">δι <choice><sic>αυτὸν</sic><corr>αυτόν</corr></choice></rs>⁑</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.017" type="scholion">
+                    <div n="17" type="scholion">
                         <div type="lemma">
                             <p>πάντοθεν ἐκ κευθμῶν·</p>
                         </div>
@@ -277,7 +277,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <rs type="waw">ἑκαστοθεν</rs> <rs type="waw">ἀπόπροθεν</rs> <rs type="waw">πάντοθεν</rs>⁑ </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.018" type="scholion">
+                    <div n="18" type="scholion">
                         <div type="lemma">
                             <p>οὐδ’ <sic>οἰγνοίησεν</sic> ἄνακτα:</p>
                         </div>
@@ -290,7 +290,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἡ δὲ ορθὴ ἔστι κευθμὸς ὡς <rs type="waw">αὐλός</rs></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.019" type="scholion">
+                    <div n="19" type="scholion">
                         <div type="lemma">
                             <p>γηθοσύνη δὲ θάλασσα·</p>
                         </div>
@@ -320,7 +320,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 κατά τινος θεου τασσόμενον</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.020" type="scholion">
+                    <div n="20" type="scholion">
                         <div type="lemma">
                             <p>ἐΰσκαρθμοι.</p>
                         </div>
@@ -331,7 +331,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>Εὐσκάριστοι ὅ ἐστιν εὐκίνητοι ταχεῖς. σκαρθμος γὰρ καταδίαλεκτον ὁ πούς.</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.021" type="scholion">
+                    <div n="21" type="scholion">
                         <div type="lemma">
                             <p>ἄβρομοι ἀυΐαχοι</p>
                         </div>
@@ -343,7 +343,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἑκαστοτε γὰρ θορυβώδεις τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶας</rs> παρίστησιν. </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.022" type="scholion">
+                    <div n="22" type="scholion">
                         <div type="lemma">
                             <p>Ἀυΐαχοι.</p>
                         </div>
@@ -357,7 +357,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <persName n="urn:cite:hmt:pers.pers211">διονυσιος ὁ Θρὰξ</persName>.  δασύνουσι τὸ ἰ̈́αχοι. ἰ̈́ν’ ῆ ξηρόφωνοι. </p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.023" type="scholion">
+                    <div n="23" type="scholion">
                         <div type="lemma">
                             <p>μεσσηγὺς <placeName n="urn:cite:hmt:place.place14">Τενέδοιο</placeName> καὶ <placeName n="">Ϊμβρου</placeName>.</p>
                         </div>
@@ -373,7 +373,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                     </div>
                     
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.024" type="scholion">
+                    <div n="24" type="scholion">
                         <div type="lemma">
                             <p>Εἰσάμενος <persName n="urn:cite:hmt:pers.pers74">κάλχαντι</persName> </p>
                         </div>
@@ -385,7 +385,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐφορμήσασα· <cit><q>εἴσατο δ΄ὡς ὅ τε ῥινον</q><ref>ε.281</ref></cit>. Άντι του ἐφάνη.</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.025" type="scholion">
+                    <div n="25" type="scholion">
                         <div type="lemma">
                             <p>ἕξουσιν γὰρ</p>
                         </div>
