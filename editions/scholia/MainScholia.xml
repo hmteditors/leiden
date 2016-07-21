@@ -362,7 +362,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="23" type="scholion">
                         <div type="lemma">
-                            <p>μεσσηγὺς <placeName n="urn:cite:hmt:place.place14">Τενέδοιο</placeName> καὶ <placeName n="urn:cite:hmt:place.place201">Ϊ<del unit="letters" extent="1"/>μβρου</placeName>,</p>
+                            <p>μεσσηγὺς <placeName n="urn:cite:hmt:place.place14">Τενέδοιο</placeName> καὶ <placeName n="urn:cite:hmt:place.place201">Ϊ<del> </del>μβρου</placeName>,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.033</p>
