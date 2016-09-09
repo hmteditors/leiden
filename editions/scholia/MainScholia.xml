@@ -546,8 +546,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
 					
 					<!--these are the scholia edited by Team 2. Include scholia edited by Team 1 here first-->
-=======
-                    <!--these are the scholia edited by Team 2. Include scholia edited by Team 1 here first-->
 
 					<div n="urn:cts:greekLit:tlg5026.msA.hmt:13.037" type="scholion">
                         <div type="lemma">
@@ -593,6 +591,83 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>νῦν ἀνεφάνη ἡ ἡμέρα ἐν ῇ ὑπὸ τῶν Τρώων ἀναιρεθήσεσθε  ⁑ </p>
                             </div>
 					</div>
+					<div n="C1" type="scholion">
+                        <div type="lemma">
+                            <p>φυζακινῆς ἐλάφοισιν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.102</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁμόιως ἀναγνωστέον τῶι εαρινῆς πᾶς δὲ ἐσχήμάτισμα δεδήλωτται ἐν τῶι περι παρωνύμων</p>
+                        </div>
+                    </div>
+					<div n="C2" type="scholion">
+                        <div type="lemma">
+                            <p>θώων. παρδαλίων τε.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.103</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">ἀρισταρχος</persName> βαρύνειτὸ θώων καὶ ἐπείσθη ἡ παράδοσις ὁ δε παμφιλος περισπᾶι ἐπεὶ τὰ εἰς ες λήγοντα δισυλλα ὀνόματα ἐπι ἐυθείας πληθυντικῆς ἔχει γενικὴν περισπωμενην δι ὃ καὶ τὸ τρώων καὶ δμώων καὶ παίδων ἀνεγίνωσκε ρισπῶν ἔτι δε καὶ τὸ πάντων καὶ λάων καὶ τινῶν περι ὧν λόγον ἔδωκαν καὶ οἱ προ ἡμων καὶ ἡμεις</p>
+                        </div>
+                    </div>
+					<div n="C3" type="scholion">
+                        <div type="lemma">
+                            <p>θώων</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.103</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ θῶες ζωα αλκιμα καὶ ευκινητα ἔδιοι δὲ παραπλήσια ὑιαίνηι. τὸ δε θώων ενιοι περισπῶσιν ἵν' ὁμοτονῆι το θηρῶν καὶ κυνῶν οὕτως δὲ καὶ <persName n="urn:cite:hmt:pers.pers16">ἀρίσταρχος</persName> προφέρεσθαι, διοκλῆς καὶ ὁ θρᾶξ διονύσιος ὡς βαρύνοντα τὴν λέξιν· κασιος δε ἀπολογούμενος ὑπερ τῆς βαρυτονὴσεως φασὶν ὅτι τὰ μονοσύλλαβα ὅταν μὲν ἐχει τὴν πληθυντικὴν ἐπι τῆς τελευταίας συλλαβῆς μετασυμφώνου λεγομένην. πάντως βαρυτονουμενης οἷον <rs type="ethnic" n="urn:cite:hmt:place.place6">τρῶες</rs> δμᾶες θῶες λᾶες· ἀντίκειται δὲ αὐτῶι τὸ παιδων καὶ πάντων· χαῖρις δε φησιν οὐκ εἶναι ἐν δισυλλάβοις ἀναλογίαν</p>
+                        </div>
+                    </div>
+					<div n="C4" type="scholion">
+						<div type="lemma">
+							<p>λύκωντ' ἤϊα πέλονται</p>
+						</div>
+						<div type="ref">
+							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.103</p>
+						</div>
+						</div type="comment">
+							<p>ἤϊα βρώματα οὐ τὰ ἐν οίκω δὲ ἐσθι. μενα ἀλλα τὰ ἐν ὁδῶι καὶ πλῶι δεῦτε φίλοι ἤϊα φερώμεθα <persName n="urn:cite:hmt:pers.pers279">σιμωνίδης</persName>. καὶ τὰ ἄχυρα δὲ ἤϊα λέγεται ὡς δ' ἄνεμος ζαὴς ἠΐωνθη μῶνα τινάξει τάχα δὲ τὰ φερόμενα παρα τὸ ϊέναι· γενηθέντος δὲ γάρ άνέμου δεῦρο κακεῖ σε φέρεται</p>
+						</div>
+					</div>
+					<div n="C5" type="scholion">
+						<div type="lemma">
+							<p>νυν δ' ἕκαθεν πόλιος·</p>
+						</div>
+						<div type="ref">
+							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.107</p>
+						</div>
+						</div type="comment">
+							<p><persName n="urn:cite:hmt:pers.pers248">Ἡρακλέων</persName> ἀξιοῖ οτίζειν πόλιος ἵνα φησὶν ἐμφαίνηι τοιοῦτό τι· τί δὲ λέγω πόλιος ἐπανταῖς γάρ ἤδη ταῖς ναυσὶ μάλονται ἵκανὸν μέντοι βραχὺ διαστέλλειν</p>
+					</div>
+					<div n="C6" type="scholion">
+						<div type="lemma">
+							<p>ἀλλ' ἀκεώμεθα θᾶσσον·</p>
+						</div>
+						<div type="ref">
+							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.115</p>
+						</div>
+						</div type="comment">
+							<p>ὁτὶ ἀμφίβολον τὸ ἀκεώμεθα πότερον ἰαθῶμεν, ἠ ἀκεσώμεθα ὃ καὶ <choice><sic>ὑγιὲς</sic><corr>ὑγιές</corr></choice> οἶον τὸ ἐλαττωωμα ἰασώμεθα</p>
+						</div>
+					</div>
+					<div n="C7" type="scholion">
+						<div type="lemma">
+							<p>ἀκεσταί·</p>
+						</div>
+						<div type="ref">
+							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.115</p>
+						</div>
+						</div type="comment">
+							<p>εὐθεράπευτοι εὐΐατοι αἱ γὰρ τῶν ἀγαθῶν φρένες ῥαδίως προς τὸ κρεῖττον μετατίθενται ευθεράπευτοι οὖσαι ῆ θεραπευτικαί</p>
+						</div>
+					</div>
+					
 					<!--Insert here the scholia edited by Team 3-->
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
                         <div type="lemma">
