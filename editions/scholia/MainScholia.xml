@@ -544,10 +544,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 τὸν <persName n="urn:cite:hmt:pers.pers127">αἴαντα</persName>· καὶ ῥητέον ὅτι φαντασίαν τινὰ παρέχει τὸ θεῖον ἐαυτοῦ</p>
                         </div>
                     </div>
-					
-					<!--these are the scholia edited by Team 2. Include scholia edited by Team 1 here first-->
-
-					<div n="urn:cts:greekLit:tlg5026.msA.hmt:13.037" type="scholion">
+						<div n="urn:cts:greekLit:tlg5026.msA.hmt:13.037" type="scholion">
                         <div type="lemma">
                             <p>‡ χάρμη γηθόσυνοι</p>
                         </div>
@@ -631,7 +628,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 						<div type="ref">
 							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.103</p>
 						</div>
-						</div type="comment">
+						<div type="comment">
 							<p>ἤϊα βρώματα οὐ τὰ ἐν οίκω δὲ ἐσθι. μενα ἀλλα τὰ ἐν ὁδῶι καὶ πλῶι δεῦτε φίλοι ἤϊα φερώμεθα <persName n="urn:cite:hmt:pers.pers279">σιμωνίδης</persName>. καὶ τὰ ἄχυρα δὲ ἤϊα λέγεται ὡς δ' ἄνεμος ζαὴς ἠΐωνθη μῶνα τινάξει τάχα δὲ τὰ φερόμενα παρα τὸ ϊέναι· γενηθέντος δὲ γάρ άνέμου δεῦρο κακεῖ σε φέρεται</p>
 						</div>
 					</div>
@@ -642,7 +639,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 						<div type="ref">
 							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.107</p>
 						</div>
-						</div type="comment">
+						<div type="comment">
 							<p><persName n="urn:cite:hmt:pers.pers248">Ἡρακλέων</persName> ἀξιοῖ οτίζειν πόλιος ἵνα φησὶν ἐμφαίνηι τοιοῦτό τι· τί δὲ λέγω πόλιος ἐπανταῖς γάρ ἤδη ταῖς ναυσὶ μάλονται ἵκανὸν μέντοι βραχὺ διαστέλλειν</p>
 					</div>
 					<div n="C6" type="scholion">
@@ -652,7 +649,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 						<div type="ref">
 							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.115</p>
 						</div>
-						</div type="comment">
+						<div type="comment">
 							<p>ὁτὶ ἀμφίβολον τὸ ἀκεώμεθα πότερον ἰαθῶμεν, ἠ ἀκεσώμεθα ὃ καὶ <choice><sic>ὑγιὲς</sic><corr>ὑγιές</corr></choice> οἶον τὸ ἐλαττωωμα ἰασώμεθα</p>
 						</div>
 					</div>
@@ -663,7 +660,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 						<div type="ref">
 							<p>urn:cts:greekLit:tlg0012.tlg001.msA.hmt:13.115</p>
 						</div>
-						</div type="comment">
+						<div type="comment">
 							<p>εὐθεράπευτοι εὐΐατοι αἱ γὰρ τῶν ἀγαθῶν φρένες ῥαδίως προς τὸ κρεῖττον μετατίθενται ευθεράπευτοι οὖσαι ῆ θεραπευτικαί</p>
 						</div>
 					</div>
@@ -679,7 +676,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>νῦν ἀνεφάνη ἡ ἡμέρα ἐν ῇ ὑπὸ τῶν Τρώων ἀναιρεθήσεσθε  ⁑ </p>
-                            </div>
+                         </div>
 					</div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
                         <div type="lemma">
@@ -692,7 +689,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>Text Here</p>
                         </div>
                     </div>                    
-                    
+                    </div>
                 </body>
             </text>
             
