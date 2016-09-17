@@ -58,7 +58,7 @@ urn:cite:op:team2.56,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ρ[2],"urn:cite:hmt:
 urn:cite:op:team2.57,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ο[3],"urn:cite:hmt:vaimg.VA165VN-0667@0.3437,0.3469,0.0054,0.0062",
 urn:cite:op:team2.58,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ν[2],"urn:cite:hmt:vaimg.VA165VN-0667@0.3492,0.3464,0.006,0.0066",
 urn:cite:op:team2.59,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@τ,"urn:cite:hmt:vaimg.VA165VN-0667@0.3543,0.3459,0.0047,0.0066",
-urn:cite:op:team2.60,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@εσ,"urn:cite:hmt:vaimg.VA165VN-0667@0.3581,0.3442,0.0115,0.0076",ligature
+urn:cite:op:team2.60,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@εσ,"urn:cite:hmt:vaimg.VA165VN-0667@0.3581,0.3442,0.0115,0.0076",ligature,
 urn:cite:op:team2.61,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@τ[2],"urn:cite:hmt:vaimg.VA165VN-0667@0.3697,0.3471,0.0066,0.005",
 urn:cite:op:team2.62,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@η[3],"urn:cite:hmt:vaimg.VA165VN-0667@0.3758,0.3471,0.0058,0.005",
 urn:cite:op:team2.63,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ι[3],"urn:cite:hmt:vaimg.VA165VN-0667@0.381,0.3471,0.0058,0.005",
@@ -67,10 +67,10 @@ urn:cite:op:team2.65,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@α[3],"urn:cite:hmt:
 urn:cite:op:team2.66,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@χ[3],"urn:cite:hmt:vaimg.VA165VN-0667@0.3972,0.3475,0.0088,0.0079",
 urn:cite:op:team2.67,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@η[4],"urn:cite:hmt:vaimg.VA165VN-0667@0.4054,0.3441,0.0052,0.007",
 urn:cite:op:team2.68,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ι[4],"urn:cite:hmt:vaimg.VA165VN-0667@0.4098,0.3452,0.0052,0.007",
-urn:cite:op:team2.69,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
-urn:cite:op:team2.70,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
-urn:cite:op:team2.71,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
-urn:cite:op:team2.72,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
+urn:cite:op:team2.69,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@εστ,"urn:cite:hmt:vaimg.VA165VN-0667@0.2292,0.3595,0.0102,0.0088",ligature,
+urn:cite:op:team2.70,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ι[5],"urn:cite:hmt:vaimg.VA165VN-0667@0.238,0.3601,0.005,0.0088",
+urn:cite:op:team2.71,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@δ,
+urn:cite:op:team2.72,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@ε,
 urn:cite:op:team2.73,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
 urn:cite:op:team2.74,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
 urn:cite:op:team2.75,urn:cts:greekLit:tlg5026.msA:hmt:13.B1@
