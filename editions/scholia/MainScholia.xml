@@ -26,6 +26,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <author>Wieneke Jansen</author>
                 <author>Sjors Leek</author>
                 <author>Bengt Rooijers</author>
+                <author>Marloes Velthuisen</author>
                 <author>Tazuko van Berkel</author>
                 <author>Ineke Sluiter</author>
             </titleStmt>
@@ -475,19 +476,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.032" type="scholion">
                         <div type="lemma">
-                            <p><persName n="urn:cite:hmt:pers.pers150">ὀϊλῆος</persName> ταχὺς <PersName n="urn:cite:hmt:pers.pers281">αἴας</PersName> </p>
+                            <p><persName n="urn:cite:hmt:pers.pers150">ὀϊλῆος</persName> ταχὺς <persName n="urn:cite:hmt:pers.pers281">αἴας</persName> </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.066</p>
                         </div>
                         <div type="comment">
-                            <p> <PersName n="urn:cite:hmt:pers.pers281">αἴας</PersName> <PlaceName n="urn:cite:hmt:place.place95">λοκρος</PlaceName> μὲν ἦν τὸ γενος ἀπο πόλιος πατρος δὲ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεώς</persName>. 
-                                οὗτος μετα τὴν <PlaceName n="urn:cite:hmt:place.place15">ἰλιου</PlaceName> πόρθησιν ἀίτιος τοις <rs type= "ethnic" n="urn:cite:hmt:place.place3">ἕλλησιν</rs> ἀπωλειας ἐγίνετο· 
+                            <p> <persName n="urn:cite:hmt:pers.pers281">αἴας</persName> <placeName n="urn:cite:hmt:place.place95">λοκρος</placeName> μὲν ἦν τὸ γενος ἀπο πόλιος πατρος δὲ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεώς</persName>. 
+                                οὗτος μετα τὴν <placeName n="urn:cite:hmt:place.place15">ἰλιου</placeName> πόρθησιν ἀίτιος τοις <rs type= "ethnic" n="urn:cite:hmt:place.place3">ἕλλησιν</rs> ἀπωλειας ἐγίνετο· 
                                 <persName n="urn:cite:hmt:pers.pers673">Κασάνδραν</persName> γαρ την <persName n="urn:cite:hmt:pers.pers145">πριάμου</persName> ϊκετίν οὖσαν <persName n="urn:cite:hmt:pers.pers67">ἀθηνᾶς</persName> ἐν τῳ της θεου σηκῶ κατηίσχυνεν ὥστε την θεον τοὺς ὀφθαλμοὺς του ξοάνου εἰς την οροφην τρέψαι 
                                 τοῖς δὲ <rs type= "ethnic" n="urn:cite:hmt:place.place3">ἕλλησιν</rs> ὑποστρέφουσι καὶ κατα την <placeName n="urn:cite:hmt:place.place100">ευβοιαν</placeName> γινομένους χειμῶνας διεγείραι μεγάλους ὥστε πολλοὺς αὐτῶν διαφθαρῆναι διανηξάμενος
-                                δὲ  <PersName n="urn:cite:hmt:pers.pers281">αἴας</PersName> εἰς τὰς χοιραδας καλουμενας πἐτρας ἔλεγεν χωρὶς θεῶν γνώμης διασεσῶσθαι· <persName n="urn:cite:hmt:pers.pers47">ποσειδῶν</persName> 
+                                δὲ  <persName n="urn:cite:hmt:pers.pers281">αἴας</persName> εἰς τὰς χοιραδας καλουμενας πἐτρας ἔλεγεν χωρὶς θεῶν γνώμης διασεσῶσθαι· <persName n="urn:cite:hmt:pers.pers47">ποσειδῶν</persName> 
                                 δὲ ἀγανακτήσας δίεσχισε την πετραν καὶ τον <persName n="urn:cite:hmt:pers.pers281">ἀιαντα</persName> τῳ κλύδωνι παρέδωκεν· ἐκριφεντα δὲ αὐτον κάτα <placeName n="urn:cite:hmt:place.place9">δηλον</placeName> νεκρον <persName n="urn:cite:hmt:pers.pers19">θετίς</persName> 
-                                ἐλεήσασα θάπτει· <persName n="urn:cite:hmt:pers.pers67">ἀθηνα</persName>  δὲ οὐδ' οὔτως της οργης ἐπαύσατο - ἀλλα καὶ τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place95">λοκροὺς</rs> ἠνάγκασεν ἐπι χίλια ἔτη εἰς <PlaceName n="urn:cite:hmt:place.place15">ἰλιον</PlaceName>
+                                ἐλεήσασα θάπτει· <persName n="urn:cite:hmt:pers.pers67">ἀθηνα</persName>  δὲ οὐδ' οὔτως της οργης ἐπαύσατο - ἀλλα καὶ τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place95">λοκροὺς</rs> ἠνάγκασεν ἐπι χίλια ἔτη εἰς <placeName n="urn:cite:hmt:place.place15">ἰλιον</placeName>
                                 ἐκ κλήρου παρθένους πέμπει ἡ ἱστορια παρα <persName n="urn:cite:hmt:pers.pers86">καλλιμαχῳ</persName>· ἐν α̅ αἰτίων καὶ παρα τῷ ποιητῃ 
                                 ἐν τῇ δ̅ της <choice><abbr>Οδ</abbr><expan>Οδυσειας</expan></choice> παχυμερῶς </p>
                         </div>
@@ -563,7 +564,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.88</p>
                         </div>
                         <div type="comment">
-                            <p>  ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθὅμηρον ὑπο ταῖς ὀφρύσι κοίμησόν μοι <PersName n="urn:cite:hmt:pers.pers8">ζηνὸς</PersName> ὑπο φρύσιν ὅσσε φαεινῷ. δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον⁑</p>
+                            <p>  ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθὅμηρον ὑπο ταῖς ὀφρύσι κοίμησόν μοι <persName n="urn:cite:hmt:pers.pers8">ζηνὸς</persName> ὑπο φρύσιν ὅσσε φαεινῷ. δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον⁑</p>
                         </div>
 					</div>
 					<div n="urn:cts:greekLit:tlg5026.msA.hmt:13.039" type="scholion">
