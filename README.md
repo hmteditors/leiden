@@ -61,24 +61,23 @@ Editing HMT material at Leiden University
 
 * http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio. It is recommended to have the Venetus A and the Comparetti open in adjacent tabs)
 * http://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
-* homermultitext.slack.com (to contact Neel or Stephanie)
+* https://homermultitext.slack.com (to contact Neel or Stephanie)
 
 ##Progress
 
-: `                                      164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
----
-: `paleography (csv)                   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `main text indices (csv)             |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `main scholia indices (csv)          |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `intermarginal scholia indices (csv) |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `interlinear scholia indices (csv)   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `interior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `exterior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `main text (xml)                     |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `main scholia (xml)                  |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `intermarginal scholia (xml)         |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `interlinear scholia (xml)           |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `interior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-: `exterior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `                                      164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
+- `paleography (csv)                   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `main text indices (csv)             |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `main scholia indices (csv)          |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `intermarginal scholia indices (csv) |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `interlinear scholia indices (csv)   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `interior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `exterior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `main text (xml)                     |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `main scholia (xml)                  |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `intermarginal scholia (xml)         |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `interlinear scholia (xml)           |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `interior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+- `exterior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
 
 **NB**: *y*: yes, finished; *?*: unclear
