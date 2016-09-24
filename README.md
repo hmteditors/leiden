@@ -11,13 +11,13 @@ Editing HMT material at Leiden University
 
 ##Table of contents
 
-- [[https://github.com/hmteditors/leiden#what-is-there-on-a-folio What is there on a folio?]] 
-- [https://github.com/hmteditors/leiden#what-ought-to-be-done-to-complete-a-folio What ought to be done to complete a folio?]
-- Which files ought to be edited?
-- Which lines are there on each folio?
-- Progress
-- Basic infrastructure for working with digital representations of manuscripts
-- Useful links for editing
+- [What is there on a folio?](https://github.com/hmteditors/leiden#what-is-there-on-a-folio)
+- [What ought to be done to complete a folio?](https://github.com/hmteditors/leiden#what-ought-to-be-done-to-complete-a-folio)
+- [Which files ought to be edited?](https://github.com/hmteditors/leiden#which-files-ought-to-be-edited)
+- [Which lines are there on each folio?](https://github.com/hmteditors/leiden#which-lines-are-there-on-each-folio)
+- [Progress](https://github.com/hmteditors/leiden#progress)
+- [Basic infrastructure for working with digital representations of manuscripts](https://github.com/hmteditors/leiden#basic-infrastructure-for-working-with-digital-representations-of-manuscripts)
+- [Useful links for editing](https://github.com/hmteditors/leiden#useful-links-for-editing)
 
 ##What is there on a folio?
 
