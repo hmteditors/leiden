@@ -27,10 +27,10 @@ Editing HMT material at Leiden University
 
 * The main text of the *Iliad*
 * Main scholia
-* Intermarginal (**im**) scholia (between the main text and the main scholia)
-* Interlinear (**il**) scholia (between the lines of the main text)
-* Interior (**int**) scholia (in the inner margin of the folio, *i.e.* to the left of the main text on *recto* pages and to the right of the main text on *verso* pages)
-* Exterior (**ext**) scholia (in the outer margin of the folio, *i.e.* to the right of the main scholia on *recto* pages and to the left of the main scholia on *verso* pages)
+* Intermarginal (*im*) scholia (between the main text and the main scholia)
+* Interlinear (*il*) scholia (between the lines of the main text)
+* Interior (*int*) scholia (in the inner margin of the folio, *i.e.* to the left of the main text on *recto* pages and to the right of the main text on *verso* pages)
+* Exterior (*ext*) scholia (in the outer margin of the folio, *i.e.* to the right of the main scholia on *recto* pages and to the left of the main scholia on *verso* pages)
 * Special signs, numbers, and abbreviations (these can be ignored for now, because this is done systematically by someone else)
 
 **NB**: not all folios have all types of scholia
@@ -61,15 +61,15 @@ Editing HMT material at Leiden University
 
 ##Which lines are there on each folio?
 
-* **164r**: *Iliad* 13.-
-* **164v**: *Iliad* 13.-
-* **165r**: *Iliad* 13.-
-* **165v**: *Iliad* 13.-
-* **166r**: *Iliad* 13.-
-* **166v**: *Iliad* 13.-
-* **167r**: *Iliad* 13.-
-* **167v**: *Iliad* 13.-
-* **168r**: *Iliad* 13.-
+* **164r**: *Iliad* 13.1-25
+* **164v**: *Iliad* 13.26-50
+* **165r**: *Iliad* 13.51-75
+* **165v**: *Iliad* 13.76-100
+* **166r**: *Iliad* 13.101-125
+* **166v**: *Iliad* 13.126-150
+* **167r**: *Iliad* 13.151-177
+* **167v**: *Iliad* 13.178-204
+* **168r**: *Iliad* 13.205-229
 * **168v**: *Iliad* 13.-
 * **169r**: *Iliad* 13.-
 
@@ -143,7 +143,7 @@ Editing HMT material at Leiden University
 
 ##Useful links for editing
 
-* http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio. It is recommended to have the Venetus A and the Comparetti open in adjacent tabs)
-* http://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
+* https://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
+* https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
 
