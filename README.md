@@ -1,4 +1,5 @@
-https://github.com/hmteditors/leiden/README.md
+https://github.com/hmteditors/leiden/
+README.md
 
 **This is the working directory of the Leiden sub-group of the Homer Multitext Project.**
 
