@@ -143,7 +143,7 @@ Editing HMT material at Leiden University
 
 ##Useful links for editing
 
-* https://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
+* http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
 * https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
 
