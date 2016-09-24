@@ -65,19 +65,67 @@ Editing HMT material at Leiden University
 
 ##Progress
 
-- `                                      164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
-- `paleography (csv)                   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `main text indices (csv)             |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `main scholia indices (csv)          |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `intermarginal scholia indices (csv) |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `interlinear scholia indices (csv)   |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `interior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `exterior scholia indices (csv)      |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `main text (xml)                     |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `main scholia (xml)                  |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `intermarginal scholia (xml)         |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `interlinear scholia (xml)           |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `interior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
-- `exterior scholia (xml)              |  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+<table>
+  <tr>
+    <td> </td>
+    <td>` 164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
+  </tr>
+  <tr>
+    <td>paleography (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>main text indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>main scholia indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>intermarginal scholia indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>interlinear scholia indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>interior scholia indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>exterior scholia indices (`csv`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td> </td>
+    <td>` 164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
+  </tr>
+  <tr>
+    <td>main text (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>main scholia (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>intermarginal scholia (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>interlinear scholia (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>interior scholia (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+  <tr>
+    <td>exterior scholia (`xml`)</td>
+    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+  </tr>
+</table>
 
 **NB**: *y*: yes, finished; *?*: unclear
