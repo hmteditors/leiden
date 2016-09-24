@@ -15,9 +15,9 @@ Editing HMT material at Leiden University
 - What ought to be done to complete a folio?
 - Which files ought to be edited?
 - Which lines are there on each folio?
-- Useful links for editing
-- Basic infrastructure for working with digital representations of manuscripts
 - Progress
+- Basic infrastructure for working with digital representations of manuscripts
+- Useful links for editing
 
 ##What is there on a folio?
 
