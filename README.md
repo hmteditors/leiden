@@ -11,8 +11,8 @@ Editing HMT material at Leiden University
 
 ##Table of contents
 
-- What is there on a folio? 
-- What ought to be done to complete a folio?
+- [[https://github.com/hmteditors/leiden#what-is-there-on-a-folio What is there on a folio?]] 
+- [https://github.com/hmteditors/leiden#what-ought-to-be-done-to-complete-a-folio What ought to be done to complete a folio?]
 - Which files ought to be edited?
 - Which lines are there on each folio?
 - Progress
