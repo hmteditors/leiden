@@ -18,6 +18,7 @@ Editing HMT material at Leiden University
 - What is there on a folio? 
 - What ought to be done to complete a folio?
 - Which files ought to be edited?
+- Which lines are there on each folio?
 - Useful links for editing
 - Progress
 
@@ -57,75 +58,93 @@ Editing HMT material at Leiden University
 * `editions/scholia/InteriorScholia{folio}.xml`
 * `editions/scholia/ExteriorScholia{folio}.xml`
 
-##Useful links for editing
+##Which lines are there on each folio?
 
-* http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio. It is recommended to have the Venetus A and the Comparetti open in adjacent tabs)
-* http://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
-* https://homermultitext.slack.com (to contact Neel or Stephanie)
+* **164r**: *Iliad* 13.-
+* **164v**: *Iliad* 13.-
+* **165r**: *Iliad* 13.-
+* **165v**: *Iliad* 13.-
+* **166r**: *Iliad* 13.-
+* **166v**: *Iliad* 13.-
+* **167r**: *Iliad* 13.-
+* **167v**: *Iliad* 13.-
+* **168r**: *Iliad* 13.-
+* **168v**: *Iliad* 13.-
+* **169r**: *Iliad* 13.-
 
 ##Progress
 
 <table>
   <tr>
     <td> </td>
-    <td>` 164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
+    <td>164 r</td> <td>164 v</td> <td>165 r</td> <td>165 v</td> <td>166 r</td> <td>166 v</td> <td>167 r</td> <td>167 v</td> <td>168 r</td> <td>168 v</td> <td>169 r</td>
   </tr>
   <tr>
-    <td>paleography (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>paleograph  y   (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main text indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>main text indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main scholia indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>main scholia indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>intermarginal scholia indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>intermarginal scholia indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interlinear scholia indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>interlinear scholia indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interior scholia indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>interior scholia indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>exterior scholia indices (`csv`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>exterior scholia indices (csv)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
     <td> </td>
-    <td>` 164r, 164v, 165r, 165v, 166r, 166v, 167r, 167v, 168r, 168v, 169r`
+    <td>164 r</td> <td>164 v</td> <td>165 r</td> <td>165 v</td> <td>166 r</td> <td>166 v</td> <td>167 r</td> <td>167 v</td> <td>168 r</td> <td>168 v</td> <td>169 r</td>
   </tr>
   <tr>
-    <td>main text (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>main text (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main scholia (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>main scholia (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>intermarginal scholia (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>intermarginal scholia (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interlinear scholia (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>interlinear scholia (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interior scholia (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>interior scholia (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>exterior scholia (`xml`)</td>
-    <td>`  y  |  y  |  y  |  y  |  ?  |  ?  |  ?  |  ?  |  ?  |     |     `
+    <td>exterior scholia (xml)</td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
 </table>
 
+
+
 **NB**: *y*: yes, finished; *?*: unclear
+
+
+##Useful links for editing
+
+* http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio. It is recommended to have the Venetus A and the Comparetti open in adjacent tabs)
+* http://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
+* https://homermultitext.slack.com (to contact Neel or Stephanie)
+
