@@ -7,12 +7,7 @@ README.md
 
 Editing HMT material at Leiden University
 
-- *Iliad* 13 in the Venetus A:  folios 164 recto - 169 recto (inclusive)
-- http://homermultitext.github.io/hmt-docs/totaled/
-
-**Basic infrastructure for working with digital representations of manuscripts**
-- creating a model of the page sequences of Leiden University, codex VGF 64
-- creating a navigational index of Iliad lines in VGF 64
+*Iliad* 13 in the Venetus A: folios 164 recto - 169 recto (inclusive)
 
 ##Table of contents
 
@@ -21,6 +16,7 @@ Editing HMT material at Leiden University
 - Which files ought to be edited?
 - Which lines are there on each folio?
 - Useful links for editing
+- Basic infrastructure for working with digital representations of manuscripts
 - Progress
 
 ##What is there on a folio?
@@ -141,9 +137,15 @@ Editing HMT material at Leiden University
 
 **NB**: *y*: yes, finished; *?*: unclear
 
+##Basic infrastructure for working with digital representations of manuscripts
+
+- creating a model of the page sequences of Leiden University, codex VGF 64
+- creating a navigational index of Iliad lines in VGF 64
+
 ##Useful links for editing
 
 * http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
+* https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)
 * https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
 
