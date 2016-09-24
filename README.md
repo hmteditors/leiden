@@ -77,70 +77,68 @@ Editing HMT material at Leiden University
 <table>
   <tr>
     <td> </td>
-    <td>164 r</td> <td>164 v</td> <td>165 r</td> <td>165 v</td> <td>166 r</td> <td>166 v</td> <td>167 r</td> <td>167 v</td> <td>168 r</td> <td>168 v</td> <td>169 r</td>
+    <td> 164v</td> <td> 164r</td> <td> 165v</td> <td> 165r</td> <td> 166v</td> <td> 166r</td> <td> 167r</td> <td> 167v</td> <td> 168r</td> <td> 168v</td> <td> 169r</td>
   </tr>
   <tr>
-    <td>paleograph  y   (csv)</td>
+    <td>paleography</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main text indices (csv)</td>
+    <td>main text indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main scholia indices (csv)</td>
+    <td>main scholia indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>intermarginal scholia indices (csv)</td>
+    <td>intermarginal scholia indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interlinear scholia indices (csv)</td>
+    <td>interlinear scholia indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interior scholia indices (csv)</td>
+    <td>interior scholia indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>exterior scholia indices (csv)</td>
+    <td>exterior scholia indices</td> <td>(<b>csv</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
     <td> </td>
-    <td>164 r</td> <td>164 v</td> <td>165 r</td> <td>165 v</td> <td>166 r</td> <td>166 v</td> <td>167 r</td> <td>167 v</td> <td>168 r</td> <td>168 v</td> <td>169 r</td>
+    <td> 164v</td> <td> 164r</td> <td> 165v</td> <td> 165r</td> <td> 166v</td> <td> 166r</td> <td> 167r</td> <td> 167v</td> <td> 168r</td> <td> 168v</td> <td> 169r</td>
   </tr>
   <tr>
-    <td>main text (xml)</td>
+    <td>main text</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>main scholia (xml)</td>
+    <td>main scholia</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>intermarginal scholia (xml)</td>
+    <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interlinear scholia (xml)</td>
+    <td>interlinear scholia</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>interior scholia (xml)</td>
+    <td>interior scholia</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
   <tr>
-    <td>exterior scholia (xml)</td>
+    <td>exterior scholia</td> <td>(<b>xml</b>)</td>
     <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>     </td> <td>     </td>
   </tr>
 </table>
 
 
-
 **NB**: *y*: yes, finished; *?*: unclear
-
 
 ##Useful links for editing
 
