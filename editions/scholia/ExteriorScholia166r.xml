@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -9,25 +8,25 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" >
   <teiHeader>
-      <fileDesc>
-          <titleStmt>
-              <title>Venetus A Exterior Scholia</title>
-              <author>Thom van Leuveren</author>
-              <author>Bart Bijvoets</author>
-          </titleStmt>
-          <publicationStmt>
-              <p>Unpublished</p>
-          </publicationStmt>
-          <sourceDesc>
-              <p>Transcribed from Venetus A MS</p>
-          </sourceDesc>
-      </fileDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>Venetus A Exterior Scholia</title>
+        <author>Thom van Leuveren</author>
+        <author>Bart Bijvoets</author>
+      </titleStmt>
+    <publicationStmt>
+      <p>Unpublished</p>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Transcribed from Venetus A MS</p>
+        </sourceDesc>
+     </fileDesc>
   </teiHeader>
   <text>
     <group n="13">
       <text n="msAext">
         <body>
-          <div n="urn:cts:greekLit:tlg5026.msAext:13.C1" type="scholion">
+          <div n="166r1" type="scholion">
             <div type="lemma">
               <p/>
             </div>

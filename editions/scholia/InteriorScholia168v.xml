@@ -10,7 +10,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Venetus A Exterior Scholia</title>
+        <title>Venetus A Interior Scholia</title>
         <author>Please enter your name here</author>
         <author>Please enter your name here</author>
         <author>Please enter your name here</author>
@@ -25,9 +25,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   </teiHeader>
   <text>
     <group n="13">
-      <text n="msAext">
+      <text n="msAint">
         <body>
-          <div n="166v1" type="scholion">
+          <div n="168v1" type="scholion">
             <div type="lemma">
               <p>Lemma here</p>
             </div>
