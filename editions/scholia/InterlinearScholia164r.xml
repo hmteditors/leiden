@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -10,31 +10,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Iliad 13 Venetus A Interlinear Scholia</title>
-        <author>Alex van Eldik</author>
-        <author>Aniek Vink</author>
-        <author>Bart Bijvoets</author>
-        <author>Bengt Rooijers</author>
-        <author>Bob van Velthoven</author>
-        <author>Elias Eells</author>
-        <author>Ineke Sluiter</author>
-        <author>Kirsten Haijes</author>
-        <author>Leanne Jansen</author>
-        <author>Leonie Henkes</author>
-        <author>Maike van Haeringen</author>
-        <author>Marloes Velthuisen</author>
-        <author>Nik Churik</author>
-        <author>Olivia Monster</author>
-        <author>Sjors Leek</author>
-        <author>Suzan Boreel</author>
-        <author>Suzanne Verkade</author>
-        <author>Tazuko van Berkel</author>
-        <author>Thom van Leuveren</author>
-        <author>Wieneke Jansen</author>
+        <title>Venetus A Interlinear Scholia</title>
+        <author>Please enter your name here</author>
+        <author>Please enter your name here</author>
+        <author>Please enter your name here</author>
       </titleStmt>
-      <publicationStmt>
-        <p>Unpublished</p>
-      </publicationStmt>
+    <publicationStmt>
+      <p>Unpublished</p>
+    </publicationStmt>
       <sourceDesc>
         <p>Transcribed from Venetus A MS</p>
       </sourceDesc>
@@ -44,7 +27,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAil">
         <body>
-          <div n="*****" type="scholion">
+          <div n="164r1" type="scholion">
             <div type="lemma">
               <p>Lemma here</p>
             </div>
