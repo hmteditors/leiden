@@ -126,7 +126,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>interior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  y? </td> <td>  y? </td> <td>  y?</td> <td>  y?  </td> <td>  y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
