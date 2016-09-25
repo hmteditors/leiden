@@ -82,7 +82,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main text indices</td> <td>(<b>csv</b>)</td>
-    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main scholia indices</td> <td>(<b>csv</b>)</td>
@@ -110,7 +110,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main text</td> <td>(<b>xml</b>)</td>
-    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  y  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
