@@ -106,7 +106,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td> </td> <td> </td>
-    <td> 164v</td> <td> 164r</td> <td> 165v</td> <td> 165r</td> <td> 166v</td> <td> 166r</td> <td> 167r</td> <td> 167v</td> <td> 168r</td> <td> 168v</td> <td> 169r</td>
+    <td> 164r</td> <td> 164v</td> <td> 165r</td> <td> 165v</td> <td> 166r</td> <td> 166v</td> <td> 167r</td> <td> 167v</td> <td> 168r</td> <td> 168v</td> <td> 169r</td>
   </tr>
   <tr>
     <td>main text</td> <td>(<b>xml</b>)</td>
