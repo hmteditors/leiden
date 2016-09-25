@@ -118,7 +118,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
-    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  ?  </td> <td>  ? </td> <td>  Y?  </td> <td>  Y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
   </tr>
   <tr>
     <td>interlinear scholia</td> <td>(<b>xml</b>)</td>

@@ -27,37 +27,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAim">
         <body>
-          <div n="164r1" type="scholion">
+          <div n="164v1" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>Lemma here</p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.9</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>γράφεται καὶ <q>ἀρήξειν</q> ⁑</p>
-            </div>
-          </div>
-          <div n="164r2" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
-            <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.11</p>
-            </div>
-            <div type="comment">
-              <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice><cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:13.11</ref><q>θαυμάζων</q></cit> ἀντὶ τοῦ <waw>θεώμενος</waw> ⁑</p>
-            </div>
-          </div>
-          <div n="164r3" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
-            <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.25</p>
-            </div>
-            <div type="comment">
-              <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ἐκ τῶν συμφραζομένων τὸ <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:13.25</ref><q>γέντο</q></cit> <waw>ἔλαβεν</waw> σημαίνει ⁑</p>
+              <p>Text of scholion here</p>
             </div>
           </div>
         </body>
