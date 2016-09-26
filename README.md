@@ -33,7 +33,8 @@ Editing HMT material at Leiden University
 
 ##What ought to be done to complete a folio?
 
-* Make a palaeographic sample of every glyph in the first line of the main text and of the first main scholion on each folio (`csv`)
+* Make a palaeographic sample of every glyph in the first line of the main text (`csv`)
+* Make a palaeographic sample of every glyph in the first line of the first main scholion (`csv`)
 * Index the individual lines of the main text (`csv`)
 * Index the individual main, *im*, *il*, *int*, and *ext* scholia (`csv`)
 * Transcribe the individual lines of the main text (`xml`)
