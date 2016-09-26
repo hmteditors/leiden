@@ -154,4 +154,4 @@ Editing HMT material at Leiden University
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
 * https://el.wikisource.org/wiki/Ιλιάς/Ν (*Iliad* book 13, without critical apparatus)
 
-**NB**: Also have a look at the files in `writing/`.
+**NB**: Also have a look at the files in `writing/`
