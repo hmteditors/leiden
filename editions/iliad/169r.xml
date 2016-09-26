@@ -31,10 +31,7 @@
 	<text>
 		<body xml:lang="grc">
 			<div n="13">
-				<head>ἰλίαδος <num value="13">ν</num></head>
-
-				<l n="256"><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> δ᾽ ἐπεὶ οὖν <rs type="ethnic" n="urn:cite:hmt:place.place17">Τρῶάς</rs> τε καὶ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> νηυσὶ πέλασσε.</l>
-				
+				<l n="256">Insert line here</l>
 			</div>
 		</body>
 	</text>
