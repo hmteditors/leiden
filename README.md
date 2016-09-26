@@ -144,7 +144,10 @@ Editing HMT material at Leiden University
 
 ##Useful links for editing
 
-* https://github.com/hmteditors/leiden/wiki (more helpful links)
+* https://github.com/hmteditors/leiden/wiki (Leiden University HMT wiki)
+* https://github.com/hmteditors/gustavus/wiki (Gustavus Adolphus College HMT wiki)
+* https://github.com/hmteditors/furman/wiki (Furman University HMT wiki)
+* https://github.com/hmteditors/brandeis/wiki (Brandeis University HMT wiki)
 * http://www.homermultitext.org/hmt-digital/svcforms (to search for images of a folio; it is recommended to have the Venetus A and the Comparetti open in adjacent tabs, *especially* when working on the exterior scholia)
 * https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)
 * https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
