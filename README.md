@@ -148,4 +148,5 @@ Editing HMT material at Leiden University
 * https://homermultitext.github.io/hmt-docs/totaled/ (to look up the HMT project principles)
 * https://homermultitext.github.io/hmt-editors-guide/editorial-policies/ (to look up the HMT `xml` editing standards)
 * https://homermultitext.slack.com (to contact Neel or Stephanie)
+* https://el.wikisource.org/wiki/%CE%99%CE%BB%CE%B9%CE%AC%CF%82/%CE%9D *Iliad* book 13 (without critical apparatus)
 
