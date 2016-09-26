@@ -1,3 +1,4 @@
+Observation,TextUrn,Image,Comments
 urn:cite:op:leiden1.1,urn:cts:greekLit:tlg0012.tlg001.msA:13.51@ε,"urn:cite:hmt:vaimg.VA165RN-0336@0.2,0.1983,0.026,0.0248",
 urn:cite:op:leiden1.2,urn:cts:greekLit:tlg0012.tlg001.msA:13.51@ξ,"urn:cite:hmt:vaimg.VA165RN-0336@0.212,0.2096,0.017,0.0225",
 urn:cite:op:leiden1.3,urn:cts:greekLit:tlg0012.tlg001.msA:13.51@ο,"urn:cite:hmt:vaimg.VA165RN-0336@0.222,0.2074,0.017,0.0225",
@@ -110,11 +111,11 @@ urn:cite:op:leiden1.109,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@γ,"urn:cite:hmt:
 urn:cite:op:leiden1.110,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@α,"urn:cite:hmt:vaimg.VA165RN-0336@0.2606,0.0953,0.0081,0.0095",
 urn:cite:op:leiden1.111,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@ρ,"urn:cite:hmt:vaimg.VA165RN-0336@0.2663,0.0965,0.0081,0.0095",
 urn:cite:op:leiden1.112,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@α[2],"urn:cite:hmt:vaimg.VA165RN-0336@0.2859,0.0961,0.0081,0.0095",
-urn:cite:op:leiden1.113,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.114,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.115,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.116,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.117,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.118,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.119,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
-urn:cite:op:leiden1.120,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@
+urn:cite:op:leiden1.113,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.114,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.115,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.116,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.117,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.118,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.119,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
+urn:cite:op:leiden1.120,urn:cts:greekLit:tlg5026.msA:hmt:13.A1@,"",
