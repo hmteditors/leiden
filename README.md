@@ -66,8 +66,8 @@ Editing HMT material at Leiden University
 * **167r**: *Iliad* 13.151-177
 * **167v**: *Iliad* 13.178-204
 * **168r**: *Iliad* 13.205-229
-* **168v**: *Iliad* 13.-
-* **169r**: *Iliad* 13.-
+* **168v**: *Iliad* 13.230-254
+* **169r**: *Iliad* 13.256-280
 
 ##Progress
 
