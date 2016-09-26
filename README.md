@@ -33,7 +33,7 @@ Editing HMT material at Leiden University
 
 ##What ought to be done to complete a folio?
 
-* Make a palaeographic sample of every glyph in the first line of the main text on each folio (`csv`)
+* Make a palaeographic sample of every glyph in the first line of the main text and of the first main scholion on each folio (`csv`)
 * Index the individual lines of the main text (`csv`)
 * Index the individual main, *im*, *il*, *int*, and *ext* scholia (`csv`)
 * Transcribe the individual lines of the main text (`xml`)
@@ -41,7 +41,8 @@ Editing HMT material at Leiden University
 
 ##Which files ought to be edited?
 
-* `collections/paleography{folio}.csv`
+* `collections/paleography{team}.csv`
+* `collections/paleographyMainScholia{folio}.csv`
 * `indices/venA-textToImage-Iliad.csv`
 * `collections/venA-mainScholia{folio}.csv`
 * `collections/venA-intermarginal{folio}.csv`
@@ -77,7 +78,11 @@ Editing HMT material at Leiden University
     <td> 164r</td> <td> 164v</td> <td> 165r</td> <td> 165v</td> <td> 166r</td> <td> 166v</td> <td> 167r</td> <td> 167v</td> <td> 168r</td> <td> 168v</td> <td> 169r</td>
   </tr>
   <tr>
-    <td>paleography</td> <td>(<b>csv</b>)</td>
+    <td>paleography main text</td> <td>(<b>csv</b>)</td>
+    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+  </tr>
+  <tr>
+    <td>paleography main scholia</td> <td>(<b>csv</b>)</td>
     <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
   </tr>
   <tr>
