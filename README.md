@@ -178,7 +178,7 @@ Editing HMT material at Leiden University
 * If you do not understand git or github, ask Bart
 * If you do not understand a scholion, ask Ineke
 * If you do not know what to do next, go to the progress table and find your team a new task
-* Have a look at the wiki, and the useful links over there
+* Have a look at the wiki and the editorial guide (below); there are useful links over there
 * Try to help each other (you will learn most this way)
 * If nobody knows how to solve an editorial problem, report a new issue
 
