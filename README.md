@@ -17,6 +17,7 @@ Editing HMT material at Leiden University
 * [Which files ought to be edited?](https://github.com/hmteditors/leiden#which-files-ought-to-be-edited)
 * [Which lines are there on each folio?](https://github.com/hmteditors/leiden#which-lines-are-there-on-each-folio)
 * [Progress](https://github.com/hmteditors/leiden#progress)
+* [Problems?](https://github.com/hmteditors/leiden#problems)
 * [Basic infrastructure for working with digital representations of manuscripts](https://github.com/hmteditors/leiden#basic-infrastructure-for-working-with-digital-representations-of-manuscripts)
 * [Useful links for editing](https://github.com/hmteditors/leiden#useful-links-for-editing)
 
@@ -170,6 +171,16 @@ Editing HMT material at Leiden University
 * **?**: status unknown
 * **!**: currently being worked on
 * **-**: not started
+
+##Problems?
+
+* If you do not understand your virtual machine, ask Tazuko
+* If you do not understand git or github, ask Bart
+* If you do not understand a scholion, ask Ineke
+* If you do not know what to do next, go to the progress table and find your team a new task
+* Have a look at the wiki, and the useful links over there
+* Try to help each other (you will learn most this way)
+* If nobody knows how to solve an editorial problem, report a new issue
 
 ##Basic infrastructure for working with digital representations of manuscripts
 
