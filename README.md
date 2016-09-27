@@ -116,7 +116,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  Y  </td> <td>  Y  </td> <td>  !? </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  ?  </td>
   </tr>
   <tr>
     <td>intermarginal scholia indices</td> <td>(<b>csv</b>)</td>
@@ -144,7 +144,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  !? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  ?  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
