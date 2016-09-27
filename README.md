@@ -66,20 +66,20 @@ Editing HMT material at Leiden University
 
 ##Which files ought to be edited?
 
-* `collections/paleography{team}.csv`
-* `collections/paleographyMainScholia{folio}.csv`
+* `collections/paleography/{folio}.csv`
+* `collections/paleographyMainScholia/{folio}.csv`
 * `indices/venA-textToImage-Iliad.csv`
-* `collections/venA-mainScholia{folio}.csv`
-* `collections/venA-intermarginal{folio}.csv`
-* `collections/venA-interlinear{folio}.csv`
-* `collections/venA-interior{folio}.csv`
-* `collections/venA-exterior{folio}.csv`
+* `collections/venA-mainScholia/{folio}.csv`
+* `collections/venA-intermarginal/{folio}.csv`
+* `collections/venA-interlinear/{folio}.csv`
+* `collections/venA-interior/{folio}.csv`
+* `collections/venA-exterior/{folio}.csv`
 * `editions/Iliad/{folio}.xml`
-* `editions/scholia/MainScholia{folio}.xml`
-* `editions/scholia/IntermarginalScholia{folio}.xml`
-* `editions/scholia/InterlinearScholia{folio}.xml`
-* `editions/scholia/InteriorScholia{folio}.xml`
-* `editions/scholia/ExteriorScholia{folio}.xml`
+* `editions/scholia/MainScholia/{folio}.xml`
+* `editions/scholia/IntermarginalScholia/{folio}.xml`
+* `editions/scholia/InterlinearScholia/{folio}.xml`
+* `editions/scholia/InteriorScholia/{folio}.xml`
+* `editions/scholia/ExteriorScholia/{folio}.xml`
 
 ##Which lines are there on each folio?
 
@@ -108,7 +108,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>paleography main scholia</td> <td>(<b>csv</b>)</td>
-    <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td> <td>  -? </td>
   </tr>
   <tr>
     <td>main text indices</td> <td>(<b>csv</b>)</td>
@@ -144,28 +144,32 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  !? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  ?  </td> <td>  ? </td> <td>  Y?  </td> <td>  Y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  ?  </td> <td>  ? </td> <td>  Y?  </td> <td>  Y? </td> <td>  ?  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interlinear scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  ?  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y?</td> <td>  Y?  </td> <td>  Y? </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y?</td> <td>  Y?  </td> <td>  Y? </td> <td>  ?  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td> Y?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td> <td>  ?  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y  </td> <td>  ?  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
 </table>
 
 
-**NB**: *Y*: yes, finished; *?*: unclear
+* **Y**: yes, finished
+* **Y?**: possibly finished, has to be checked 
+* **?**: status unknown
+* **!**: currently being worked on
+* **-**: not started
 
 ##Basic infrastructure for working with digital representations of manuscripts
 
