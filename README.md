@@ -67,7 +67,7 @@ Editing HMT material at Leiden University
 
 ##Which files ought to be edited?
 
-* `collections/paleography/{folio}.csv`
+* `collections/paleographyMainText/{folio}.csv`
 * `collections/paleographyMainScholia/{folio}.csv`
 * `indices/venA-textToImage-Iliad.csv`
 * `collections/venA-mainScholia/{folio}.csv`
@@ -75,7 +75,7 @@ Editing HMT material at Leiden University
 * `collections/venA-interlinear/{folio}.csv`
 * `collections/venA-interior/{folio}.csv`
 * `collections/venA-exterior/{folio}.csv`
-* `editions/Iliad/{folio}.xml`
+* `editions/iliad/{folio}.xml`
 * `editions/scholia/MainScholia/{folio}.xml`
 * `editions/scholia/IntermarginalScholia/{folio}.xml`
 * `editions/scholia/InterlinearScholia/{folio}.xml`
