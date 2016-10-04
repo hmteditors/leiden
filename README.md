@@ -121,7 +121,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>intermarginal scholia indices</td> <td>(<b>csv</b>)</td>
-    <td>  Y  </td> <td>  Y  </td> <td>  ?  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td>
   </tr>
   <tr>
     <td>interlinear scholia indices</td> <td>(<b>csv</b>)</td>
