@@ -28,10 +28,14 @@ urn:cite:op:leiden0.135, urn:cts:greekLit:tlg5026.msA:hmt:13.26@εγ, "urn:cite:
 urn:cite:op:leiden0.136, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ι[4], "urn:cite:hmt:vaimg.VA164VN-0666@0.4056,0.1156,0.0058,0.0058",
 urn:cite:op:leiden0.137, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ν[3], "urn:cite:hmt:vaimg.VA164VN-0666@0.4124,0.1156,0.0061,0.0066",
 urn:cite:op:leiden0.138, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ετ, "urn:cite:hmt:vaimg.VA164VN-0666@0.419,0.1135,0.0066,0.0097", ετ-ligature
-urn:cite:op:leiden0.139, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.140, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.141, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.142, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.143, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.144, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
-urn:cite:op:leiden0.145, urn:cts:greekLit:tlg5026.msA:hmt:13.26@#, ,
+urn:cite:op:leiden0.139, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ο[2], "urn:cite:hmt:vaimg.VA164VN-0666@0.4248,0.1148,0.0082,0.007",
+urn:cite:op:leiden0.140, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ο[3], "urn:cite:hmt:vaimg.VA164VN-0666@0.4335,0.1152,0.0076,0.0057",
+urn:cite:op:leiden0.141, urn:cts:greekLit:tlg5026.msA:hmt:13.26@εστιν, "urn:cite:hmt:vaimg.VA164VN-0666@0.4428,0.1135,0.0105,0.011", conventional symbol and alternative form for ἐστιν
+urn:cite:op:leiden0.142, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ες, "urn:cite:hmt:vaimg.VA164VN-0666@0.4428,0.1135,0.0105,0.011", εσ-ligature
+urn:cite:op:leiden0.143, urn:cts:greekLit:tlg5026.msA:hmt:13.26@κ[2], "urn:cite:hmt:vaimg.VA164VN-0666@0.465,0.1117,0.0088,0.0114",
+urn:cite:op:leiden0.144, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ι[5], "urn:cite:hmt:vaimg.VA164VN-0666@0.4726,0.1174,0.0047,0.0048",
+urn:cite:op:leiden0.145, urn:cts:greekLit:tlg5026.msA:hmt:13.26@ρ, "urn:cite:hmt:vaimg.VA164VN-0666@0.4767,0.1157,0.0093,0.0079",
+urn:cite:op:leiden0.146, urn:cts:greekLit:tlg5026.msA:hmt:13.26@τ[5], "urn:cite:hmt:vaimg.VA164VN-0666@0.4854,0.1161,0.0064,0.007",
+urn:cite:op:leiden0.147, urn:cts:greekLit:tlg5026.msA:hmt:13.26@α[6], "urn:cite:hmt:vaimg.VA164VN-0666@0.4918,0.1161,0.0105,0.007",
+urn:cite:op:leiden0.148, urn:cts:greekLit:tlg5026.msA:hmt:13.26@κ[3], "urn:cite:hmt:vaimg.VA164VN-0666@0.5023,0.1122,0.0082,0.0127",
+urn:cite:op:leiden0.149, urn:cts:greekLit:tlg5026.msA:hmt:13.26@α[7], "urn:cite:hmt:vaimg.VA164VN-0666@0.5088,0.1161,0.007,0.007",
