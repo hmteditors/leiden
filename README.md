@@ -141,7 +141,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>main text</td> <td>(<b>xml</b>)</td>
-    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>main scholia</td> <td>(<b>xml</b>)</td>
@@ -149,15 +149,15 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>intermarginal scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  ?  </td> <td>  ? </td> <td>  Y?  </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y? </td> <td>  Y  </td> <td>  Y  </td> <td>  Y?  </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interlinear scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y  </td> <td>  Y? </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>interior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y?</td> <td>  Y?  </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y? </td> <td>  Y  </td> <td>  Y?</td> <td>  Y?  </td> <td>  Y? </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
