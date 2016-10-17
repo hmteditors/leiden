@@ -24,16 +24,26 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAil">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="165r1" type="scholion">
             <div type="lemma">
-              <p>Lemma here</p>
+              <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.58</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p>κεν</p>
+            </div>
+          </div>
+          <div n="165r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.59</p>
+            </div>
+            <div type="comment">
+              <p>σκήπτρω</p>
             </div>
           </div>
         </body>
@@ -41,3 +51,4 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </group>
   </text>
 </TEI>
+<!-- finished. -->
