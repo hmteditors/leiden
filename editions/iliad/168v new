@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>Unpublished version in progress</p>
+				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
+					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad,
+					Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile
+					prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
+					Marciana, M. Zorzi, Director.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+	<text>
+		<body xml:lang="grc">
+			<div n="13">
+				<l n="230">τῶ νῦν μήτ᾽ ἀπόληγε κέλευέ τε φωτὶ ἑκάστῳ·</l>
+				<l n="231">τὸν δ᾽ ἠμείβετ᾽ ἔπειτα <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> ἐνοσίχθων·</l>
+				<l n="232"><persName n="urn:cite:hmt:pers.pers287">‘Ἰδομενεῦ</persName>, μὴ κεῖνος ἀνὴρ ἔτι νοστήσειεν</l>
+				<l n="233">ἐκ <placeName n="urn:cite:hmt:place.place6">Τροίης</placeName>. ἂλλ᾽ αὖθι κυνῶν μέλπηθρα γένοιτο·</l>
+				<l n="234">ὅς τις ἐπ᾽ ἤματι τῷδε ἑκὼν μεθίῃσι μάχεσθαι·</l>
+				<l n="235">ἂλλ᾽ ἄγε τεύχεα δεῦρο λαβὼν ἴ¨θι, ταῦτα δ᾽ ἅμα χρὴ</l>
+				<l n="236">σπεύδειν, αἴ κ᾽ ὄφελός τι γενώμεθα καὶ δύ᾽ ἐόντε,</l>
+				<l n="237">συμφερτὴ δ᾽ ἀρετὴ πέλει ἀνδρῶν καὶ μάλα λυγρῶν·</l>
+				<l n="238">νῶϊ δὲ καί κ᾽ ἀγαθοῖσιν ἐπιστάμεσθα μάχεσθαι·</l>
+				<l n="239">ὣς εἰπὼν ὃ μὲν αὖτις ἔβη θεὸς ἂμ πόνον ἀνδρῶν·</l>
+				<l n="240"><persName n="urn:cite:hmt:pers.pers287">ἰ̈δομενεὺς</persName> δ᾽ ὅτε δὴ κλισίην εΰτυκτον ΐκανε,</l>
+				<l n="241">δύσετο τεύχεα καλὰ περὶ χροῒ· γέντο δὲ δοῦρε·</l>
+				<l n="242">βῆ δ᾽ ΐμεν ἀστεροπῇ ἐναλίγκιος, ἥν τε <persName n="urn:cite:hmt:pers.pers8">Κρονίων</persName></l>
+				<l n="243">χειρὶ λαβὼν ἐτίναξεν ἀπ᾽ αἰγλήεντος <placeName n="urn:cite:hmt:place.place45">Ὀλύμπου</placeName>.</l>
+				<l n="244">δεικνὺς σῆμα βροτοῖσιν: ἀρίζηλοι δέ οι αὐγαί·</l>
+				<l n="245">ὣς τοῦ χαλκὸς ἔλαμπε περι στήθεσσι θέοντος·</l>
+				<l n="246"><persName n="urn:cite:hmt:pers.pers212">Μηριόνης</persName> δ᾽ ἄρα οἱ θεράπων ἐῢς ἀντεβόλησεν</l>
+				<l n="247">ἐγγὺς ἔτι κλισίης. μετὰ γὰρ δόρυ χάλκεον ῄει</l>
+				<l n="248">οἰσόμενος: τὸν δὲ προσέφη σθένος <persName n="urn:cite:hmt:pers.pers287">Ἰ¨δομενῆος</persName>:</l>
+				<l n="249"><persName n="urn:cite:hmt:pers.pers212">‘Μηριόνη</persName>. <persName n="urn:cite:hmt:pers.pers471">Μόλου</persName> υἱὲ, πόδας ταχὺ. φίλταθ᾽ ἑταίρων.</l>
+				<l n="250">τίπτ᾽ ἦλθες, πόλεμόν τε λιπὼν καὶ δηϊοτῆτα</l>
+				<l n="251">ἦ έτι βέβληαι. βέλεος δέ σε τείρει ἀκωκή.</l>
+				<l n="252">ἦ έτευ ἀγγελίης μετ᾽ ἔμ᾽ ἤλυθες; οὐδέ τοι αὐτὸς</l>
+				<l n="253">ῆσθαι ἐνι κλισίῃσι λιλαίομαι. ἀλλὰ μάχεσθαι·</l>
+				<l n="254">τὸν δ᾽ αὖ <persName n="urn:cite:hmt:pers.pers212">Μηριόνης</persName> πεπνυμένος ἀντίον ηύδᾱ.</l>
+				
+			</div>
+		</body>
+		</text>
+</TEI>
