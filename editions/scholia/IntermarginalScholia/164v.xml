@@ -29,14 +29,47 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.26</p>
-			  <!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.27</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p>εν αλλῳ ὑπαυτῶ</p>
             </div>
           </div>
-        </body>
+		  <div n="164v2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.28</p>
+            </div> 
+            <div type="comment">
+              <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρίσ</abbr><expan>Αρίσταρχος</expan></choice></persName> ἡ γνοίησαν ἄλλοι δέ ἡ γνοίησεν⁑</p>
+            </div>
+          </div>
+		  <div n="164v3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.29</p>
+            </div>
+            <div type="comment">
+              <p>ὄτι <choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ <rs type="waw">ι</rs> γραπτέον τὸ γηθοσύνη <choice><abbr>εσ</abbr><expan>ἔστι</expan></choice> γαρ <choice><abbr>αρ</abbr><expan>ἀρσενικὸν</expan></choice> γηθόσυνοςψ</p>
+            </div>
+          </div>
+		  <div n="164v4" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.50</p>
+            </div>
+            <div type="comment">
+              <p>στικτέον κατα το τελος του στιχου ⁑</p>
+            </div>
+          </div>
+<!-- Finished: four intermarginals on this folio. -->
+		  </body>
       </text>
     </group>
   </text>
