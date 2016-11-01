@@ -32,9 +32,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.109</p>
             </div>
             <div type="comment">
-              <p>ές το χάζετο⁑</p>
+              <p>ές το χάζετο ⁑</p>
             </div>
           </div>
+<!-- Finished. One interlinear on this folio. -->
         </body>
       </text>
     </group>

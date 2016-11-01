@@ -24,9 +24,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAil">
         <body>
-<!-- There are no interlinear scholia on this page. -->
-          </div>
-          </div>
+<!-- Finished. No interlinears on this folio. -->
         </body>
       </text>
     </group>
