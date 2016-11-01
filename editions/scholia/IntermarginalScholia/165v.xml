@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.82</p>
             </div>
             <div type="comment">
-              <p>ὅτι <choice><expan>ἐλλείπει</expan><abbr>ἐλλειπ</abbr></choice> ἡ <q>επι</q> ἵν’ ῆ επι<choice><expan> χάρμῃ</expan><abbr>χαρμ</abbr></choice>:</p>
+              <p>ὅτι <choice><expan>ἐλλείπει</expan><abbr>ἐλλειπ</abbr></choice> ἡ <q>επι</q> ἵν’ ῆ επι <choice><expan>χάρμῃ</expan><abbr>χαρμ</abbr></choice> ⁑</p>
             </div>
           </div>
           <div n="165v2" type="scholion">
@@ -43,7 +43,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.85</p>
             </div>
             <div type="comment">
-              <p>πρὸς τὸ <choice><expan>σχῆμα</expan><abbr>σχημ</abbr></choice> ὅτι ὡς<cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.135</ref> <q>σπάρτα λέλυνται</q></cit> ⁑</p>
+              <p>πρὸς τὸ <choice><expan>σχῆμα</expan><abbr>σχημ</abbr></choice> ὅτι ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.135</ref> <q>σπάρτα λέλυνται</q></cit> ⁑</p>
             </div>
           </div>
           <div n="165v3" type="scholion">
@@ -68,7 +68,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἔμφασιν ἔχει πλείονα τὸ <q>κοῦροι</q> <choice><expan>χωριζόμενον</expan><abbr>χωριζόμεν</abbr></choice> τοῦ <q>νέοι</q> ⁑⁑</p>
             </div>
           </div>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+<!-- Finished. -->
         </body>
       </text>
     </group>
