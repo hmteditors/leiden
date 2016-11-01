@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.178</p>
             </div>
             <div type="comment">
-              <p>ἑναλλγεν αὶψ ἕπεσεν</p>
+              <p>ἑναλλγεν αὶψ ἕπεσεν⁑</p>
             </div>
           </div>
             <div n="167v2" type="scholion">
@@ -44,7 +44,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.179</p>
             </div>
             <div type="comment">
-              <p>ουτα αριστα ἑνικῶσ αλλοι ὴ κορυφᾶις</p>
+              <p>ουτα αριστα ἑνικῶσ αλλοι ὴ κορυφᾶις⁑</p>
             </div>
           </div>
             <div n="167v3" type="scholion">
@@ -55,7 +55,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
             </div>
             <div type="comment">
-              <p>ἑναλλγεν μετα έθνσυ</p>
+              <p>ἑναλλγεν μετα έθνσυ⁑</p>
             </div>
           </div>
         </body>
