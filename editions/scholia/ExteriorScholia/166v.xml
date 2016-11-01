@@ -24,10 +24,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAext">
         <body>
-<!-- this is the only exterior scholion on 166v -->
           <div n="166v1" type="scholion">
             <div type="lemma">
-              <p>Lemma here</p>
+              <p></p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.147</p>
@@ -36,6 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἀμφιγύοισιν</p>
             </div>
           </div>
+<!-- Finished. This is the only exterior scholion on 166v. -->
         </body>
       </text>
     </group>
