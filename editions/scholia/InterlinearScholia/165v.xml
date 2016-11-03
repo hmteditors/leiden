@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.78</p>
             </div>
             <div type="comment">
-              <p>νερθε δὲ ποσσὶν</p>
+              <p>νερθε δὲ ποσσὶν ⁑</p>
             </div>
           </div>
           <div n="165v2" type="scholion">
@@ -43,12 +43,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.90</p>
             </div>
             <div type="comment">
-              <p>μετελθὼν παραγενόμενος ⁑</p>
+              <p>μετελθῶν παραγενόμενος ⁑</p>
             </div>
           </div>
+<!-- Finished? The first one seems to be an interior. Please discuss. -->
         </body>
       </text>
     </group>
   </text>
 </TEI>
-<!-- Finished -->
