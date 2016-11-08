@@ -36,6 +36,61 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>δίκην πύργου εντάξει· ἐστι δὲ ἐπίρρημα παραβολοειδὲσ ὅμοιον τῷ σφαιρηδόν ⁑</p>
             </div>
           </div>
+           <div n="167r2" type="scholion">
+            <div type="lemma">
+              <p>κοῦ φα ποσὶπροβιβᾶσ</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.158</p>
+            </div>
+            <div type="comment">
+              <p>>ἥτοι μετέωρα καὶ ὐτηλὰ προβάινων ἠ επάκρων τῶν ποδῶν βαδίζων ὁ ἐστι ἀκροβη ματίζων ⁑</p>
+            </div>
+          </div>
+           <div n="167r3" type="scholion">
+            <div type="lemma">
+              <p>ὑπασπίδια προποδίζων</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.158</p>
+            </div>
+            <div type="comment">
+              <p>ὑπο την ἀσπίδα ηρένα καὶ εὐρύθνοσ βαίνων ὑπο την ασπίδα τòυσ πόδασ τιθεῖσ τοῦ τέστι περι καλύπτων ἀυτòυσ τῇ ἀσπίδι κατὰ τὴν πορείαν. ἐξ οῦ πρόδηλον ὁτὶ οῦκ εῖχεν ὁ δηΐφοβοσ ἀμφιβρότην ἀσπίδα οὐδὲ ὄπλα ἢ ἂν ἀυτὴν ἐκράτει ⁑</p>
+            </div>
+          </div>
+           <div n="167r4" type="scholion">
+            <div type="lemma">
+              <p>Μηριόνης δ᾽ αὐτοῖο τιτύσκετο</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.159</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι παραλέλειπται πρόθεσισ ἡ επῖ καὶ ἡ γενικῆ ἀντι τῆσ αιτιατικησ κεῖται τò γὰρ όλον ἀντι του ἐπαυτον ὡσ καὶ σὺ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.100</ref><q>ἀλλ αγ ὂ ΐστευσον μενελάου</q></cit>⁑</p>
+            </div>
+          </div>
+           <div n="167r5" type="scholion">
+            <div type="lemma">
+              <p>lemma</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.152</p>
+            </div>
+            <div type="comment">
+              <p>put comment here</p>
+            </div>
+          </div>
+           <div n="167r6" type="scholion">
+            <div type="lemma">
+              <p>lemma</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.152</p>
+            </div>
+            <div type="comment">
+              <p>put comment here</p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
