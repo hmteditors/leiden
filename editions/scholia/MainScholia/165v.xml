@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.82</p>
             </div>
             <div type="comment">
-              <p>χαίροντες τῇ μάχῃ ἔστι δὲ ὅτε δηλοῖ ἡ λέξις καὶ τὸ χαίρειν τῇ εἰς μάχην παραθήξει παρα τὸ χαράσσειν τὴν γὰρ χώραν ὥς φησὶ μ' ἀριστίδης οὐδ' ἑτέρως ἀει λέγει χάρμα ⁑</p>
+              <p>χαίροντες τῇ μάχῃ ἔστι δὲ ὅτε δηλοῖ ἡ λέξις καὶ τὸ χαίρειν τῇ εἰς μάχην παραθήξει παρα <rs type="waw">τὸ χαράσσειν</rs> τὴν γὰρ <sic>χώραν</sic> ὥς φησὶ μ' <persName n="">ἀριστίδης</persName> οὐδ' ἑτέρως ἀει λέγει <rs type="waw">χάρμα</rs> ⁑</p>
             </div>
           </div>
           <div n="165v2" type="scholion">
@@ -43,7 +43,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.88</p>
             </div>
             <div type="comment">
-              <p>ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθὅμηρον ὑπο ταῖς ὀφρύσι κοίμησόν μοι <persName n="urn:cite:hmt:pers.pers8">ζηνὸς</persName> ὑπο φρύσιν ὅσσε φαεινῷ. δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον ⁑</p>
+              <p>ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθ' <persName n="urn:cite:hmt:pers.pers17">ὅμηρον</persName> ὑπο ταῖς ὀφρύσι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.236</ref><q>κοίμησόν μοι</q></cit> <persName n="urn:cite:hmt:pers.pers8">ζηνὸς</persName> ὑπ οφρύσιν ὅσσε φαεινῷ. δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον ⁑</p>
             </div>
           </div>
           <div n="165v3" type="scholion">
@@ -54,21 +54,21 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.96</p>
             </div>
             <div type="comment">
-              <p>ἡμετέρας. τὸ ἀμάς ἐκτείνεται κατα τὸ τέλος καίτοι Δόριον ἔχον τὴν προ τέλούς συλλαβὴν ἐπεὶ ἑνικῷ παράκειται τῷ δια τοῦ η ληγομένῳ, ἀμήν· ὅπερ ὁλόκληρον ἂν ἦν Δορικόν εἴπερ εἰς ἂν κατέληγεν ⁑</p>
+              <p>ἡμετέρας. τὸ <rs type="waw">ἀμάς</rs> ἐκτείνεται κατα τὸ τέλος καίτοι <rs type="ethnic" n="urn:cite:hmt:place.place78"> Δόριον</rs> ἔχον τὴν προ τέλούς συλλαβὴν ἐπεὶ ἑνικῷ παράκειται τῷ δια τοῦ <rs type="waw">η</rs> ληγομένῳ, <rs type="waw">ἀμήν</rs>· ὅπερ ὁλόκληρον ἂν ἦν <rs type="ethnic" n="urn:cite:hmt:place.place78">Δορικόν</rs> εἴπερ εἰς ἂν κατέληγεν ⁑</p>
             </div>
           </div>
           <div n="165v4" type="scholion">
             <div type="lemma">
-              <p>νῦν δὴ εἴδεται ἦμαρ ὑπο Τρώεσσι δαμῆναι·</p>
+              <p>νῦν δὴ εἴδεται ἦμαρ ὑπο <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> δαμῆναι·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.98</p>
             </div>
             <div type="comment">
-              <p>νῦν ἀνεφάνη ἡ ἡμέρα ἐν ῇ ὑπὸ τῶν Τρώων ἀναιρεθήσεσθε ⁑</p>
+              <p>νῦν ἀνεφάνη ἡ ἡμέρα ἐν ῇ ὑπὸ τῶν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs> ἀναιρεθήσεσθε ⁑</p>
             </div>
           </div>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+<!-- Finished! -->
         </body>
       </text>
     </group>
