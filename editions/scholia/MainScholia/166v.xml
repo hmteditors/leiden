@@ -80,8 +80,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <div type="comment">
               <p><choice><abbr>λιθ</abbr><expan>λιθος</expan></choice> περιφερὴς καὶ <choice><abbr>στρογγυλ</abbr><expan>στρογγυλος</expan></choice> ὁ ἐν τῶι τρέχειν ὀλοός ἐπεὶ καταφερόμενος πὰν τὸ ἐμπίπτον βλάπτη· <persName n="urn:cite:hmt:pers.pers612">Δημητριος ὁ Γονύπεσος</persName> δασύνει ἵν ἧι ὁ λόγος τροχοειδὴς καὶ κατα πᾶν μερος ἀστήρικτος τῶι δε τόνῳ ὡς κακότροπος οὕτως δ' καὶ <persName n="urn:cite:hmt:pers.pers534">Ἡρμαπίας</persName> καὶ <persName n="urn:cite:hmt:pers.pers247">Νικίας</persName> καὶ <persName n="urn:cite:hmt:pers.pers???">Ἀριστέας</persName> καὶ <persName n="urn:cite:hmt:pers.pers163">Ἀριστόνικος</persName> / κόμανος δὲ καὶ <persName n="urn:cite:hmt:pers.pers485">Πτολεμαῖος ὁ Ἀσκαλωνίτης</persName> ψιλοῦσι καὶ παροξύνουσιν ἀκούοντες τὸν ἐπι τὸ τρέχειν ὁλοὸν καὶ δεινον ἐπένθεσις δὲ του <rs type="waw">ϊ</rs> περιττή καὶ <add place="supralinear">γὰρ</add> χωρὶς αὐτοῦ σώζεται τὸ μέτρον καὶ ἔδει αὐτῶι ἀναλογησαι, τῶι <persName n="urn:cite:hmt:pers.pers461">Ἄτλαντος θυγάτηρ</persName> ὀλοόφρονος. <persName n="urn:cite:hmt:pers.pers598">Δημόκριτος</persName> δὲ τὸ κυλινδρικον σχῆμα ὀλοοίτροχον καλεῖ. καλῶς δὲ βάρβαρον καὶ ἄλογον ορμην ἀψύχω βάρει εἴκασεν δια παντὸς τό που <w>κυλινδουμέν<add place="supralinear">ω</add></w> ⁑</p>
             </div>
-<!-- Unfinished. Many more scholia on this folio. -->
           </div>
+          <div n="166v6" type="scholion">
+            <div type="lemma">
+              <p>στεφάνης:</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.138</p>
+            </div>
+            <div type="comment">
+              <p>περικεφαλαίοις ἡ ὄ¨ρους ἐξοχῆς νῦν δὲ λείας πέτρας ⁑</p>
+            </div>
+          </div>
+<!-- Unfinished. Many more scholia on this folio. -->
         </body>
       </text>
     </group>
