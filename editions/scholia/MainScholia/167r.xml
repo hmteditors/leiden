@@ -24,7 +24,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msA">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="167r1" type="scholion">
             <div type="lemma">
               <p><choice><sic>πυργηδόν</sic><corr>πυργηδòν</corr></choice></p>
@@ -69,6 +68,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅτι παραλέλειπται πρόθεσισ ἡ επῖ καὶ ἡ γενικῆ ἀντι τῆσ αιτιατικησ κεῖται τò γὰρ όλον ἀντι του ἐπαυτον ὡσ καὶ σὺ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.100</ref><q>ἀλλ αγ ὂ ΐστευσον μενελάου</q></cit>⁑</p>
             </div>
           </div>
+<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
            <div n="167r5" type="scholion">
             <div type="lemma">
               <p>lemma</p>
