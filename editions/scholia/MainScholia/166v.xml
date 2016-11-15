@@ -69,7 +69,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>βραχὺ διασταλτέον ἐπι τὸ φρόνεον· τὸ γὰρ ἑξῆς οἱ δ' ϊθὺς φρόνεον μάχεσθαι κὰι μέμασαν ⁑</p>
             </div>
           </div>
-<!-- Unfinished. Many more scholia on this folio. -->
           <div n="166v5" type="scholion">
             <div type="lemma">
               <p>ὀλοοιτροχος:</p>
@@ -92,7 +91,63 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>περικεφαλαίοις ἡ ὄ¨ρους ἐξοχῆς νῦν δὲ λείας πέτρας ⁑</p>
             </div>
           </div>
-<!-- Unfinished. Many more scholia on this folio. -->
+         <div n="166v6" type="scholion">
+            <div type="lemma">
+              <p>ὕψι</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.140</p>
+            </div>
+            <div type="comment">
+              <p>ὡς οἴκοθι καὶ ἀγχι ὡς φησὶ πτολεμαῖος. τινὲς δὲ τοῦτο ὀξύνουσιν ὑψί.⁑</p>
+            </div>
+          </div>
+         <div n="166v7" type="scholion">
+            <div type="lemma">
+              <p>ὡς ἕκτωρ εἵως μὲν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.143</p>
+            </div>
+            <div type="comment">
+              <p>τὸ <rs type="waw">εἵως</rs> ἐνταῦθα κεῖται ἀντι τοῦ <rs type="waw">τεώς </rs>διὅπερ οὔτε στιγμὴν οὔτε ἀντ απόδοσιν ἔχει ἐπι φερομένην⁑</p>
+            </div>
+          </div>
+         <div n="166v8" type="scholion">
+            <div type="lemma">
+              <p>απειλει</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.143</p>
+            </div>
+            <div type="comment">
+              <p>ἠπείλει ὑπισχνεῖτο ἐσθ' ὅτε δὲ τὸ καυχᾶται καὶ ἐπι πλήσσει δηλοῖ⁑</p>
+            </div>
+          </div>
+           <div n="166v9" type="scholion">
+            <div type="lemma">
+              <p>νύσσοντες ξίφεσίν τε καὶ <sic>ἔχεσιν</sic> ἀμφιγύιοισιν</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.147</p>
+            </div>
+            <div type="comment">
+              <p>προς τὸ <rs type="waw">ἀμφιγύιοισιν</rs> ὅτι οἱ μὲν ἐπεὶ ἀμφοτέραις ταῖς χερσὶ διερείδοντες χρῶνται· οἱ δὲ ἀπο τοῦ <rs type="waw">γυῶσαι </rs>ὅτι βλάπτει ἀμφοτέρωθεν 
+οἱ δὲ μεταφορικῶς ἀπο τῶν <rs type="waw">γυιῶν</rs> ὅτι ἑκατέρωθεν ἄκρον ἔχει γυῖα γὰρ τὰ ἄκρα⁑</p>
+            </div>
+          </div>
+<!-- Unfinished. More scholia on this folio. -->
+           <div n="166v10" type="scholion">
+            <div type="lemma">
+              <p>ὧσαν ἀπο σφείων ὁ δὲ <sic>χασάμενος</sic> πελεμίχθη</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.148</p>
+            </div>
+            <div type="comment">
+              <p>⁑</p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
