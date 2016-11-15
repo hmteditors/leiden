@@ -33,7 +33,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> πτῶσις ήλλακται <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ Ἔκτορος </p>
             </div>
           </div>
           <div n="168r9" type="scholion">
@@ -44,7 +44,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> ένεικαν εἴρηκεν ὡς <choice><abbr>βασταζομεν</abbr><expan>βασταζομένου</expan></choice> <choice><abbr>ἀυτ</abbr><expan>αὐτοῦ</expan></choice> δια τὸ τραῦμα: </p>
             </div>
           </div>
           <div n="168r13" type="scholion">
@@ -55,7 +55,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> πτωσις <choice><abbr>ηλλακτ</abbr><expan>ἤλλακται</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ ὅς <choice><abbr>πασς</abbr><expan>πάσης</expan></choice> <choice><abbr>Πλευρων</abbr><expan>Πλευρῶνος</expan></choice> : </p>
             </div>
           </div>
           <div n="168r18" type="scholion">
@@ -66,7 +66,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> <choice><abbr>Αρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice> μετα τοῦ <rs type="waw">γ</rs> νὺν γ' αίτιος ⁑ </p>
             </div>
           </div>
           <div n="168r21" type="scholion">
@@ -77,7 +77,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> δια τοῦ <rs type="waw">ν</rs> <choice><abbr>ἀνδύετ</abbr><expan>ἀνδύεται</expan></choice> αἱ <choice><abbr>Αριστ</abbr><expan>Ἀρίσταρχος</expan></choice> </p>
             </div>
           </div>
           <div n="168r1" type="scholion">
@@ -88,7 +88,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p> γράφεται καὶ <choice><abbr>ενθδ</abbr><expan>ἐνθάδε</expan></choice> Ἀχαιοὺς </p>
             </div>
           </div>
           <div n="168r1" type="scholion">
