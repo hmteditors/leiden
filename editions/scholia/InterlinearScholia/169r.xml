@@ -24,7 +24,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAil">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+<!-- finished!-->
           <div n="169r1" type="scholion">
             <div type="lemma">
               <p>Lemma here</p>
