@@ -190,7 +190,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἐζήτηται: <choice><abbr>διτ</abbr><expan>διὰ τί</expan></choice> οὐκ ευθεία πορεύεται <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> εἰς <placeName n="urn:cite:hmt:place.place15">Τροίαν</placeName> ἀλλα τὸν χρόνον δαπανὰ πορευθείς <rs type="ethnic" n="urn:cite:hmt:place.place207">Αἰγας</rs>· καὶ ῥητέον ὅτι δυοῖν ἕνεκα πραγμάτων μεμηχάνηται αὐτῶι ἡ ἀποδημία, πρῶτον μὲν ἵνα αποπλανήσηι <persName n="urn:cite:hmt:pers.pers8">τὸν Δία</persName> ὡς ἀπολελοιπὼς τὸν πόλεμον. δεύτερον δὲ ἵνα καθοπλισθηῖ εἰς τὸν <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> πόλεμον ἐὰν ἄρα φωραθεὶς εἰς την <choice><sic>σύμμαχιαν</sic><corr>συμμαχίαν</corr> </choice> κινδυνεύη ‡</p>
             </div>
           </div>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+<!-- finished!. -->
         </body>
       </text>
     </group>
