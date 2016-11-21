@@ -24,7 +24,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msA">
         <body>
-<!-- in progress -->
+<!-- finished -->
           <div n="169r1" type="scholion">
             <div type="lemma">
               <p>‡ το νυ γὰρ κατεαξαμεν ὃ πρὶν ἔχεσκον:</p>
@@ -49,13 +49,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
 		  <div n="169r3" type="scholion">
             <div type="lemma">
-              <p>#</p>
+              <p>‡ εἰ γὰρ νῦν παρανηυσὶ λεγοίμεθα πάντες ἄριστοι·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.276</p>
             </div>
             <div type="comment">
-              <p># ⁑ </p>
+              <p>τὸ ἑξῆς ἐστιν. εἰ γὰρ νῦν λεγοίμεθα εἰς λόχον· οὐδέ κεν ἔνθα τέον γε μένος. τὰ δὲ λοιπὰ δια μέσου προς κατασκευὴν τοῦ δυσυπομενητὸν εἶναι καὶ τοῖς ἀνδρειοτάτοις τὴν ἐνέδραν. ἡ διπλῆ δὲ ὅτι παραλλήλως τὸ <rs type="waw">λεγοίμεθα</rs>· ποτὲ μὲν ἐπι τοῦ <rs type="waw">ἀριθμοίμεθα</rs> ποτὲ δὲ ἐπὶ τοῦ <rs type="waw">διαλεγοίμεθα</rs> ⁑ </p>
+            </div>
+          </div>
+		  <div n="169r4" type="scholion">
+            <div type="lemma">
+              <p>ἔνθ' ὅ τε δειλὸς ἀνήρ ὅς τ' ἄλκιμος·</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.278</p>
+            </div>
+            <div type="comment">
+              <p>ὑποστικτέον μεθα τὸ <rs type="waw">ἄλκιμος</rs>· λείπει γὰρ τὸ <rs type="waw">ἐστι</rs> ῥῆμα δια τὸ <rs type="waw">ος</rs> ὑποτακτικὸν ἄρθρον ⁑ </p>
             </div>
           </div>
         </body>
