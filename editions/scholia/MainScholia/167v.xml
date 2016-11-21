@@ -27,6 +27,47 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="167v1" type="scholion">
             <div type="lemma">
+              <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>, ἂλλ᾽ οὔ πη χροὸς εἴσατο</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι διήιρηκεν <q>χροὸς</q> ἀντι τοῦ χρῶς δι ὃ βαρυτονητὲ καὶ ὅτι τὸ εἴσατο νῦν ἀντι τοῦ ἐφάνη⁑</p>
+            </div>
+          </div>
+             <div n="167v2" type="scholion">
+            <div type="lemma">
+              <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>, ἂλλ᾽ οὔ πη χροὸς εἴσατο</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
+            </div>
+            <div type="comment">
+              <p>οὕτως αἱ <persName n="urn:cite:hmt:pers.pers16">ἀριστάρχου</persName> <q>χροὸς</q> ὡς λόγος βούλεται δὲ διηιρῆσθαι τὴν <choice><abbr>ευθ</abbr><expan>εὑθεῖν</expan></choice> <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> δὲ γράφει <q>χρῶς εἴσατο</q>⁑</p>
+            </div>
+          </div>   <div n="167v3" type="scholion">
+            <div type="lemma">
+              <p>ἂλλ᾽ οὔ πῃ χροὸς</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
+            </div>
+            <div type="comment">ς
+              <p><persName n="urn:cite:hmt:pers.pers341">ἀλεξίων</persName> φησὶν ὅτι <persName n="urn:cite:hmt:pers.pers16">ἀριστάρχος</persName> ὡς σοφὸς προηνέγκατο· τυραννίων δὲ ὡς πόλος καὶ ἔχει λόγον ἐκατέρα ἡ ἀνάγνωσις ἐὰν μὲν χρόος ὡς πόλος κατευθεῖαν πτῶσιν αναγνῶμεν ἔσται τὸ λεγόμενον ἀλλ ουδαμῶς ὁ χρῶς ἐφάνη ἐὰν δὲ <choice><sic>χροὸς</sic><corr>χροός</corr></choice> ὡς σοφὸς. κατα γενικὴν πτῶσιν ἔσται· ἀλλ ουδαμῶς τοῦ χρωτὸς διῆλθε. τὸ γὰρ εἴσομαι, καὶ τὸ φανῆναι σημαίνει καὶ τὸ διελθεῖν ἐπι κρίνομεν δὲ ἡ μεῖς περὶ τῆς ἀναγνώσεως ἐκεῖνο ὡς ὅτι πιθανόν ἐστι μᾶλλον τὴν γενικὴν ἐκ δεχεσθαι, <!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. --></p>
+            </div>
+          </div>   <div n="167v1" type="scholion">
+            <div type="lemma">
+              <p>Lemma here</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
+            </div>
+            <div type="comment">
+              <p>Text of scholion here</p>
+            </div>
+          </div>   <div n="167v1" type="scholion">
+            <div type="lemma">
               <p>Lemma here</p>
             </div>
             <div type="ref">
