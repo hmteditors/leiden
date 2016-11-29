@@ -78,7 +78,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
             <div type="comment">
               <p> ὅτι ἐλλείπει ἡ περὶ περὶ <persName n="urn:cite:hmt:pers.pers465">αμφιμάχου</persName> καὶ ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName> ἄρθον ἐνόμιζε τὸ <rs type="waw">ο</rs> <persName n="urn:cite:hmt:pers.pers150">ἰλέως</persName> τὸν <persName n="urn:cite:hmt:pers.pers281">αἴαντα</persName> καὶ οὐκ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεως</persName> ἀκούων δι ὃ καὶ 
-              ἔγραφεν κόψεν ὰρ ἰλιάδης⁑</p>
+              ἔγραφεν κόψεν ὰρ <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001">ἰλιάδης</ref></title>⁑</p>
             </div>
           </div>
           </div>
