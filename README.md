@@ -25,6 +25,7 @@ Editing HMT material at Leiden University
 
 * Alex van Eldik
 * Aniek Vink
+* Apostolia Alepidou
 * Bart Bijvoets
 * Bengt Rooijers
 * Bob van Velthoven
@@ -161,7 +162,7 @@ Editing HMT material at Leiden University
   </tr>
   <tr>
     <td>exterior scholia</td> <td>(<b>xml</b>)</td>
-    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td> <td>  -  </td>
+    <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y? </td> <td>  Y  </td> <td>  Y  </td> <td>  -  </td> <td>  -  </td> <td>  Y  </td> <td>  -  </td> <td>  Y  </td>
   </tr>
 </table>
 
