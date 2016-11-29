@@ -24,7 +24,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msA">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="168r1" type="scholion">
             <div type="lemma">
               <p><sic>ἤλθε</sic> κατ' ἰγνύην·</p>
@@ -33,10 +32,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.212</p>
             </div>
             <div type="comment">
-              <p>ïωνικὼς μετέβαλε τὸν τόνον ἐπεὶ τὸ ἀκόλουθον ἰγνύα ἔστιν ὡς <persName n="urn:cite:hmt:pers.pers493">ἡρωιδιανος</persName> ἐν τῶι <num value="11">ια</num> τῆς καθόλου ⁑</p>
+              <p>ι¨ωνικὼς μετέβαλε τὸν τόνον ἐπεὶ τὸ ἀκόλουθον ἰγνύα ἔστιν ὡς <persName n="urn:cite:hmt:pers.pers493">ἡρωιδιανος</persName> ἐν τῶι <num value="11">ια</num> τῆς καθόλου ⁑</p>
             </div>
           </div>
-            <div n="168r2" type="scholion">
+          <div n="168r2" type="scholion">
             <div type="lemma">
               <p><rs type="ethnic" n="urn:cite:htm:place.place126">αἰτωλοῖσιν</rs> ἄνασσε</p>
             </div>
@@ -51,6 +50,29 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
  γίγνονται δύο παῖδες ἀφ ὦν ἄλλαι δύο πόλεις ἐν <placeName n="urn:cite:hmt:place.place126">αιτωλίαι</placeName> προσηγορευθησαν ⁑</p>
             </div>
           </div>
+          <div n="168r3" type="scholion">
+            <div type="lemma">
+              <p>ὦ <persName n="urn:cite:hmt:pers.pers735">Θόαν</persName> :</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.222</p>
+            </div>
+            <div type="comment">
+              <p>ὅτι σὺν τῷ <rs type="waw">ν</rs> ἡ κλητική ἡ δὲ ἀναφορὰ προς τὸ <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:1.86</ref><q><sic>ὅτε</sic> σὺ <persName n="urn:cite:hmt:pers.pers74">Κάλχαν</persName></q></cit>. ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζενόδοτοϛ</persName> χωρὶϛ τοῦ <rs type="waw">ν</rs> ⁑</p>
+            </div>
+          </div>
+          <div n="168r4" type="scholion">
+            <div type="lemma">
+              <p>ὀτρύνειϛ δὲ καὶ ἄλλον.</p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.229</p>
+            </div>
+            <div type="comment">
+              <p>ἐνεστῶϛ ἀντὶ παρῳχημένου τὸ <rs type="waw">ὀτρύνειϛ</rs>· ὡς <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:12.347</ref><q>ζαχρηεῖϛ τελέθουσιν</q></cit> ἀντι τοῦ <sic>ετέλεσθον</sic> παρῳχημένου ⁑</p>
+            </div>
+          </div>
+<!-- Finished. -->
         </body>
       </text>
     </group>
