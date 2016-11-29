@@ -98,12 +98,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.140</p>
             </div>
             <div type="comment">
-              <p>ὡς οἴκοθι καὶ ἀγχι ὡς φησὶ πτολεμαῖος. τινὲς δὲ τοῦτο ὀξύνουσιν ὑψί.⁑</p>
+              <p>ὡς οἴκοθι καὶ ἀγχι ὡς φησὶ <persName n="urn:cite:hmt:pers.pers308">πτολεμαῖος</persName>. τινὲς δὲ τοῦτο ὀξύνουσιν ὑψί.⁑</p>
             </div>
           </div>
          <div n="166v7" type="scholion">
             <div type="lemma">
-              <p>ὡς ἕκτωρ εἵως μὲν</p>
+              <p>ὡς <persName n="urn:cite:hmt:pers.pers172">ἕκτωρ</persName> εἵως μὲν</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.143</p>
@@ -143,13 +143,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.148</p>
             </div>
             <div type="comment">
-              <p>ὅτι Ζηνόδοτος γρἀφει ὁ δὲ χάσσατο πολλὸν ὀπίσω, ἠγνόησε δὲ ὅτι τὰ <choice><abbr>ἐμπεπηγοτ</abbr><expan>ἐμπεπηγότα</expan></choice> δόρατα τῃ ἀσπίδι ἀναχωροῦντες διατινάσσουσιν ἵνα ἀποπέσῃ ⁑</p>
+              <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γρἀφει ὁ δὲ χάσσατο πολλὸν ὀπίσω, ἠγνόησε δὲ ὅτι τὰ <choice><abbr>ἐμπεπηγοτ</abbr><expan>ἐμπεπηγότα</expan></choice> δόρατα τῃ ἀσπίδι ἀναχωροῦντες διατινάσσουσιν ἵνα ἀποπέσῃ ⁑</p>
             </div>
-          </div>
-   <!--   Unfinished. More scholia on this folio. -->  
+          </div> 
         <div n="166v11" type="scholion">
             <div type="lemma">
-              <p> διαπρύσιον</p>
+              <p> διαπρύσιον:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.148</p>
@@ -158,8 +157,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>δια παντὸσ του πέρατοσ ἀκουσθῆναι δυνάμενον ἢ διαπεράσιμενον εἰσ ἀκοάσ· ἠ διαπύρσιον διαφανὲσ καὶ σημαντικόν ⁑</p>
           </div>
           </div>
+          <!-- Finished, eleven main scholia on this folio. -->
         </body>
       </text>
     </group>
   </text>
 </TEI>
+
