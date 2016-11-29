@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.60</p>
             </div>
             <div type="comment">
-              <p>διχῶς ἀριστοφάνης καὶ κεκοφῶς καὶ κεκοπώς</p>
+              <p>διχῶς <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> καὶ κεκοφῶς καὶ κεκοπώς</p>
             </div>
           </div>
          <div n="165r2" type="scholion">
@@ -43,9 +43,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.71</p>
             </div>
             <div type="comment">
-              <p>γράφεται καὶ ἴθματα ζηνόδοτος δὲ καὶ ἀριστοφάνης ϊχματα</p>
+              <p>γράφεται καὶ ἴθματα <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> δὲ καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> ϊχματα</p>
             </div>
           </div>
+<!-- Finished, checked, corrected. -->
         </body>
       </text>
     </group>
