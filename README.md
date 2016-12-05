@@ -31,6 +31,7 @@ Editing HMT material at Leiden University
 * Bob van Velthoven
 * Elias Eells
 * Ineke Sluiter
+* Jacqueline Klooster
 * Kirsten Haijes
 * Leanne Jansen
 * Leonie Henkes
