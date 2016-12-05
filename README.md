@@ -200,4 +200,4 @@ Editing HMT material at Leiden University
 
 **NB**: Also have a look at the files in `writing/`
 
-<!-- cat paleography.csv paleographyMainText/164r.csv paleographyMainScholia/164r.csv paleographyMainText/164v.csv paleographyMainScholia/164v.csv paleographyMainText/165r.csv paleographyMainScholia/165r.csv paleographyMainText/165v.csv paleographyMainScholia/165v.csv paleographyMainText/166r.csv paleographyMainScholia/166r.csv paleographyMainText/166v.csv paleographyMainScholia/166v.csv paleographyMainText/167r.csv paleographyMainScholia/167r.csv paleographyMainText/167v.csv paleographyMainScholia/167v.csv paleographyMainText/168r.csv paleographyMainScholia/168r.csv paleographyMainText/168v.csv paleographyMainScholia/168v.csv paleographyMainText/169r.csv paleographyMainScholia/169r.csv > paleography.csv -->
+<!-- cat paleography/*.csv > paleography.csv -->
