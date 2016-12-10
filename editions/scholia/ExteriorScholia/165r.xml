@@ -26,7 +26,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <body>
           <div n="165r1" type="scholion">
             <div type="lemma">
-              <p>Lemma here</p>
+              <p></p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.65</p>
