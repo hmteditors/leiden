@@ -59,7 +59,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
            <div n="167r4" type="scholion">
             <div type="lemma">
-              <p>Μηριόνης δ᾽ αὐτοῖο τιτύσκετο</p>
+              <p><persName n="urn:cite:hmt:pers.pers212">Μηριόνης</persName> δ᾽ αὐτοῖο τιτύσκετο</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.159</p>
@@ -76,7 +76,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.168</p>
             </div>
             <div type="comment">
-              <p>κομίσων ἐνεγκῶν διαφέρει τὸ οἴσων καὶ οἰσόμενος οἴσων μὲν γὰρ καὶ ἑτερῳ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:22.481</ref><q>οἰσε θέειον γρῆϋ κακῶν ἄκος</q></cite> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.103</ref><q>οἴσετε δ' ἄρν' ετερον λευκὸν</q></cite> οἰσόμενος δέ ἐαυτῶ ⁑</p>
+              <p>κομίσων ἐνεγκῶν διαφέρει τὸ οἴσων καὶ οἰσόμενος οἴσων μὲν γὰρ καὶ ἑτερῳ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:22.481</ref><q>οἰσε θέειον γρῆϋ κακῶν ἄκος</q></cit> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.103</ref><q>οἴσετε δ' ἄρν' ετερον λευκὸν</q></cit> οἰσόμενος δέ ἐαυτῶ ⁑</p>
             </div>
           </div>
            <div n="167r6" type="scholion">
