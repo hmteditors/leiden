@@ -27,7 +27,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msA">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="168v1" type="scholion">
             <div type="lemma">
               <p>μελπηθρα</p>
@@ -36,10 +35,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.233</p>
             </div>
             <div type="comment">
-              <p>ἐμπαίγματα παίγνια μετα κόρον γὰρ σφαιρίζουσι τὰς σάρκας οἱ κῦνες λέων δὲ τὸ πᾶν ἐσθίει καὶ <persName n="">Κύκλωψ</persName> <cit><ref>urn:cts:greekLit:tlg0012.tlg002:9.292</ref><q>ἤσθιε δὲ ὥστε λέων</q></cit>⁑</p>
+              <p>ἐμπαίγματα παίγνια μετα κόρον γὰρ σφαιρίζουσι τὰς σάρκας οἱ κῦνες λέων δὲ τὸ πᾶν ἐσθίει καὶ Κύκλωψ <cit><ref>urn:cts:greekLit:tlg0012.tlg002:9.292</ref><q>ἤσθιε δὲ ὥστε λέων</q></cit>⁑</p>
             </div>
           </div>
-		  <div n="168v1" type="scholion">
+		  <div n="168v2" type="scholion">
             <div type="lemma">
               <p>σπεύδειν αἴκ' ὄφελος τι</p>
             </div>
@@ -47,10 +46,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.236</p>
             </div>
             <div type="comment">
-              <p>ὅτι τοῦ <rs type="waw">σπεύδειν</waw> οὐκ ἐστιν ἐπι τοῦ <rs type="waw">ταχύνειν</rs> ἀλλ επι τοῦ <rs type="waw">ἐνεργεῖν</waw>⁑</p>
+              <p>ὅτι τοῦ <rs type="waw">σπεύδειν</rs> οὐκ ἐστιν ἐπι τοῦ <rs type="waw">ταχύνειν</rs> ἀλλ επι τοῦ <rs type="waw">ἐνεργεῖν</rs>⁑</p>
             </div>
           </div>
-		  <div n="168v1" type="scholion">
+		  <div n="168v3" type="scholion">
             <div type="lemma">
               <p>συμφερτὴ δ' ἀρετὴ πέλει,</p>
             </div>
@@ -61,7 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>τὸ τῆς συναλιφῆς σημεῖον ὑπὸ τὰς τελευταίας δύο λέξεις θετέον ἐξ ἀμφοτέρων γὰρ ἓν δηλοῦται τὸ λυγροτάτων πρὸς ὃ καὶ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> σημειοῦται τὸν στίχον ἵν ᾖ ὁ λόγος <choice><sic>συμφερητὴ</sic><corr>συμφορητὴ</corr></choice> <sic>τίς</sic> ἀνδρῶν ἀρετὴ καὶ τῶν ἀσθενεστάτων οἷον οὐ μόνον κατὰ ἕνα ἀλλὰ καὶ κατὰ πλῆθος ἐστί τις ἀρετὴ νοουμένη κὰν εἷς ἕκαστος ἀσθενὴς ἦ καθ αὑτόν. εὰν δὲ χωρίζωμεν τὰς δύο λέξεις εὐεμπτῶτως ἕξομεν ἐπι τὸ ἀπεμφαῖνον ἐστὶ τοιοῦτο· συμφορητή τις ἀρετὴ ἀνδρῶν ἐστι καὶ μάλιστα τῶν ἀσθενῶν ὅπερ οὐκ ἔστιν ⁑</p>
             </div>
           </div>
-		  <div n="168v1" type="scholion">
+		  <div n="168v4" type="scholion">
             <div type="lemma">
               <p>θεράπων ἐῢς ἀντεβολησεν:</p>
             </div>
@@ -69,7 +68,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.246</p>
             </div>
             <div type="comment">
-              <p>ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλονίτης</persName> φησὶν ὅτι <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δύο ποιεῖ θεράπων καὶ ἐῢς· τινὲς δὲ ὑφ' ἓν ἀνέγνωσαν ὡς <rs type="waw">Ἐτεωνεύς</rs> ὅτι δὲ δεῖ κατὰ διάλυσιν ἀναγινώσκειν καὶ οὐ παρωνύμῳ τύπῳ διδαχθησόμεθα ἐξ αὐτῆς τῆς φωνῆς, ἐγίνετο γὰρ ἂν θεραποντεύς ἀπο γὰρ γενικῶν φιλεῖ ὁ τοιοῦτος τύπος παραγεσθαι εἴγε καὶ παρα τὴν <rs type="waw">λέοντος</rs> ὁ <rs type="waw">Λεοντεύς</rs> οὐχὶ <rs type="waw">Λεωνεύς</rs>· παρά τε τὴν <rs type="waw">Αἰθίοπος</rs> <rs type="waw">Αἰθιοπεύς</rs>⁑</p>
+              <p>ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλονίτης</persName> φησὶν ὅτι <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> δύο ποιεῖ θεράπων καὶ ἐῢς· τινὲς δὲ ὑφ' ἓν ἀνέγνωσαν ὡς <rs type="waw"><persName n= "urn:cite:hmt:pers.pers162">Ἐτεωνεύς</persName></rs> ὅτι δὲ δεῖ κατὰ διάλυσιν ἀναγινώσκειν καὶ οὐ παρωνύμῳ τύπῳ διδαχθησόμεθα ἐξ αὐτῆς τῆς φωνῆς, ἐγίνετο γὰρ ἂν θεραποντεύς ἀπο γὰρ γενικῶν φιλεῖ ὁ τοιοῦτος τύπος παραγεσθαι εἴγε καὶ παρα τὴν <rs type="waw">λέοντος</rs> ὁ <rs type="waw"><persName n="urn:cite:hmt:pers.pers548">Λεοντεύς</persName></rs> οὐχὶ <rs type="waw">Λεωνεύς</rs>· παρά τε τὴν <rs type="waw"><placeName n= "urn:cite:hmt:place:place46">Αἰθίοπος</placeName></rs> <rs type="waw">Αἰθιοπεύς</rs>⁑</p>
             </div>
           </div>
         </body>
