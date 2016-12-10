@@ -24,10 +24,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msA">
         <body>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
           <div n="167v1" type="scholion">
             <div type="lemma">
-              <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>, ἂλλ᾽ οὔ πη χροὸς εἴσατο</p>
+              <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> ἂλλ᾽ οὔ πη χροὸς εἴσατο:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
@@ -37,9 +36,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
              <div n="167v2" type="scholion">
-            <div type="lemma">
-              <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName>, ἂλλ᾽ οὔ πη χροὸς εἴσατο</p>
-            </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
             </div>
@@ -48,12 +44,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>   <div n="167v3" type="scholion">
             <div type="lemma">
-              <p>ἂλλ᾽ οὔ πῃ χροὸς</p>
+              <p>ἂλλ᾽ οὔ πῃ χροὸς·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.191</p>
             </div>
-            <div type="comment">ς
+            <div type="comment">
               <p><persName n="urn:cite:hmt:pers.pers341">ἀλεξίων</persName> φησὶν ὅτι <persName n="urn:cite:hmt:pers.pers16">ἀριστάρχος</persName> ὡς σοφὸς προηνέγκατο· τυραννίων δὲ ὡς πόλος καὶ ἔχει λόγον ἐκατέρα ἡ ἀνάγνωσις ἐὰν μὲν χρόος ὡς πόλος κατευθεῖαν πτῶσιν αναγνῶμεν ἔσται τὸ λεγόμενον ἀλλ ουδαμῶς ὁ χρῶς ἐφάνη ἐὰν δὲ
                 <choice><sic>χροὸς</sic><corr>χροός</corr></choice> ὡς σοφὸς. κατα γενικὴν πτῶσιν ἔσται· ἀλλ ουδαμῶς τοῦ χρωτὸς διῆλθε. τὸ γὰρ εἴσομαι, καὶ τὸ φανῆναι σημαίνει καὶ τὸ διελθεῖν ἐπι κρίνομεν δὲ ἡ μεῖς περὶ τῆς ἀναγνώσεως ἐκεῖνο ὡς ὅτι πιθανόν ἐστι μᾶλλον τὴν γενικὴν ἐκ δεχεσθαι, ἤπερ τὴν ἐυθείαν οὐ γὰρ ἀυτῶι ἔθος ἐυθείαν
               μὲν ἐπίστασθαι εἰς <rs type="waw">ος</rs> περατουμένην. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.510</ref><q>ἐπεὶ οὔ σφι <choice><abbr>λιθ</abbr><expan>λίθος</expan></choice> χρῶς οὐδὲ σίδηρος</q></cit>, καὶ ἀκόλουθος αἰτιατικὴ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:18.172</ref><q>χρῶτ‘ ἀπονιψαμέν</q></cit>·
@@ -61,7 +57,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               ἐστι τὸ κατεπεῖγον μὴ τῆι συνήθει κλήσει τὴν ἀνάγνωσιν ποιεῖσθαι⁑</p>
           </div>   <div n="167v4" type="scholion">
             <div type="lemma">
-              <p><persName n="urn:cite:hmt:pers.pers177">Ἴμβριον</persName> αὖτ᾽ <persName n="urn:cite:hmt:pers.pers281">Αἴαντε</persName></p>
+              <p><persName n="urn:cite:hmt:pers.pers177">Ἴμβριον</persName> αὖτ᾽ <persName n="urn:cite:hmt:pers.pers281">αἴαντε</persName></p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.197</p>
