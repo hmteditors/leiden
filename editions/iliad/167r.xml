@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -6,14 +6,35 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>Bart Bijvoets</editor>
-        <editor>Suzan Boreel</editor>
-        <editor>Nikolas Churik</editor>
+        <author>Homer</author>
+        <sponsor>The Homer Multitext</sponsor>
+        <editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Bart Bijvoets</author>
+				<author>Alex van Eldik</author>
+				<author>Elias Eells</author>
+                <author>Leonie Henkes</author>
+                <author>Nik Churik</author>
+                <author>Suzanne Verkade</author>
+                <author>Kirsten Haijes</author>
+                <author>Thom van Leuveren</author>
+                <author>Maike van Haeringen</author>
+                <author>Olivia Monster</author>
+                <author>Suzan Boreel</author>
+                <author>Aniek Vink</author>
+                <author>Marloes Velthuisen</author>
+                <author>Leanne Jansen</author>
+                <author>Bob van Velthoven</author>
+                <author>Wieneke Jansen</author>
+                <author>Sjors Leek</author>
+                <author>Bengt Rooijers</author>
+				<author>Apostolia Alepidou</author>
+                <author>Tazuko van Berkel</author>
+                <author>Ineke Sluiter</author>
 
       </titleStmt>
       <publicationStmt>
@@ -25,9 +46,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     </fileDesc>
   </teiHeader>
   <text>
-    <body>
-    <div
-            n="13">
+    <body xml:lang="grc">
+    <div n="13">
            <l n="151">παρμένετ᾽· οὔ τοι δηρὸν ἐμὲ σχήσουσιν  <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l> 
             <l n="152"> καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες.</l>
             <l n="153">ἂλλ' ὀίω χάσσονται ὑπ έγχεος. εἰ ἐτεόν με</l>
@@ -51,13 +71,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="171"><persName n="">Ἴ¨μβριον</persName>αἰχμητὴν. πολυΐππου <persName >Μέντορος</persName> υἱόν·</l>
             <l n="172">ναῖε δὲ <persName n="urn:cite:hmt:pers.pers242">Πήδαιον</persName> πρὶν ἐλθεῖν υἷας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
             <l n="173">κούρην δὲ <persName n="urn:cite:hmt:pers.pers145">Πριἀμοιο</persName> νόθην ἔχε, <persName>Μηδεσικάστην</persName>·</l>
-            <l n="174">αὐτὰρ ἐπεὶ Δαναῶν νέες ἤλυθον ἀμφιέλισσαι.</l>
+            <l n="174">αὐτὰρ ἐπεὶ <rs type="ethnic" n="urn:cite:hmt:place.place272">Δαναῶν</rs> νέες ἤλυθον ἀμφιέλισσαι.</l>
             <l n="175">ἂψ εἰς <placeName n="urn:cite:hmt:place.place6">Ί¨λιον</placeName> ἦλθε, μετέπρεπε δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι·</rs></l>
             <l n="176">ναῖε δὲ παρ <persName n="urn:cite:hmt:pers.pers145">Πριάμῳ·</persName> ὁ δέ μιν τῖεν ῗσα τέκεσσι·</l>
             <l n="177">τόν ῥ᾽ υἱὸς <persName n="urn:cite:hmt:pers.pers614">Τελαμῶνος</persName> ὑπ᾽ ούτος ἔγχεϊ μακροῷ</l>
             </div>
-      
     </body>
   </text>
 </TEI>
-               
