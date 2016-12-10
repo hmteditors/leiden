@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.103</p>
             </div>
             <div type="comment">
-              <p><w>παρδ<unclear><add place="supralinear">α</add></unclear></w></p>
+              <p><del><choice><abbr>παρδ</abbr><expan>παρδαλίων</expan></choice></del></p>
             </div>
           </div>
 <!-- Finished all (1) exterior scholia on this folio (166r). -->
