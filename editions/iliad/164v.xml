@@ -8,21 +8,36 @@
 				<author>Homer</author>
 				<sponsor>The Homer Multitext</sponsor>
 				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
-				<editor>Alex van Eldik</editor>
-				<editor>Leonie Henkes</editor>
-			</titleStmt>
-			<publicationStmt>
-				<p>Unpublished version in progress</p>
-				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
-					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
-			</publicationStmt>
-			<sourceDesc>
-				<p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad,
-					Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile
-					prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
-					Marciana, M. Zorzi, Director.</p>
-			</sourceDesc>
-		</fileDesc>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
 		<profileDesc>
 			<langUsage>
 				<language ident="grc">Greek, in pre-composed UTF-8</language>
@@ -54,8 +69,8 @@
 				<l n="43">ἀλλὰ <persName n="urn:cite:hmt:pers.pers47">Ποσιδάων</persName> γαιήοχος ἐννοσίγαιος.</l>
 				<l n="44"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείους</rs> ὤτρυνε βαθείης ἐξ ἁλὸς ἐλθὼν.</l>
 				<l n="45">εἰσάμενος <persName n="urn:cite:hmt:pers.pers74">Κάλχαντι</persName> δέμας καὶ ἀτειρέα φωνήν·</l>
-				<l n="46"><persName n="urn:cite:hmt:pers.pers663">Αἴαντε</persName> πρώτω προσέφη μεμαῶτε καὶ αὐτώ·</l>
-				<l n="47"><persName n="urn:cite:hmt:pers.pers663">Αἴαντε</persName>. σφὼ μέν τε σαώσετε λαὸν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>.</l>
+				<l n="46"><persName n="urn:cite:hmt:pers.pers127" n="urn:cite:hmt:pers.pers281">Αἴαντε</persName> πρώτω προσέφη μεμαῶτε καὶ αὐτώ·</l>
+				<l n="47"><persName n="urn:cite:hmt:pers.pers127" n="urn:cite:hmt:pers.pers281">Αἴαντε</persName>. σφὼ μέν τε σαώσετε λαὸν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>.</l>
 				<l n="48">ἀλκῆς μνησαμένω. μὴ δὲ κρυεροῖο φόβοιο·</l>
 				<l n="49">ἄλλῃ μὲν γὰρ ἔγωγ᾽ οὐ δείδια χεῖρας ἀάπτους</l>
 				<l n="50"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώων</rs>. οἳ μέγα τεῖχος ὑπερκατέβησαν ὁμίλῳ.</l>

@@ -1,33 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Iliad</title>
-        <editor>Bart Bijvoets</editor>
-        <editor>Suzan Boreel</editor>
-        <editor>Nikolas Churik</editor>
-
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 13 (A)</title>
+				<author>Homer</author>
+				<sponsor>The Homer Multitext</sponsor>
+				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Edited directly from photography of the manuscript</p>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
       </sourceDesc>
     </fileDesc>
-  </teiHeader>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek, in pre-composed UTF-8</language>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
   <text>
-    <body>
-    <div
-            n="13">
+  <!-- xml does not validate, but we cannot find the flaw -->
+    <body xml:lang="grc">
+    <div n="13">
            <l n="151">παρμένετ᾽· οὔ τοι δηρὸν ἐμὲ σχήσουσιν  <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l> 
             <l n="152"> καὶ μάλα πυργηδὸν σφέας αὐτοὺς ἀρτύναντες.</l>
             <l n="153">ἂλλ' ὀίω χάσσονται ὑπ έγχεος. εἰ ἐτεόν με</l>
@@ -48,16 +69,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <l n="168">οἰσόμενος δόρυ μακρὸν, ὅ οἱ κλισίηφι, λέλειπτο·</l>
             <l n="169">οἳ δ᾽ ἄλλοι μάρναντο, βοὴ δ᾽ ἄσβεστος ὀρώρει·</l>
             <l n="170"><persName n="urn:cite:hmt:pers.pers243">Τεῦκρος</persName>δὲ πρῶτος <persName n="urn:cite:hmt:pers.pers243">Τελαμώνιος</persName>ἄνδρα κατέκτα</l>
-            <l n="171"><persName n="">Ἴ¨μβριον</persName>αἰχμητὴν. πολυΐππου <persName >Μέντορος</persName> υἱόν·</l>
+            <l n="171"><persName n="">Ἴ¨μβριον</persName>αἰχμητὴν. πολυΐππου <persName>Μέντορος</persName> υἱόν·</l>
             <l n="172">ναῖε δὲ <persName n="urn:cite:hmt:pers.pers242">Πήδαιον</persName> πρὶν ἐλθεῖν υἷας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
-            <l n="173">κούρην δὲ <persName n="urn:cite:hmt:pers.pers145">Πριἀμοιο</persName> νόθην ἔχε, <persName>Μηδεσικάστην</persName>·</l>
-            <l n="174">αὐτὰρ ἐπεὶ Δαναῶν νέες ἤλυθον ἀμφιέλισσαι.</l>
+            <l n="173">κούρην δὲ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> νόθην ἔχε, <persName n="">Μηδεσικάστην</persName>·</l>
+            <l n="174">αὐτὰρ ἐπεὶ <rs type="ethnic" n="urn:cite:hmt:place.place272">Δαναῶν</rs> νέες ἤλυθον ἀμφιέλισσαι.</l>
             <l n="175">ἂψ εἰς <placeName n="urn:cite:hmt:place.place6">Ί¨λιον</placeName> ἦλθε, μετέπρεπε δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι·</rs></l>
             <l n="176">ναῖε δὲ παρ <persName n="urn:cite:hmt:pers.pers145">Πριάμῳ·</persName> ὁ δέ μιν τῖεν ῗσα τέκεσσι·</l>
             <l n="177">τόν ῥ᾽ υἱὸς <persName n="urn:cite:hmt:pers.pers614">Τελαμῶνος</persName> ὑπ᾽ ούτος ἔγχεϊ μακροῷ</l>
             </div>
-      
     </body>
   </text>
 </TEI>
-               
