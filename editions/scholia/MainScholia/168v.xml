@@ -38,7 +38,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ἐμπαίγματα παίγνια μετα κόρον γὰρ σφαιρίζουσι τὰς σάρκας οἱ κῦνες λέων δὲ τὸ πᾶν ἐσθίει καὶ Κύκλωψ <cit><ref>urn:cts:greekLit:tlg0012.tlg002:9.292</ref><q>ἤσθιε δὲ ὥστε λέων</q></cit>⁑</p>
             </div>
           </div>
-		  <div n="168v2" type="scholion">
+          <div n="168v2" type="scholion">
             <div type="lemma">
               <p>σπεύδειν αἴκ' ὄφελος τι</p>
             </div>
@@ -49,7 +49,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅτι τοῦ <rs type="waw">σπεύδειν</rs> οὐκ ἐστιν ἐπι τοῦ <rs type="waw">ταχύνειν</rs> ἀλλ επι τοῦ <rs type="waw">ἐνεργεῖν</rs>⁑</p>
             </div>
           </div>
-		  <div n="168v3" type="scholion">
+          <div n="168v3" type="scholion">
             <div type="lemma">
               <p>συμφερτὴ δ' ἀρετὴ πέλει,</p>
             </div>
@@ -60,7 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>τὸ τῆς συναλιφῆς σημεῖον ὑπὸ τὰς τελευταίας δύο λέξεις θετέον ἐξ ἀμφοτέρων γὰρ ἓν δηλοῦται τὸ λυγροτάτων πρὸς ὃ καὶ <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> σημειοῦται τὸν στίχον ἵν ᾖ ὁ λόγος <choice><sic>συμφερητὴ</sic><corr>συμφορητὴ</corr></choice> <sic>τίς</sic> ἀνδρῶν ἀρετὴ καὶ τῶν ἀσθενεστάτων οἷον οὐ μόνον κατὰ ἕνα ἀλλὰ καὶ κατὰ πλῆθος ἐστί τις ἀρετὴ νοουμένη κὰν εἷς ἕκαστος ἀσθενὴς ἦ καθ αὑτόν. εὰν δὲ χωρίζωμεν τὰς δύο λέξεις εὐεμπτῶτως ἕξομεν ἐπι τὸ ἀπεμφαῖνον ἐστὶ τοιοῦτο· συμφορητή τις ἀρετὴ ἀνδρῶν ἐστι καὶ μάλιστα τῶν ἀσθενῶν ὅπερ οὐκ ἔστιν ⁑</p>
             </div>
           </div>
-		  <div n="168v4" type="scholion">
+          <div n="168v4" type="scholion">
             <div type="lemma">
               <p>θεράπων ἐῢς ἀντεβολησεν:</p>
             </div>
