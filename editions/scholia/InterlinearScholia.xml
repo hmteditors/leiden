@@ -13,6 +13,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <title>Iliad 13 Venetus A Interlinear Scholia</title>
         <author>Alex van Eldik</author>
         <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
         <author>Bart Bijvoets</author>
         <author>Bengt Rooijers</author>
         <author>Bob van Velthoven</author>
@@ -44,15 +45,125 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <group n="13">
       <text n="msAil">
         <body>
-          <div n="*****" type="scholion">
+          <div n="165r1" type="scholion">
             <div type="lemma">
-              <p>Lemma here</p>
+              <p></p>
             </div>
             <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.###</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.58</p>
             </div>
             <div type="comment">
-              <p>Text of scholion here</p>
+              <p>κεν</p>
+            </div>
+          </div>
+          <div n="165r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.59</p>
+            </div>
+            <div type="comment">
+              <p>σκήπτρω</p>
+            </div>
+          </div>
+          <div n="165r3" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.64</p>
+            </div>
+            <div type="comment">
+              <p>ἐστί</p>
+            </div>
+          </div>
+          <div n="165v1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.90</p>
+            </div>
+            <div type="comment">
+              <p>μετελθῶν παραγενόμενος ⁑</p>
+            </div>
+          </div>
+          <div n="166v1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.146</p>
+            </div>
+            <div type="comment">
+              <p>ἐνερίσας ⁑</p>
+            </div>
+          </div>
+          <div n="167r1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.109</p>
+            </div>
+            <div type="comment">
+              <p>έςτοχάζετο ⁑</p>
+            </div>
+          </div>
+          <div n="167v1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.186</p>
+            </div>
+            <div type="comment">
+              <p>παραγινόμενον ⁑</p>
+            </div>
+          </div>
+          <div n="168r1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.207</p>
+            </div>
+            <div type="comment">
+              <p>τοῦ <persName n="465">Ἀμφιμάχου</persName></p>
+            </div>
+          </div>
+          <div n="168r2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.211</p>
+            </div>
+            <div type="comment">
+              <p>τοῦ <persName n="89">Μαχάονος</persName></p>
+            </div>
+          </div>
+          <div n="168v1" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.237</p>
+            </div>
+            <div type="comment">
+              <p>αντὶ τοῦ <rs type="waw">ἐκπλήθους</rs></p>
+            </div>
+          </div>
+          <div n="168v2" type="scholion">
+            <div type="lemma">
+              <p></p>
+            </div>
+            <div type="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.252</p>
+            </div>
+            <div type="comment">
+              <p>λείπει <rs type="waw">χάριν</rs></p>
             </div>
           </div>
         </body>
