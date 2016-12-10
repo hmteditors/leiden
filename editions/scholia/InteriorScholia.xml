@@ -75,7 +75,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.6</p>
             </div>
             <div type="comment">
-              <p><persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς τοῦ <waw>τε</waw><cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expan>ανθρωπων</expan></choice></q></cit> ⁑</p>
+              <p><persName n="urn:cite:hmt:pers.pers14">Ἀρισταρχος</persName> χωρὶς τοῦ <rs type="waw">τε</rs><cit><ref>urn:cts:greekLit:tlg0012.tlg001:13.6</ref><q>δικαιοτάτων <choice><abbr>ανων</abbr><expan>ανθρωπων</expan></choice></q></cit> ⁑</p>
             </div>
           </div>
           <div n="164r4" type="scholion">
