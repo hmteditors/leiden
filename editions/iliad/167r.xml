@@ -46,6 +46,7 @@
 		</profileDesc>
 	</teiHeader>
   <text>
+  <!-- xml does not validate, but we cannot find the flaw -->
     <body xml:lang="grc">
     <div n="13">
            <l n="151">παρμένετ᾽· οὔ τοι δηρὸν ἐμὲ σχήσουσιν  <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs></l> 
@@ -68,9 +69,9 @@
             <l n="168">οἰσόμενος δόρυ μακρὸν, ὅ οἱ κλισίηφι, λέλειπτο·</l>
             <l n="169">οἳ δ᾽ ἄλλοι μάρναντο, βοὴ δ᾽ ἄσβεστος ὀρώρει·</l>
             <l n="170"><persName n="urn:cite:hmt:pers.pers243">Τεῦκρος</persName>δὲ πρῶτος <persName n="urn:cite:hmt:pers.pers243">Τελαμώνιος</persName>ἄνδρα κατέκτα</l>
-            <l n="171"><persName n="">Ἴ¨μβριον</persName>αἰχμητὴν. πολυΐππου <persName >Μέντορος</persName> υἱόν·</l>
+            <l n="171"><persName n="">Ἴ¨μβριον</persName>αἰχμητὴν. πολυΐππου <persName>Μέντορος</persName> υἱόν·</l>
             <l n="172">ναῖε δὲ <persName n="urn:cite:hmt:pers.pers242">Πήδαιον</persName> πρὶν ἐλθεῖν υἷας <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
-            <l n="173">κούρην δὲ <persName n="urn:cite:hmt:pers.pers145">Πριἀμοιο</persName> νόθην ἔχε, <persName>Μηδεσικάστην</persName>·</l>
+            <l n="173">κούρην δὲ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> νόθην ἔχε, <persName n="">Μηδεσικάστην</persName>·</l>
             <l n="174">αὐτὰρ ἐπεὶ <rs type="ethnic" n="urn:cite:hmt:place.place272">Δαναῶν</rs> νέες ἤλυθον ἀμφιέλισσαι.</l>
             <l n="175">ἂψ εἰς <placeName n="urn:cite:hmt:place.place6">Ί¨λιον</placeName> ἦλθε, μετέπρεπε δὲ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι·</rs></l>
             <l n="176">ναῖε δὲ παρ <persName n="urn:cite:hmt:pers.pers145">Πριάμῳ·</persName> ὁ δέ μιν τῖεν ῗσα τέκεσσι·</l>
