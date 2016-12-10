@@ -114,7 +114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>εὐθεράπευτοι εὐΐατοι αἱ γὰρ τῶν ἀγαθῶν φρένες ῥαδίως προς τὸ κρεῖττον μετατίθενται ευθεράπευτοι οὖσαι ῆ θεραπευτικαί</p>
             </div>
           </div>
-<!-- These are all of the scholia on the page. -->
+<!-- These are all of the scholia on the page. There is no tag for Kasios yet, issue filed -->
         </body>
       </text>
     </group>
