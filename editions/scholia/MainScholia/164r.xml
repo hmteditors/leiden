@@ -38,13 +38,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
           <div n="164r2" type="scholion">
             <div type="lemma">
-              <p>ἐπεὶ οὖν.</p>
+              <p>ἐπεὶ οὖν:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.1</p>
             </div>
             <div type="comment">
-              <p><q>ἐπειδή</q>, ὅσα δηλοῖ τὸ <rs type="waw">ἐπεί</rs> τὸ<rs type="waw">ὅτι</rs> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.115</ref><q>ἐπεὶ πολὺν ὤλεσα λαόν</q></cit>. καὶ <rs type="waw">ὅτε</rs> ὡς νῦν καὶ <rs type="waw">ἐπειδὴ</rs> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
+              <p><q>ἐπειδή</q>, ὅσα δηλοῖ τὸ <rs type="waw">ἐπεί</rs> τὸ <rs type="waw">ὅτι</rs> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.115</ref><q>ἐπεὶ πολὺν ὤλεσα λαόν</q></cit>. καὶ <rs type="waw">ὅτε</rs> ὡς νῦν καὶ <rs type="waw">ἐπειδὴ</rs> καὶ <rs type="waw">ἀφ οῦ</rs> ⁑</p>
             </div>
           </div>
           <div n="164r3" type="scholion">
@@ -60,7 +60,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
           <div n="164r4" type="scholion">
             <div type="lemma">
-              <p>καὶ ἀγαυῶν ἱππημολγῶν·</p>
+              <p>καὶ ἀγαυῶν <rs type="ethnic" n="urn:cite:hmt:place.place32">ἱππημολγῶν</rs>·</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.5</p>
@@ -103,9 +103,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
           <div n="164r8" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
+            
+              
+            
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.6</p>
             </div>
@@ -114,10 +114,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
           <div n="164r9" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
-            <div type="ref">
+           <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.6</p>
             </div>
             <div type="comment">
@@ -159,35 +156,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           </div>
           <div n="164r13" type="scholion">
             <div type="lemma">
-              <p>Αἰγας ἔνθα δέ οι κλυτὰ</p>
+              <p><placeName n="urn:cite:hmt:place.place278">αἰγας</placeName>ἔνθα δέ οι κλυτὰ</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.21</p>
             </div>
             <div type="comment">
-              <p>ὁτι κατὰ <rs type="ethnic" n="urn:cite:hmt:place.place207">τὰς Αιγὰς</rs> ἐν βυθῶι τὴν οἴκησιν "<persName n="urn:cite:hmt:pers.pers47">τοῦ Ποσειδῶν</persName> ὑποτίθεται ἀόρατον <choice><abbr>ἀνοις</abbr><expan>ἀνθρώποις</expan></choice> ὥσπερ ἐπι <placeName n="urn:cite:hmt:place.place45">τοῦ Ὀλύμπου</placeName> τῶν ἄλλων θεῶν μη ορομενῶν ⁑</p>
+              <p>ὁτι κατὰ <rs type="ethnic" n="urn:cite:hmt:place.place278">τὰς αιγὰς</rs> ἐν βυθῶι τὴν οἴκησιν "<persName n="urn:cite:hmt:pers.pers47">τοῦ Ποσειδῶν</persName> ὑποτίθεται ἀόρατον <choice><abbr>ἀνοις</abbr><expan>ἀνθρώποις</expan></choice> ὥσπερ ἐπι <placeName n="urn:cite:hmt:place.place45">τοῦ Ὀλύμπου</placeName> τῶν ἄλλων θεῶν μη ορομενῶν ⁑</p>
             </div>
           </div>
           <div n="164r14" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.13</p>
             </div>
             <div type="comment">
-              <p><rs type="ethnic" n="urn:cite:hmt:place.place207">Αἰγαί</rs> <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαΐας</rs> ἐν <placeName n="urn:cite:hmt:place.place36"><w>πελοποννη<unclear>σῶ</unclear></w> </placeName> ἔνθα τιμᾶται μὲν <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> ἄγεται δὲ καὶ <persName n="urn:cite:hmt:pers.pers59">Διονύσου</persName> ἑορτή. ἐν ῆι ἐπειδ’ ἄν ὁ χορὸς συστὰς τὰς τοῦ δαίμονος  τελετὰς ὀργιάζῃ θαυμάσιον ἐπιτελεῖσθαι φασὶν ἔργον ἄμπελοι γὰρ ἅς καλοῦσιν ἐφήμερους. ἀνισχούσης μὲν ἡμέρας καρπὸν βλαστάνουσιν ὥστε τρέποντας αὐτοὺς εἰς εσπέραν οῖνον ἄφθονον ἔχειν ἡ ἱστορια παρὰ <persName n="urn:cite:hmt:pers.pers354">Ευφορίωνι</persName> ⁑</p>
+              <p><rs type="ethnic" n="urn:cite:hmt:place.place278">αἰγαί</rs> <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαΐας</rs> ἐν <placeName n="urn:cite:hmt:place.place36"><w>πελοποννη<unclear>σῶ</unclear></w> </placeName> ἔνθα τιμᾶται μὲν <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> ἄγεται δὲ καὶ <persName n="urn:cite:hmt:pers.pers59">Διονύσου</persName> ἑορτή. ἐν ῆι ἐπειδ’ ἄν ὁ χορὸς συστὰς τὰς τοῦ δαίμονος  τελετὰς ὀργιάζῃ θαυμάσιον ἐπιτελεῖσθαι φασὶν ἔργον ἄμπελοι γὰρ ἅς καλοῦσιν ἐφήμερους. ἀνισχούσης μὲν ἡμέρας καρπὸν βλαστάνουσιν ὥστε τρέποντας αὐτοὺς εἰς εσπέραν οῖνον ἄφθονον ἔχειν ἡ ἱστορια παρὰ <persName n="urn:cite:hmt:pers.pers354">Ευφορίωνι</persName> ⁑</p>
             </div>
           </div>
           <div n="164r15" type="scholion">
             <div type="lemma">
-              <p></p>
+              <p>ἐζήτηται:</p>
             </div>
             <div type="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.21</p>
             </div>
             <div type="comment">
-              <p>ἐζήτηται: <choice><abbr>διτ</abbr><expan>διὰ τί</expan></choice> οὐκ ευθεία πορεύεται <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> εἰς <placeName n="urn:cite:hmt:place.place15">Τροίαν</placeName> ἀλλα τὸν χρόνον δαπανὰ πορευθείς <rs type="ethnic" n="urn:cite:hmt:place.place207">Αἰγας</rs>· καὶ ῥητέον ὅτι δυοῖν ἕνεκα πραγμάτων μεμηχάνηται αὐτῶι ἡ ἀποδημία, πρῶτον μὲν ἵνα αποπλανήσηι <persName n="urn:cite:hmt:pers.pers8">τὸν Δία</persName> ὡς ἀπολελοιπὼς τὸν πόλεμον. δεύτερον δὲ ἵνα καθοπλισθηῖ εἰς τὸν <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> πόλεμον ἐὰν ἄρα φωραθεὶς εἰς την <choice><sic>σύμμαχιαν</sic><corr>συμμαχίαν</corr> </choice> κινδυνεύη ‡</p>
+              <p><choice><abbr>διτ</abbr><expan>διὰ τί</expan></choice> οὐκ ευθεία πορεύεται <persName n="urn:cite:hmt:pers.pers47">ὁ Ποσειδῶν</persName> εἰς <placeName n="urn:cite:hmt:place.place15">Τροίαν</placeName> ἀλλα τὸν χρόνον δαπανὰ πορευθείς <rs type="ethnic" n="urn:cite:hmt:place.place207">Αἰγας</rs>· καὶ ῥητέον ὅτι δυοῖν ἕνεκα πραγμάτων μεμηχάνηται αὐτῶι ἡ ἀποδημία, πρῶτον μὲν ἵνα αποπλανήσηι <persName n="urn:cite:hmt:pers.pers8">τὸν Δία</persName> ὡς ἀπολελοιπὼς τὸν πόλεμον. δεύτερον δὲ ἵνα καθοπλισθηῖ εἰς τὸν <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> πόλεμον ἐὰν ἄρα φωραθεὶς εἰς την <choice><sic>σύμμαχιαν</sic><corr>συμμαχίαν</corr> </choice> κινδυνεύη ‡</p>
             </div>
           </div>
 <!-- finished!. -->
