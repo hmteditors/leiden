@@ -8,21 +8,36 @@
 				<author>Homer</author>
 				<sponsor>The Homer Multitext</sponsor>
 				<editor>C. Dué and Mary Ebbott, Editors in Chief</editor>
-				<editor>Alex van Eldik</editor>
-				<editor>Leonie Henkes</editor>
-			</titleStmt>
-			<publicationStmt>
-				<p>Unpublished version in progress</p>
-				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
-					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
-			</publicationStmt>
-			<sourceDesc>
-				<p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad,
-					Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile
-					prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
-					Marciana, M. Zorzi, Director.</p>
-			</sourceDesc>
-		</fileDesc>
+        <author>Alex van Eldik</author>
+        <author>Aniek Vink</author>
+        <author>Apostolia Alepidou</author>
+        <author>Bart Bijvoets</author>
+        <author>Bengt Rooijers</author>
+        <author>Bob van Velthoven</author>
+        <author>Elias Eells</author>
+        <author>Ineke Sluiter</author>
+        <author>Kirsten Haijes</author>
+        <author>Leanne Jansen</author>
+        <author>Leonie Henkes</author>
+        <author>Maike van Haeringen</author>
+        <author>Marloes Velthuisen</author>
+        <author>Nik Churik</author>
+        <author>Olivia Monster</author>
+        <author>Sjors Leek</author>
+        <author>Suzan Boreel</author>
+        <author>Suzanne Verkade</author>
+        <author>Tazuko van Berkel</author>
+        <author>Thom van Leuveren</author>
+        <author>Wieneke Jansen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+        <p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>A new, born-digital diplomatic edition of the Venetus A manuscript of the Iliad, Marcianus Graecus Z.454 (=822). Diplomatic edition based on a digital facsimile prepared by the Center for Hellenic Studies in collaboration with the Biblioteca Marciana, M. Zorzi, Director. Edited directly from photography of the manuscript.</p>
+      </sourceDesc>
+    </fileDesc>
 		<profileDesc>
 			<langUsage>
 				<language ident="grc">Greek, in pre-composed UTF-8</language>
@@ -38,18 +53,18 @@
 				<l n="2">τοὺς μὲν ἔα παρα τῇσι πόνον τ᾽ ἐχέμεν καὶ ὀϊζὺν</l>
 				<l n="3">νωλεμέως. αὐτὸς δὲ πάλιν τρέπεν ὄσσε φαεινὼ</l>
 				<l n="4">νόσφιν. ἐφ᾽ ἱπποπόλων <rs type="ethnic" n="urn:cite:hmt:place.place70">Θρῃκῶν</rs> καθ ὁρώμενος αἶαν.</l>
-				<l n="5"><rs type="ethnic" n="urn:cite:hmt:place.place20">Μυσῶν</rs> τ᾽ ἀγχεμάχων. καὶ ἀγαυῶν <rs type="ethnic" n="urn:cite:hmt:place.place32">ἱππημολγῶν</rs>.</l>
-				<l n="6"><choice><orig>γλακτοφάγων</orig><reg>γαλακτοφάγων</reg></choice> Ἀβίων τε. δικαιοτάτων ἀνθρώπων·</l>
+				<l n="5"><rs type="ethnic" n="urn:cite:hmt:place.place20">Μυσῶν</rs> τ᾽ ἀγχεμάχων. καὶ ἀγαυῶν ἱππημολγῶν.</l>
+				<l n="6"><choice><orig>γλακτοφάγων</orig><reg>γαλακτοφάγων</reg></choice> <rs type="ethnic" >Ἀβίων</rs> τε. δικαιοτάτων ἀνθρώπων·</l>
 				<l n="7">ἐς <placeName n="urn:cite:hmt:place.place15">Τροίην</placeName> δ᾽ οὐ πάμπαν ἔτι τρέπεν ὄσσε φαεινὼ.</l>
 				<l n="8">οὐ γὰρ ὅ γ᾽ ἀθανάτων τιν’ ἐέλπετο ὃν κατα θυμὸν.</l>
-				<l n="9">ἐλθόντ᾽. ἢ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσιν</rs> ἀρηξέμεν ἠ <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοῖσιν</rs>·</l>
+				<l n="9">ἐλθόντ᾽. ἢ <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσιν</rs> ἀρηξέμεν ἠ <rs type="ethnic" n="urn:cite:hmt:place.place96">Δαναοῖσιν</rs>·</l>
 				<l n="10">οὐδ᾽ ἀλαὸσ σκοπιὴν εἶχε κρείων ἐνοσίχθων.</l>
 				<l n="11">καὶ γὰρ ὃ θαυμάζων ἧστο πτόλεμόν τε μάχην τε</l>
-				<l n="12">ὑψοῦ ἐπ᾽ ἀκροτάτης κορυφῆς Σάμου ὑληέσσης</l>
-				<l n="13"><rs type="ethnic" n="urn:cite:hmt:place.place70">"Θρηϊκίης</rs>. ἔνθεν γὰρ ἐφαίνετο πᾶσα μὲν <placeName n="urn:cite:hmt:place.place89">Ἴδη</placeName>.</l>
+				<l n="12">ὑψοῦ ἐπ᾽ ἀκροτάτης κορυφῆς <rs type="ethnic" n="urn:cite:hmt:place.place446">Σάμου</rs> ὑληέσσης</l>
+				<l n="13"><rs type="ethnic" n="urn:cite:hmt:place.place446">Θρηϊκίης</rs>. ἔνθεν γὰρ ἐφαίνετο πᾶσα μὲν <placeName n="urn:cite:hmt:place.place89">Ἴδη</placeName>.</l>
 				<l n="14">φαίνετο δὲ <persName n="urn:cite:hmt:pers.pers145">Πριάμοιο</persName> πόλις. καὶ νῆες <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs>·</l>
 				<l n="15">ἐνθ᾽ ἄρ᾽ ὅ γ᾽ ἐξ ἁλὸς ἕζετ᾽ ῒων. ἐλέαιρε δ᾽ <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὺς</rs>.</l>
-				<l n="16"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶν</rs> δαμναμένους. <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> δὲ κρατερῶς ἐνεμέσσα.</l>
+				<l n="16"><rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωσὶν</rs> δαμναμένους. <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName> δὲ κρατερῶς ἐνεμέσσα.</l>
 				<l n="17">ἀυτίκα δ᾽ ἐξ ὄρεος <choice><orig>κατεβήσετο</orig><reg>κατεβήσατο</reg></choice> παιπαλόεντος. </l>
 				<l n="18">κραιπνὰ ποσὶ προβιβὰς. τρέμε δ᾽ ὀύρεα μακρὰ καὶ ὕλη</l>
 				<l n="19">ποσσὶν ὑπ᾽ ἀθανάτοισι <persName n="urn:cite:hmt:pers.pers47">Ποσιδάωνος</persName> ἰ̈όντος.</l>
