@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.51</p>
             </div>
             <div type="comment">
-              <p>persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> <rs type="waw">σχήσουσιν</rs> ὁμόιως τῷ <cit><q>γὰρ μενέτ' οὔτοι δηρον ἐμὲ σχήσουσιν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοί</rs></q><ref>N.151</ref></cit></p>
+              <p><persName n="urn:cite:hmt:pers.pers21">Ἀριστοφάνης</persName> <rs type="waw">σχήσουσιν</rs> ὁμόιως τῷ <cit><q>γὰρ μενέτ' οὔτοι δηρον ἐμὲ σχήσουσιν <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοί</rs></q><ref>N.151</ref></cit></p>
             </div>
           </div>
           <div n="165r2" type="scholion">
@@ -90,18 +90,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὅτι ἐλλείπει ἡ διὰ δια πεδίου·καὶ τὸ ἄλλο δοκεῖ συγκεχυκέναι ἐπι του δευτέρου εἰ μὴ ἄρα τὸ ἄλλο ἐπὶ του ἀλοιογενοῦς ἀκουσόμεθα</p>
             </div>
           </div>
-          <div n="165r7" type="scholion">
-            <div type="lemma">
-              <p></p>
-            </div>
-            <div type="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.</p>
-            </div>
-            <div type="comment">
-              <p></p>
-            </div>
-          </div>
-          <div n="165r8" type="scholion">
+           <div n="165r7" type="scholion">
             <div type="lemma">
               <p>τοῖϊν δ'ἔγνω πρόσθεν</p>
             </div>
@@ -112,7 +101,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>προς τὸ δοϊκὸν σχῆμα· ἡ δε ἀναφορᾶ προς τὰ περι τῶν σειρήνων νησων σειρήωοιϊν ὅτι ὁ λόγος ὡς περι δύο</p>
             </div>
           </div>
-          <div n="165r9" type="scholion">
+          <div n="165r8" type="scholion">
             <div type="lemma">
               <p><persName n="urn:cite:hmt:pers.pers150">ὀϊλῆος</persName> ταχὺς <persName n="urn:cite:hmt:pers.pers281">αἴας</persName></p>
             </div>
@@ -123,7 +112,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p><persName n="urn:cite:hmt:pers.pers281">αἴας</persName> <placeName n="urn:cite:hmt:place.place95">λοκρος</placeName> μὲν ἦν τὸ γενος ἀπο πόλιος πατρος δὲ <persName n="urn:cite:hmt:pers.pers150">ὀϊλεώς</persName>. οὗτος μετα τὴν <placeName n="urn:cite:hmt:place.place15">ἰλιου</placeName> πόρθησιν ἀίτιος τοις <rs type= "ethnic" n="urn:cite:hmt:place.place3">ἕλλησιν</rs> ἀπωλειας ἐγίνετο· <persName n="urn:cite:hmt:pers.pers673">Κασάνδραν</persName> γαρ την <persName n="urn:cite:hmt:pers.pers145">πριάμου</persName> ϊκετίν οὖσαν <persName n="urn:cite:hmt:pers.pers67">ἀθηνᾶς</persName> ἐν τῳ της θεου σηκῶ κατηίσχυνεν ὥστε την θεον τοὺς ὀφθαλμοὺς του ξοάνου εἰς την οροφην τρέψαι τοῖς δὲ <rs type= "ethnic" n="urn:cite:hmt:place.place3">ἕλλησιν</rs> ὑποστρέφουσι καὶ κατα την <placeName n="urn:cite:hmt:place.place100">ευβοιαν</placeName> γινομένους χειμῶνας διεγείραι μεγάλους ὥστε πολλοὺς αὐτῶν διαφθαρῆναι διανηξάμενος δὲ  <persName n="urn:cite:hmt:pers.pers281">αἴας</persName> εἰς τὰς χοιραδας καλουμενας πἐτρας ἔλεγεν χωρὶς θεῶν γνώμης διασεσῶσθαι· <persName n="urn:cite:hmt:pers.pers47">ποσειδῶν</persName> δὲ ἀγανακτήσας δίεσχισε την πετραν καὶ τον <persName n="urn:cite:hmt:pers.pers281">ἀιαντα</persName> τῳ κλύδωνι παρέδωκεν· ἐκριφεντα δὲ αὐτον κάτα <placeName n="urn:cite:hmt:place.place9">δηλον</placeName> νεκρον <persName n="urn:cite:hmt:pers.pers19">θετίς</persName> ἐλεήσασα θάπτει· <persName n="urn:cite:hmt:pers.pers67">ἀθηνα</persName> δὲ οὐδ' οὔτως της οργης ἐπαύσατο - ἀλλα καὶ τοὺς <rs type="ethnic" n="urn:cite:hmt:place.place95">λοκροὺς</rs> ἠνάγκασεν ἐπι χίλια ἔτη εἰς <placeName n="urn:cite:hmt:place.place15">ἰλιον</placeName> ἐκ κλήρου παρθένους πέμπει ἡ ἱστορια παρα <persName n="urn:cite:hmt:pers.pers86">καλλιμαχῳ</persName>· ἐν α̅ αἰτίων καὶ παρα τῷ ποιητῃ ἐν τῇ δ̅ της <choice><abbr>Οδ</abbr><expan>Οδυσειας</expan></choice> παχυμερῶς</p>
             </div>
           </div>
-          <div n="165r10" type="scholion">
+          <div n="165r9" type="scholion">
             <div type="lemma">
               <p><persName n="urn:cite:hmt:pers.pers127">ἀίαν</persName>ἐπεί τις νῶϊ θεῶν</p>
             </div>
@@ -134,7 +123,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>τὸ ἑξης ἐστιν. ἐπεί τις θεῶν κέλεται μάχεσθαι, <cit><q>καί δ'ἐμοὶ αὐτῷ</q><ref>N.73</ref></cit> τὰ δέ λοιπα ὡς δια μέσου λεγόμενα διορθωτεὸν. ἡ διπλῇ ὅτι ἀναλογως ἐκφέρει τὰ τοιαῦτα ὁ ποιητης καὶ οὐδε ὄντως <persName n="urn:cite:hmt:pers.pers15">ὁ Ζηνόδοτος</persName> ἔγραφεν <cit><q>ᾧ τε αὖ <persName n="urn:cite:hmt:pers.pers74">κάλχα </persName></q><ref>A.86</ref></cit> χωρὶς <rs type="waw">τοῦ ν</rs></p>
             </div>
           </div>
-          <div n="165r11" type="scholion">
+          <div n="165r10" type="scholion">
             <div type="lemma">
               <p>ἴχνια</p>
             </div>
@@ -145,7 +134,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>τὸ ἴχνιον προπαροξυτομητέον ὁμοιως τῷ ἀραχνιον οὐ γάρ ἐστιν ὑποκοριστικον ἀλλ΄ απο ῥήματος ἐσχημάτισται. ὅτι δὲ ὁ ποιητης οὐδε ὑποκοριστικοῖς χρῆται ἐδηλώσαμεν ἐν τῇ <q>Α</q></p>
             </div>
           </div>
-          <div n="165r12" type="scholion">
+          <div n="165r11" type="scholion">
             <div type="lemma">
               <p>ἴχνια</p>
             </div>
@@ -156,7 +145,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὁμοιοτόνως τῷ παίγνια. καὶ γὰρ ὁ μεν παρα τον ἴξω μέλλοντα ἔλαβε τὸν σχηματισμὸν, ὁ δὲ παρα τὸν παίξω· τὸ γὰρ ἀπο μακρᾶς ἀρχόμενα ἔχει παροξυτομενα τὰ ὑποκοριστικα οὐδέτερα <rs type="waw">τυρός τυρίον χρυσός χρυσίον έρκος ερκιον, τειχος τειχιον τά δ΄ἀπο βραχεἰας οὐκέτι </rs> <rs type="waw">φακὸς φάκιον. λαγος λαγιον, ῥάκος ῥάκιον, νάκος νάκιον</rs>· τὸ δέ <rs type="waw">ἴχνια</rs> ὡς συμφωνον ὑγρῷ συνεζευγμένον οὐ ποιεῖ μακρὰν τὴν προ αυτοῦ.</p>
             </div>
           </div>
-          <div n="165r13" type="scholion">
+          <div n="165r12" type="scholion">
             <div type="lemma">
               <p>οἰωνιστής</p>
             </div>
@@ -167,7 +156,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>οἰωνοσκόπος, πῶς δέ φησιν ὁ <persName n="urn:cite:hmt:pers.pers47">ποσειδὼν</persName> οὐκ έλαθε τὸν <persName n="urn:cite:hmt:pers.pers127">αἴαντα</persName>· καὶ ῥητέον ὅτι φαντασίαν τινὰ παρέχει τὸ θεῖον ἐαυτοῦ</p>
             </div>
           </div>
-<!-- This is a comment. Please but this line at the point where you stopped your session, so a different team could continue next time where you left off. If you have finished all scholia on a folio, please state so here in this comment line. Thank you. -->
+<!-- Finished -->
         </body>
       </text>
     </group>
