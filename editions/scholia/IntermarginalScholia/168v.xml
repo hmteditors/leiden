@@ -35,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> <q>συμφερτὴ δὲ βίη</q> ⁑</p>
             </div>
           </div>
-		  <div n="168v2" type="scholion">
+          <div n="168v2" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -46,7 +46,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p><persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> καὶ <persName n="urn:cite:hmt:pers.pers21">Ἀριστοφανής</persName> <q>ἐνιστήθεσσι</q> ⁑</p>
             </div>
           </div>
-		  <div n="168v3" type="scholion">
+          <div n="168v3" type="scholion">
             <div type="lemma">
               <p></p>
             </div>

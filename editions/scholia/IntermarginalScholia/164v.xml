@@ -35,7 +35,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>εν αλλῳ ὑπαυτῶ</p>
             </div>
           </div>
-		  <div n="164v2" type="scholion">
+          <div n="164v2" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -46,7 +46,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p><persName n="urn:cite:hmt:pers.pers16"><choice><abbr>Αρίσ</abbr><expan>Αρίσταρχος</expan></choice></persName> ἡ γνοίησαν ἄλλοι δέ ἡ γνοίησεν⁑</p>
             </div>
           </div>
-		  <div n="164v3" type="scholion">
+          <div n="164v3" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -57,7 +57,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>ὄτι <choice><abbr>χω</abbr><expan>χωρὶς</expan></choice> τοῦ <rs type="waw">ι</rs> γραπτέον τὸ γηθοσύνη <choice><abbr>εσ</abbr><expan>ἔστι</expan></choice> γαρ <choice><abbr>αρ</abbr><expan>ἀρσενικὸν</expan></choice> γηθόσυνοςψ</p>
             </div>
           </div>
-		  <div n="164v4" type="scholion">
+          <div n="164v4" type="scholion">
             <div type="lemma">
               <p></p>
             </div>
@@ -69,7 +69,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
 <!-- Finished: four intermarginals on this folio. -->
-		  </body>
+		    </body>
       </text>
     </group>
   </text>
