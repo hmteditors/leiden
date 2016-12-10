@@ -43,7 +43,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.88</p>
             </div>
             <div type="comment">
-              <p>ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθ' <persName n="urn:cite:hmt:pers.pers17">ὅμηρον</persName> ὑπο ταῖς ὀφρύσι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.236</ref><q>κοίμησόν μοι</q></cit> <persName n="urn:cite:hmt:pers.pers8">ζηνὸς</persName> ὑπ οφρύσιν ὅσσε φαεινῷ. δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον ⁑</p>
+              <p>ἐστέναζον ἐδάκρυον οἱ γὰρ ὀφθαλμοὶ καθ' <persName n="urn:cite:hmt:pers.pers17">ὅμηρον</persName> ὑπο ταῖς ὀφρύσι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.236</ref><q>κοίμησόν μοι <persName n="urn:cite:hmt:pers.pers8">ζηνὸς</persName> ὑπ οφρύσιν ὅσσε φαεινῷ</q></cit>, δια δὲ τούτων ἐδάκρυον ἕτεροι δὲ ἤκουσαν λεληθότως ἔκλαιον ⁑</p>
             </div>
           </div>
           <div n="165v3" type="scholion">
@@ -54,7 +54,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.96</p>
             </div>
             <div type="comment">
-              <p>ἡμετέρας. τὸ <rs type="waw">ἀμάς</rs> ἐκτείνεται κατα τὸ τέλος καίτοι <rs type="ethnic" n="urn:cite:hmt:place.place78"> Δόριον</rs> ἔχον τὴν προ τέλούς συλλαβὴν ἐπεὶ ἑνικῷ παράκειται τῷ δια τοῦ <rs type="waw">η</rs> ληγομένῳ, <rs type="waw">ἀμήν</rs>· ὅπερ ὁλόκληρον ἂν ἦν <rs type="ethnic" n="urn:cite:hmt:place.place78">Δορικόν</rs> εἴπερ εἰς ἂν κατέληγεν ⁑</p>
+              <p>ἡμετέρας, τὸ <rs type="waw">ἀμάς</rs> ἐκτείνεται κατα τὸ τέλος καίτοι <rs type="ethnic" n="urn:cite:hmt:place.place78">Δόριον</rs> ἔχον τὴν προ τέλούς συλλαβὴν ἐπεὶ ἑνικῷ παράκειται τῷ δια τοῦ <rs type="waw">η</rs> ληγομένῳ, <rs type="waw">ἀμήν</rs>· ὅπερ ὁλόκληρον ἂν ἦν <rs type="ethnic" n="urn:cite:hmt:place.place78">Δορικὸν</rs> εἴπερ εἰς ἂν κατέληγεν ⁑</p>
             </div>
           </div>
           <div n="165v4" type="scholion">
