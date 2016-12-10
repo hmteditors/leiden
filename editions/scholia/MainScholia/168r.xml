@@ -32,7 +32,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.212</p>
             </div>
             <div type="comment">
-              <p>ι¨ωνικὼς μετέβαλε τὸν τόνον ἐπεὶ τὸ ἀκόλουθον ἰγνύα ἔστιν ὡς <persName n="urn:cite:hmt:pers.pers493">ἡρωιδιανος</persName> ἐν τῶι <num value="11">ια</num> τῆς καθόλου ⁑</p>
+              <p>ϊωνικὼς μετέβαλε τὸν τόνον ἐπεὶ τὸ ἀκόλουθον ἰγνύα ἔστιν ὡς <persName n="urn:cite:hmt:pers.pers493">ἡρωιδιανος</persName> ἐν τῶι <num value="11">ια</num> τῆς καθόλου ⁑</p>
             </div>
           </div>
           <div n="168r2" type="scholion">
@@ -43,11 +43,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.218</p>
             </div>
             <div type="comment">
-              <p><rs type="ethnic" n="urn:cite:htm:place.place126">αἱτωλὸς</rs>  παῖς μὲν ἤν <persName n="urn:cite:hmt:pers.pers644">ἐνδυμίωνος</persName> 
-ὃς ἀκούσιον φόνον δράσας ἔφυγεν εἰς τὴν ἀπ αυτοῦ προσαγορευθεῖσαν <placeName n="urn:cite:hmt:place.place126">αἰτωλίαν</placeName> κακεῖ τεκνοῦται 
-<placeName n="urn:cite:hmt:place.place282">πλευρῶνα</placeName> ἀφ οῦ ἡ ἐν 
-<placeName n="urn:cite:hmt:place.place126">αιτωλίαι</placeName> πόλις <placeName n="urn:cite:hmt:place.place282">πλευρὼν</placeName> ἐκλήθη τούτου δὲ
- γίγνονται δύο παῖδες ἀφ ὦν ἄλλαι δύο πόλεις ἐν <placeName n="urn:cite:hmt:place.place126">αιτωλίαι</placeName> προσηγορευθησαν ⁑</p>
+              <p><rs type="ethnic" n="urn:cite:htm:place.place126">αἱτωλὸς</rs>  παῖς μὲν ἤν <persName n="urn:cite:hmt:pers.pers644">ἐνδυμίωνος</persName> ὃς ἀκούσιον φόνον δράσας ἔφυγεν εἰς τὴν ἀπ αυτοῦ προσαγορευθεῖσαν <placeName n="urn:cite:hmt:place.place126">αἰτωλίαν</placeName> κακεῖ τεκνοῦται <placeName n="urn:cite:hmt:place.place282">πλευρῶνα</placeName> ἀφ οῦ ἡ ἐν <placeName n="urn:cite:hmt:place.place126">αιτωλίαι</placeName> πόλις <placeName n="urn:cite:hmt:place.place282">πλευρὼν</placeName> ἐκλήθη τούτου δὲ γίγνονται δύο παῖδες ἀφ ὦν ἄλλαι δύο πόλεις ἐν <placeName n="urn:cite:hmt:place.place126">αιτωλίαι</placeName> προσηγορευθησαν ⁑</p>
             </div>
           </div>
           <div n="168r3" type="scholion">
