@@ -7,7 +7,7 @@ README.md
 
 Editing HMT material at Leiden University
 
-*Iliad* 13 in the Venetus A: folios 164 recto - 169 recto (inclusive)
+**Finished:** *Iliad* 13 in the Venetus A: folios 164 recto - 169 recto (inclusive)
 
 ##Table of contents
 
